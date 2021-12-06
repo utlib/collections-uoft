@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+    <titleInfo>
+        <title>Title</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+        <title>Title_Alternative</title>
+    </titleInfo>
+    <titleInfo type="translated">
+        <title>Title_Translated</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+        <title>Title_Uniform</title>
+    </titleInfo>
+    <part>
+        <detail type="volume">
+            <number>Volume</number>
+        </detail>
+        <detail type="issue">
+            <number>Issue</number>
+        </detail>
+        <extent unit="pages">
+            <start>Pages</start>
+            <end>Pages</end>
+        </extent>
+    </part>
+    <name>
+        <namePart>Creator_Contributor</namePart>
+        <nameIdentifier type="viaf">VIAF_Name_Identifier</nameIdentifier>
+    </name>
+    <name>
+        <namePart>Author</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator">author</roleTerm>
+            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>Contributor</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator">contributor</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>Type_Of_Resource</typeOfResource><!-- when converting from MARC, remove manuscript="yes" attribute -->
+    <targetAudience>Target_Audience</targetAudience>
+    <genre>Genre</genre><!-- for the <genre> tag, when converting from MARC, please delete any period that completes the term in this tag. For example, .</genre> should become </genre> -->
+    <originInfo>
+        <publisher>Publisher</publisher>
+        <place>
+            <placeTerm type="code" authority="marccountry">PlaceTerm_Code</placeTerm>
+            <placeTerm type="text">PlaceTerm_Text</placeTerm>
+        </place>
+        <dateIssued>Date_Full</dateIssued>
+        <dateIssued encoding="marc" point="start">Date_Start</dateIssued>
+        <dateIssued encoding="marc" point="end">Date_End</dateIssued>   
+        <dateOther>Date_Facet</dateOther><!-- for the <dateOther> tag, when converting from MARC, you will likely need to manually enter the dateOther tag. This field is used to record the decade of the date for simple facets by either a) decade - i.e. 1900s, 1910s, 1950s - or b)
+century - i.e. 15th century, 13th century, 20th century. Use decades unless collection/object spans over 4 decades. For objects that fall within a range of dates, add multiple decades or centuries. -->
+        <issuance>Issuance</issuance><!-- this tag is used by Fisher MARC records -->
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">Language_Text</languageTerm>
+        <languageTerm authority="iso639-2b" type="code">Language_Code</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">Form_MARCform</form>
+      <form authority="gmd">Form_GMD</form>
+      <form>Paleography_Form</form>
+      <form type="material">Paleography_Material</form>
+      <extent>Extent</extent>
+      <note type="script" displayLabel="Script">Paleography_Script</note>
+      <note type="marks" displayLabel="Marginalia">Paleography_Marginalia</note>
+      <note type="technique" displayLabel="Decoration">Paleography_Decoration</note>
+      <note type="note" displayLabel="Note">Physical_Description_Note</note>
+    </physicalDescription>
+    <abstract>Description</abstract>
+    <tableOfContents>Table_Of_Contents</tableOfContents>
+    <location>
+        <physicalLocation>Holding_Institution</physicalLocation><!-- for the <physicalLocation> tag, when converting from MARC, you will need to manually enter the Holding Institution. Refer to existing library names in other metadata files so you are consistent. -->
+        <url displayLabel="Catalog Record">URL_Catkey</url><!-- when converting from MARC, you will need to manually enter the Catalog Record URL if the record has one. As of May, 2021 we will keep Sirsi permalinks as is for legacy purposes but always add Alma Record Permalinks going forward. -->
+        <url displayLabel="Alma Record">Alma_Record</url><!-- when converting from MARC, you will need to manually enter the Alma Record's Permalink URL. -->
+        <url usage="primary display" access="object in context">URL_Permalink</url><!-- when converting from MARC, you will need to manually enter the URL Permalink. The format is always https://collections.library.utoronto.ca/view/PID - where PID is the value within the <identifier type="local">PID</identifier> tag. -->
+    </location>
+    <identifier type="local">PID</identifier><!-- when converting from MARC, you will need to manually enter the PID and most other identifier tags. -->
+    <identifier type="callnumber">Call_Number</identifier>
+    <identifier type="fisher_f_number">Fisher_F_Number</identifier>
+    <identifier type="usmc_pid">USMC_PID</identifier>
+    <identifier type="utarms_display" displayLabel="digital item no">utarms_digital_object_id</identifier>
+    <identifier type="utarms" displayLabel="original identifier">utarms_original_item_no</identifier>
+    <identifier type="paleography_id">Paleography_ID</identifier>
+    <subject>
+        <topic>Subject_Topic</topic>
+    </subject>
+    <subject>
+        <geographic>Subject_Geographic</geographic>
+    </subject>
+    <subject>
+        <temporal>Subject_Temporal</temporal>
+    </subject>
+    <subject>
+        <genre>Subject_Genre</genre>
+    </subject>
+    <subject>
+        <cartographics>
+            <coordinates>Coordinates</coordinates>
+            <scale>Scale</scale>
+            <projection>Projection</projection>
+        </cartographics>
+    </subject>
+    <note>Note</note>
+    <note type="statement of responsibility">Statement_Of_Responsibility</note>
+    <note type="Publication Note">Publication_Note</note>
+    <note type="Related Materials">Related_Materials</note>
+    <note type="ownership" displayLabel="Provenance">Provenance</note>
+    <note type="admin" displayLabel="Catalog Record">Paleography_Catalog_Link</note>
+    <note type="admin" displayLabel="Transcription">Paleography_Transcription</note>
+    <note type="admin" displayLabel="Background Essay">Paleography_Background_Essay</note>
+    <relatedItem type="host" displayLabel="Part Of"><!-- no need to add unless item is part of bigger archival collection; commonly used for linking to archival collections or fonds in Discover Archives -->
+        <titleInfo>
+            <title>Part_Of</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="series"><!-- no need to add unless specified by collection owner/archives -->
+        <titleInfo>
+            <title>Part_Of_Series</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Part_Of_Constituent</title>
+        </titleInfo>
+    </relatedItem>
+    <accessCondition type="use and reproduction">Rights_Note</accessCondition>
+    <accessCondition type="restriction on access">Rights_Facet</accessCondition>
+    <accessCondition type="credit">Credit</accessCondition>
+    <!-- delete comments from file before submitting to Collections U of T -->
+</mods>
