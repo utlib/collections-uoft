@@ -42,7 +42,7 @@
             <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
         </role>
     </name>
-    <typeOfResource>Type_Of_Resource</typeOfResource><!-- when converting from MARC, remove manuscript="yes" attribute -->
+    <typeOfResource>Type_Of_Resource</typeOfResource><!-- Use only terms from https://id.loc.gov/vocabulary/resourceTypes.html ; when converting from MARC, remove manuscript="yes" attribute -->
     <targetAudience>Target_Audience</targetAudience>
     <genre>Genre</genre><!-- for the <genre> tag, when converting from MARC, please delete any period that completes the term in this tag. For example, .</genre> should become </genre> -->
     <originInfo>
