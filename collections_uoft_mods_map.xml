@@ -4,10 +4,10 @@
         <title>Title</title>
     </titleInfo>
     <titleInfo type="alternative">
-        <title>Title_Alternative</title>
+        <title>Title_Alternative</title><!-- For titles with multiple languages in different character sets, use the Title_Alternative tag for the romanized titles in the ASCII character set and use Title_Translated for other translations. We keep a separate tag for romanized titles for legacy indexing and display reasons. For an example, see the rclc-hkl:xhrb collection -->
     </titleInfo>
     <titleInfo type="translated">
-        <title>Title_Translated</title>
+        <title>Title_Translated</title><!-- Use for any translated titles. For titles with multiple languages in different character sets, use the Title_Alternative tag for the romanized titles in the ASCII character set, and use Title_Translated for other translations. We keep a separate tag for romanized titles for legacy indexing and display reasons. For an example, see the rclc-hkl:xhrb collection -->
     </titleInfo>
     <titleInfo type="uniform">
         <title>Title_Uniform</title>
