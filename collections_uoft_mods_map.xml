@@ -59,8 +59,8 @@ century - i.e. 15th century, 13th century, 20th century. Use decades unless coll
         <issuance>Issuance</issuance><!-- this tag is used by Fisher MARC records -->
     </originInfo>
     <language>
-        <languageTerm authority="iso639-2b" type="text">Language_Text</languageTerm>
-        <languageTerm authority="iso639-2b" type="code">Language_Code</languageTerm>
+        <languageTerm authority="iso639-2b" type="text">Language_Text</languageTerm><!-- Use the English name of language term from https://www.loc.gov/standards/iso639-2/php/code_list.php -->
+        <languageTerm authority="iso639-2b" type="code">Language_Code</languageTerm><!-- Use the 3 letter ISO 639-2 code from https://www.loc.gov/standards/iso639-2/php/code_list.php -->
     </language>
     <physicalDescription>
       <form authority="marcform">Form_MARCform</form>
