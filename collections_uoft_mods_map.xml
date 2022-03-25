@@ -49,7 +49,7 @@
         <publisher>Publisher</publisher>
         <place>
             <placeTerm type="code" authority="marccountry">PlaceTerm_Code</placeTerm>
-            <placeTerm type="text">PlaceTerm_Text</placeTerm>
+            <placeTerm type="text">PlaceTerm_Text</placeTerm><!-- if converting from MARC and there is a marccountry code field, add a placeTerm type="text" tag. Find the correct value from the marccountry list at https://www.loc.gov/marc/countries/countries_code.html -->
         </place>
         <dateIssued>Date_Full</dateIssued>
         <dateIssued encoding="marc" point="start">Date_Start</dateIssued>
