@@ -129,6 +129,9 @@ century - i.e. 15th century, 13th century, 20th century. Use decades unless coll
         <titleInfo>
             <title>Part_Of_Constituent</title>
         </titleInfo>
+        <name>
+        <namePart>Part_Of_Constituent_Creator</namePart>
+    </name>
     </relatedItem>
     <accessCondition type="use and reproduction">Rights_Note</accessCondition>
     <accessCondition type="restriction on access">Rights_Facet</accessCondition>
