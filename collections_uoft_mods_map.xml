@@ -57,6 +57,7 @@
         <dateOther>Date_Facet</dateOther><!-- for the <dateOther> tag, when converting from MARC, you will likely need to manually enter the dateOther tag. This field is used to record the decade of the date for simple facets by either a) decade - i.e. 1900s, 1910s, 1950s - or b)
 century - i.e. 15th century, 13th century, 20th century. Use decades unless collection/object spans over 4 decades. For objects that fall within a range of dates, add multiple decades or centuries. -->
         <issuance>Issuance</issuance><!-- this tag is used by Fisher MARC records -->
+        <edition>Edition</edition><!-- this tag is used by Fisher MARC records -->
     </originInfo>
     <language>
         <languageTerm authority="iso639-2b" type="text">Language_Text</languageTerm><!-- Use the English name of language term from https://www.loc.gov/standards/iso639-2/php/code_list.php -->
