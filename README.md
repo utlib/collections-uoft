@@ -18,6 +18,15 @@ Collections U of T is not:
 * A digital preservation service
 * Open to anyone - digital collections must be assessed prior to inclusion (they are assessed for privacy, copyright, staffing capacity to support ingest, etc.) 
 
-## [MODS Template](collections_uoft_mods_map.xml)
+## Data Model
+
+Available upon request.
+
+## Descriptive Metadata Standards
+Historically, Collections U of T used [MODS](https://www.loc.gov/standards/mods/userguide/generalapp.html)-based descriptive metadata formatted as spreadsheets and then converted to xml, or MARC to MODS xml via [MarcEdit](https://marcedit.reeset.net/). Descriptive metadata is also converted to JSON in Collections U of T IIIF manifests for display purposes. 
+
+Collections U of T metadata can be mapped to the following standards:
+
+* [MODS Template](collections_uoft_mods_map.xml)
 
 ## [Changelog](CHANGELOG.md)
