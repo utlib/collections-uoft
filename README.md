@@ -4,7 +4,7 @@ This Github repository contains public Collections U of T metadata templates and
 
 [Collections U of T](https://collections.library.utoronto.ca) is the  University of Toronto Libraries' repository for digitized special collections and archives. Collections U of T delivers image collections through the [International Image Interoperability Framework (IIIF)](https://iiif.io/) and standard metadata formats.
 
-Collections U of T provides service users:
+Collections U of T provides U of T staff:
 
 1. Collection management and digital object storage for university special collections and archives image collections
 2. Indexing for digital object metadata
