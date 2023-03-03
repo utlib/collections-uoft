@@ -26,6 +26,12 @@ UTL staff can request a consultation for Collections U of T support at [digitali
 
 Researchers, students, and faculty can read documentation provided to learn how to use the system. Please send any questions or feedback to [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca).
 
+## What is Collections U of T IIIF?
+
+IIIF (International Image Interoperability Framework) is a set of APIs and related tools created by an international community of leading cultural institutions. The IIIF community has created documentation to help you learn how to use the IIIF APIs, how to use the IIIF Mirador viewer, and how to find other IIIF digitized collections from cultural heritage institutions across the globe. Below you will find additional IIIF documentation specific to Collections U of T and the University of Toronto's IIIF digital collections.
+
+Read more at the About IIIF page.
+
 ## Metadata and Data Model
 
 The Collections U of T data model is available upon request.
@@ -38,5 +44,15 @@ Collections U of T metadata can be mapped to the following standards:
 * [MODS Template](collections_uoft_mods_map.xml)
 
 ## Metadata Templates
+
+## Other Services
+
+Collections U of T is just one of the many services offered by the University of Toronto Libraries. Here are some other services that might be helpful in your work or research:
+* [Discover Archives](https://discoverarchives.library.utoronto.ca/)
+* [Exhibits U of T](https://exhibits.library.utoronto.ca/)
+* [TSpace](https://tspace.library.utoronto.ca/?refresh=true)
+* [Find out more about the University of Toronto Libraries](https://onesearch.library.utoronto.ca/)
+
+
 
 ## [Changelog](CHANGELOG.md)
