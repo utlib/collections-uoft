@@ -1,6 +1,6 @@
 # Collections U Of T
 
-Internal, draft space for documentation intended for public access for end users, collection owners, and external community members interested in or involved in Collections U of T.
+This documentation is intended for collection owners, end users, and open technology community members interested in Collections U of T.
 
 [Collections U of T](https://collections.library.utoronto.ca) is the  University of Toronto Libraries' repository for digitized special collections and archives. It provides open access to these digital collections through the [International Image Interoperability Framework (IIIF)](https://iiif.io/) and standard metadata formats.
 
@@ -16,7 +16,7 @@ Collections U of T is not:
 * A digitization service
 * A digital exhibit service
 * A digital preservation service
-* Open to anyone - digital collections must be *assessed* prior to inclusion (they must belong to a UTL department or archives and be assessed by the collection owner for privacy, copyright, staffing capacity to support ingest, etc.) 
+* Open to anyone - digital collections must be *assessed* prior to inclusion. Because the service is intended for providing long term discovery and display of access copies of digital collections, the digital objects must belong to a UTL department or archives and be assessed by a UTL staff collection owner prior to inclusion. UTL collection owners are responsible for assessing digital objects for accessibility, privacy and copyright considerations, as well as staffing capacity to support the care and maintenance of the digital collection over time. 
 
 ## Metadata and Data Model
 
