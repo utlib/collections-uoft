@@ -39,11 +39,15 @@ The Collections U of T data model is available upon request.
 ## Descriptive Metadata Standards
 Historically, Collections U of T used [MODS](https://www.loc.gov/standards/mods/userguide/generalapp.html)-based descriptive metadata formatted as spreadsheets and then converted to xml, or MARC to MODS xml via [MarcEdit](https://marcedit.reeset.net/). Descriptive metadata is also converted to JSON in Collections U of T IIIF manifests for display purposes. 
 
-Collections U of T metadata can be mapped to the following standards:
-
-* [MODS Template](collections_uoft_mods_map.xml)
+For help with Collections U of T metadata, read the Collections U of T Metadata Instructions page. 
 
 ## Metadata Templates
+
+* [Collections U of T metadata spreadsheet template - all fields](https://docs.google.com/spreadsheets/d/1PMtZt5CzkidIXbTBUaoi8Qg7kBU-m9RzeM-lBMORPks/edit?usp=sharing)
+* [Collections U of T Metadata Profile - Element Details](https://docs.google.com/spreadsheets/d/1EidYREGS521xZKoxBN3Fl-PzkJnNJAR_zftuXXwQsZg/edit?usp=sharing)
+* Collections U of T metadata mapping:
+**[MODS xml mapping](collections_uoft_mods_map.xml)
+** Wikidata properties
 
 ## Other Services
 
