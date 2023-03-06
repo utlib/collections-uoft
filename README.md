@@ -5,6 +5,13 @@ This documentation is intended for collection owners, end users, and open techno
 
 As of March 2023 this documentation status is *draft* and has not been approved by UTL Senior Staff.
 
+'''
+└─ root
+    |
+    |- docs -> click here for all documentation pages
+    |
+'''
+
 ## About Collections U of T
 [Collections U of T](https://collections.library.utoronto.ca) is the  University of Toronto Libraries' repository for digitized special collections and archives. It provides open access to these digital collections through the [International Image Interoperability Framework (IIIF)](https://iiif.io/) and standard metadata formats.
 
