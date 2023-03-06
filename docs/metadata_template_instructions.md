@@ -1,5 +1,9 @@
 # Using the Collections U of T Metadata Spreadsheet Template
 
+## About This Page
+
+This page provides instructions and tips on using the Collections U of T Metadata Spreadsheet Template.
+
 The [Collections U of T Metadata Spreadsheet Template](https://docs.google.com/spreadsheets/d/1PMtZt5CzkidIXbTBUaoi8Qg7kBU-m9RzeM-lBMORPks/edit?usp=sharing
 ) is currently stored in Google Drive for easiest access (U of T OneDrive all-staff links expire).
 
@@ -7,16 +11,16 @@ To start, download or make your own Google Drive copy of the spreadsheet templat
 Name the spreadsheet with the PID of your collection.
 If you wish, you can store this new spreadsheet copy on your staff OneDrive if you wish, or continue working in Google Sheets.
 
-# Collections U of T Element Details
+## Collections U of T Element Details
 
 After copying the spreadsheet, begin filling in the spreadsheet for your collection(s) based on the [Collections U of T Element Details](https://docs.google.com/spreadsheets/d/1EidYREGS521xZKoxBN3Fl-PzkJnNJAR_zftuXXwQsZg/edit#gid=0 - these details are draft until New Collections is launched, but should not change much as we move into the new system.
 ). If you have any questions about any of the elements, contact Collections U of T staff for support.
 
-## PID/Filename/Identifier Tips
+### PID/Filename/Identifier Tips
 
 See [slide deck](https://docs.google.com/presentation/d/1W2PWTBE22rj15h7FbVDgAv5DIfg33rnn-1vLQZ_qgDw/edit#slide=id.ge72446e2fa_0_90) on PID/Filename/Identifier tips. 
 
-# Pre-Ingest Checklist
+## Pre-Ingest Checklist
 
 *This list to be filled in with additional instructions.*
 
@@ -27,13 +31,13 @@ See [slide deck](https://docs.google.com/presentation/d/1W2PWTBE22rj15h7FbVDgAv5
 * Check for duplicates
 * More to add...
 
-# Google Sheets Tips
+## Google Sheets Tips
 
-## Fill down
+### Fill down
 
 Double click the blue box in the bottom right of the cell to fill a value down.
 
-## Create Dropdown
+### Create Dropdown
 
 1. Open a spreadsheet in [Google Sheets](https://docs.google.com/spreadsheets/).
 2. Select the cell or cells where you want to create a drop-down list.
@@ -45,12 +49,12 @@ Double click the blue box in the bottom right of the cell to fill a value down.
 6. If you enter data in a cell that doesn’t match an item on the list, you’ll see a warning. If you want people to only enter items from the list, choose "Reject input" next to "On invalid data."
 7. Click Save. The cells will show a drop-down list. To change the color of a cell based on the option selected, use conditional formatting. 
 
-## Split Text to Columns
+### Split Text to Columns
 
 1. In Sheets, select the column that contains the data that you want to split.
 2. Click DataSplit text to columns.
 3. If you want Sheets to detect when a file is formatted using fixed-width, select Detect automatically.
 
-## OpenRefine Tips
+### OpenRefine Tips
 
 *To be added.*
