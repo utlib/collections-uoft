@@ -6,7 +6,7 @@ This documentation is intended for collection owners, end users, and open techno
 As of March 2023 this documentation status is *draft* and has not been approved by UTL Senior Staff.
 
 ```
-└─ root
+└─ main
     |
     |- docs -> click here for all documentation pages
     |
