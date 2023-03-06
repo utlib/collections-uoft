@@ -46,8 +46,10 @@ For help with Collections U of T metadata, read the Collections U of T Metadata 
 * [Collections U of T metadata spreadsheet template - all fields](https://docs.google.com/spreadsheets/d/1PMtZt5CzkidIXbTBUaoi8Qg7kBU-m9RzeM-lBMORPks/edit?usp=sharing)
 * [Collections U of T Metadata Profile - Element Details](https://docs.google.com/spreadsheets/d/1EidYREGS521xZKoxBN3Fl-PzkJnNJAR_zftuXXwQsZg/edit?usp=sharing)
 * Collections U of T metadata mapping:
-    - [MODS xml mapping](collections_uoft_mods_map.xml)
+    - [MODS xml mapping](docs/xml_mods_collections_uoft_mapping.xml)
     - Wikidata properties
+
+Ready to start adding metadata to the Collections U of T spreadsheet? [See instructions](docs/metadata_template_instructions.md).
 
 ## Other Services
 
