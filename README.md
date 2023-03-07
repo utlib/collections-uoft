@@ -45,7 +45,7 @@ As of March 2023, Collections U of T holds selected digital objects for the foll
 * University of Toronto Map and Data Library
 * University of Toronto Music Library
 * University of Toronto Richard Charles Lee Canada-Hong Kong Library
-* * University of St. Michael's College, including:
+* University of St. Michael's College, including:
     * John M. Kelly Library Special Collections
     * University of St. Michael's College Archives
 * University of Toronto Thomas Fisher Rare Book Library, including:
