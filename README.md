@@ -13,9 +13,10 @@ As of March 2023 this documentation status is *draft* and has not been approved 
     * Ingest instructions
 * Documentation for getting started with Collections U of T
     * Searching
-    * Using IIIF
-        * Downloading
-        * Embedding
+    * What is IIIF?
+        * Using IIIF - Tools
+        * Using IIIF - Downloading
+        * Using IIIF - Embedding
 
 ## About Collections U of T
 [Collections U of T](https://collections.library.utoronto.ca) is the  University of Toronto Libraries' repository for digitized special collections and archives. It provides open access to these digital collections through the [International Image Interoperability Framework (IIIF)](https://iiif.io/) and standard metadata formats.
