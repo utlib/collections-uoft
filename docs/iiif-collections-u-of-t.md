@@ -6,7 +6,7 @@
 
 Each digitized object in Collections U of T has something called a **IIIF manifest**. On each digital object's view page, you will see a *Copy IIIF Manifest* button in the top right corner of the display.
 
-![Mirador viewer display of the "Italian tour: 3,000 miles with Lunn" manuscript](docs/img/1_copy_iiif_manifest_button.jpg)
+![Mirador viewer display of the "Italian tour: 3,000 miles with Lunn" manuscript](img/1_copy_iiif_manifest_button.jpg)
 
 This button is intended to make it easy for you to copy IIIF manifests for digital objects you are interested in reusing. IIIF manifests contain information about the images and metadata for digitized objects. By copying a digital object's manifest, you can paste the manifest URL into a IIIF-enabled tool to reuse the digitized objects's images in a way that meets your research, teaching, or personal interest needs.
 
@@ -23,10 +23,10 @@ You can also access **all** Collections U of T IIIF manifests at [https://iiif.l
 ## Where can I find copyright and reuse information in Collections U of T? 
 Every collection differs in rights and reuse guidelines. Some collections do not allow for reuse, while others do. For any digital object you are interested in reusing, please refer to the \"Rights\" field in the digital object(s) "information" section of the image viewer. 
 
-![The Rights information for the 2001-15-2MS of University College from the University of Toronto Archives](docs/img/3_rights_a.png)
+![The Rights information for the 2001-15-2MS of University College from the University of Toronto Archives](img/3_rights_a.png)
 
 Some collections may not have rights information. For these, a contact email is given. When in doubt, use the contact information to connect with library and archives staff about reuse and permissions.
 
-![The Rights information for the "Italian tour: 3,000 miles with Lunn" manuscript](docs/img/3_rights.png)
+![The Rights information for the "Italian tour: 3,000 miles with Lunn" manuscript](img/3_rights.png)
 ## Can I see examples of IIIF in use?
 Yes, please [contact us](mailto:digitalinitiatives@library.utoronto.ca) for more information.
