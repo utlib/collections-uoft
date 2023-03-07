@@ -62,9 +62,9 @@ Legacy digital projects making use of Collections U of T include:
 
 ## What is Collections U of T IIIF?
 
-IIIF (International Image Interoperability Framework) is a set of APIs and related tools created by an international community of leading cultural institutions. The IIIF community has created documentation to help you learn how to use the IIIF APIs, how to use the IIIF Mirador viewer, and how to find other IIIF digitized collections from cultural heritage institutions across the globe. Below you will find additional IIIF documentation specific to Collections U of T and the University of Toronto's IIIF digital collections.
+IIIF (International Image Interoperability Framework) is a set of APIs and related tools created by an international community of leading cultural institutions. The IIIF community has created [a guide](https://iiif.io/guides/using_iiif_resources/) to help you get started in learning about and using IIIF.
 
-Read more about IIIF in Collections U of T.
+Our ["What is IIIF?"](docs/iiif-collections-u-of-t.md) page also includes IIIF documentation specific to Collections U of T. 
 
 ## Metadata and Data Model
 
