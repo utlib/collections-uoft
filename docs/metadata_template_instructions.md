@@ -1,4 +1,4 @@
-# Using the Collections U of T Metadata Spreadsheet Template
+# Collections U of T Metadata
 
 ## About This Page
 
