@@ -9,12 +9,12 @@ The [Collections U of T Metadata Spreadsheet Template](https://docs.google.com/s
 
 **Skip to:**
 * [Getting Started](metadata_template_instructions.md#getting-started)
-* [Collections U of T Element Details](metadata_template_instructions.md#getting-started)
-* [PID/Filename/Identifier Tips](metadata_template_instructions.md#getting-started)
-* [Pre-Ingest Checklist](metadata_template_instructions.md#getting-started)
-* [Google Sheets Tips](metadata_template_instructions.md#getting-started)
-* [MARCEdit Tips](metadata_template_instructions.md#getting-started)
-* [OpenRefine Tips](metadata_template_instructions.md#getting-started)
+* [Collections U of T Element Details](metadata_template_instructions.md#collections-u-of-t-element-details)
+* [PID/Filename/Identifier Tips](metadata_template_instructions.md#pidfilenameidentifier-tips)
+* [Pre-Ingest Checklist](metadata_template_instructions.md#pre-ingest-checklist)
+* [Google Sheets Tips](metadata_template_instructions.md#google-sheets-tips)
+* [MARCEdit Tips](metadata_template_instructions.md#marcedit-tips)
+* [OpenRefine Tips](metadata_template_instructions.md#openrefine-tips)
 
 ## Getting Started
 
