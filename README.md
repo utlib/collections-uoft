@@ -5,7 +5,7 @@ This documentation is intended for collection owners, end users, and U of T staf
 
 As of March 2023 this documentation status is *draft* and has not been approved by UTL Senior Staff.
 
-_Skip to:_
+**Skip to:**
 * [About Collections U of T](README.md#about-collections-u-of-t)
 * Documentation for collection owners
     * Requesting a top-level collection
