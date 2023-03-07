@@ -38,7 +38,26 @@ UTL staff can request a consultation for Collections U of T support at [digitali
 
 Researchers, students, and faculty can read documentation provided to learn how to use the system. Please send any questions or feedback to [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca).
 
-Read more about Collections U of T.
+### List of Top-Level Collections in Collections U of T
+
+As of March 2023, Collections U of T holds selected digital objects for the following libraries and archives:
+* University of Toronto Archives Online
+* University of Toronto Map and Data Library
+* University of Toronto Music Library
+* University of Toronto Richard Charles Lee Canada-Hong Kong Library
+* University of Toronto Thomas Fisher Rare Book Library, including:
+    * The Discovery and Early Development of Insulin
+    * Anatomia Collection: anatomical plates, 1522-1867
+    * The Wenceslaus Hollar Collection
+* University of St. Michael's College, including:
+    * John M. Kelly Library Special Collections
+    * University of St. Michael's College Archives
+
+Legacy digital projects making use of Collections U of T include:
+* Ann Komaromi's *Project for the Study of Dissidence and Samizdat*
+* *French* and *Italian Paleography*, supported by a grant from The Andrew W. Mellon Foundation and completed in partnership with the Newberry Library and the Walter J. Ong Centre for Digital Humanities at Saint Louis University
+* Pamela Klassen's *[Story Nations](https://storynations.utoronto.ca/index.php/the-diary/the-digital-edition/manuscript-and-transcription/)*
+* The University of Toronto's East Asian Library and the University of British Columbia's *Korean Canadian Heritage Archives*
 
 ## What is Collections U of T IIIF?
 
