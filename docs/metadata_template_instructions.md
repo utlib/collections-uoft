@@ -7,6 +7,17 @@ This page provides instructions and tips on using the Collections U of T Metadat
 The [Collections U of T Metadata Spreadsheet Template](https://docs.google.com/spreadsheets/d/1PMtZt5CzkidIXbTBUaoi8Qg7kBU-m9RzeM-lBMORPks/edit?usp=sharing
 ) is currently stored in Google Drive for easiest access (U of T OneDrive all-staff links expire).
 
+**Skip to:**
+* [Getting Started](metadata_template_instructions.md#getting-started)
+* [Collections U of T Element Details](metadata_template_instructions.md#getting-started)
+* [PID/Filename/Identifier Tips](metadata_template_instructions.md#getting-started)
+* [Pre-Ingest Checklist](metadata_template_instructions.md#getting-started)
+* [Google Sheets Tips](metadata_template_instructions.md#getting-started)
+* [MARCEdit Tips](metadata_template_instructions.md#getting-started)
+* [OpenRefine Tips](metadata_template_instructions.md#getting-started)
+
+## Getting Started
+
 To start, download or make your own Google Drive copy of the spreadsheet template. 
 Name the spreadsheet with the PID of your collection.
 If you wish, you can store this new spreadsheet copy on your staff OneDrive if you wish, or continue working in Google Sheets.
@@ -55,6 +66,10 @@ Double click the blue box in the bottom right of the cell to fill a value down.
 2. Click DataSplit text to columns.
 3. If you want Sheets to detect when a file is formatted using fixed-width, select Detect automatically.
 
-### OpenRefine Tips
+## MARCEdit Tips
+
+*To be added.*
+
+## OpenRefine Tips
 
 *To be added.*
