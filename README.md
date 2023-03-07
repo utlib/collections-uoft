@@ -5,12 +5,17 @@ This documentation is intended for collection owners, end users, and open techno
 
 As of March 2023 this documentation status is *draft* and has not been approved by UTL Senior Staff.
 
-```
-└─ main
-    |
-    |- docs -> click here for all documentation pages
-    |
-```
+Skip to:
+* About Collections U of T
+* Documentation for collection owners
+    * Requesting a top-level collection
+    * Metadata instructions
+    * Ingest instructions
+* Documentation for getting started with Collections U of T
+    * Searching
+    * Using IIIF
+        * Downloading
+        * Embedding
 
 ## About Collections U of T
 [Collections U of T](https://collections.library.utoronto.ca) is the  University of Toronto Libraries' repository for digitized special collections and archives. It provides open access to these digital collections through the [International Image Interoperability Framework (IIIF)](https://iiif.io/) and standard metadata formats.
@@ -33,11 +38,13 @@ UTL staff can request a consultation for Collections U of T support at [digitali
 
 Researchers, students, and faculty can read documentation provided to learn how to use the system. Please send any questions or feedback to [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca).
 
+Read more about Collections U of T.
+
 ## What is Collections U of T IIIF?
 
 IIIF (International Image Interoperability Framework) is a set of APIs and related tools created by an international community of leading cultural institutions. The IIIF community has created documentation to help you learn how to use the IIIF APIs, how to use the IIIF Mirador viewer, and how to find other IIIF digitized collections from cultural heritage institutions across the globe. Below you will find additional IIIF documentation specific to Collections U of T and the University of Toronto's IIIF digital collections.
 
-Read more at the About IIIF page.
+Read more about IIIF in Collections U of T.
 
 ## Metadata and Data Model
 
@@ -58,14 +65,10 @@ For help with Collections U of T metadata, read the Collections U of T Metadata 
 
 Ready to start adding metadata to the Collections U of T spreadsheet? [See instructions](docs/metadata_template_instructions.md).
 
-## Other Services
+## Other UTL Services
 
-Collections U of T is just one of the many services offered by the University of Toronto Libraries. Here are some other services that might be helpful in your work or research:
+Collections U of T is just one of the many services offered by the University of Toronto Libraries. Here are some other services that might be of interest or helpful in your work or research:
 * [Discover Archives](https://discoverarchives.library.utoronto.ca/)
 * [Exhibits U of T](https://exhibits.library.utoronto.ca/)
 * [TSpace](https://tspace.library.utoronto.ca/?refresh=true)
 * [Find out more about the University of Toronto Libraries](https://onesearch.library.utoronto.ca/)
-
-
-
-## [Changelog](CHANGELOG.md)
