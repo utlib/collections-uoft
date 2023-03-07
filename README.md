@@ -1,15 +1,15 @@
 # Collections U Of T
 
 ## About this page
-This documentation is intended for collection owners, end users, and open technology community members interested in Collections U of T.
+This documentation is intended for collection owners, end users, and U of T staff or open technology community members interested in Collections U of T.
 
 As of March 2023 this documentation status is *draft* and has not been approved by UTL Senior Staff.
 
 Skip to:
-* About Collections U of T
+* [About Collections U of T](README.md#about-collections-u-of-t)
 * Documentation for collection owners
     * Requesting a top-level collection
-    * Metadata instructions
+    * [Metadata instructions](docs/metadata_template_instructions.md)
     * Ingest instructions
 * Documentation for getting started with Collections U of T
     * Searching
