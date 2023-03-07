@@ -2,7 +2,7 @@
 
 ## About This Page
 
-This page provides instructions and tips on using the Collections U of T Metadata Spreadsheet Template.
+This page provides information about Collections U of T metadata and instructions and tips on using the Collections U of T Metadata Spreadsheet Template.
 
 The [Collections U of T Metadata Spreadsheet Template](https://docs.google.com/spreadsheets/d/1PMtZt5CzkidIXbTBUaoi8Qg7kBU-m9RzeM-lBMORPks/edit?usp=sharing
 ) is currently stored in Google Drive for easiest access (U of T OneDrive all-staff links expire).
