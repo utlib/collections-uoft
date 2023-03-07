@@ -8,7 +8,7 @@ The [Collections U of T Metadata Spreadsheet Template](https://docs.google.com/s
 ) is currently stored in Google Drive for easiest access (U of T OneDrive all-staff links expire).
 
 **Skip to:**
-* [Getting Started](metadata_template_instructions.md#getting-started)
+* [Getting Started](metadata_template_instructions.md#getting-started-with-collections-u-of-t-metadata)
 * [Collections U of T Element Details](metadata_template_instructions.md#collections-u-of-t-element-details)
 * [PID/Filename/Identifier Tips](metadata_template_instructions.md#pidfilenameidentifier-tips)
 * [Pre-Ingest Checklist](metadata_template_instructions.md#pre-ingest-checklist)
@@ -16,7 +16,7 @@ The [Collections U of T Metadata Spreadsheet Template](https://docs.google.com/s
 * [MARCEdit Tips](metadata_template_instructions.md#marcedit-tips)
 * [OpenRefine Tips](metadata_template_instructions.md#openrefine-tips)
 
-## Getting Started
+## Getting Started with Collections U of T Metadata
 
 To start, download or make your own Google Drive copy of the spreadsheet template. 
 Name the spreadsheet with the PID of your collection.
