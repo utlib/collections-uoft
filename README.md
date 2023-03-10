@@ -10,7 +10,7 @@ As of March 2023 this documentation status is *draft* and has not been approved 
 * Documentation for collection owners
     * Requesting a top-level collection
     * [Metadata instructions](docs/metadata_template_instructions.md)
-    * Ingest instructions
+    * [Ingest instructions](docs/ingest_instructions.md)
 * Documentation for getting started with Collections U of T
     * Searching
     * What is IIIF?
