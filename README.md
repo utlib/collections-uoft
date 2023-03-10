@@ -42,23 +42,23 @@ Researchers, students, and faculty can read documentation provided here to learn
 ### List of Top-Level Collections in Collections U of T
 
 As of March 2023, Collections U of T holds selected digital objects for the following libraries and archives:
-* University of Toronto Archives Online
-* University of Toronto Map and Data Library
-* University of Toronto Music Library
-* University of Toronto Richard Charles Lee Canada-Hong Kong Library
+* [University of Toronto Archives Online](https://collections.library.utoronto.ca/view/utarms:root)
+* [University of Toronto Map and Data Library](https://collections.library.utoronto.ca/view/mdl:root)
+* [University of Toronto Music Library](https://collections.library.utoronto.ca/view/musiclibrary:root)
+* [University of Toronto Richard Charles Lee Canada-Hong Kong Library](https://collections.library.utoronto.ca/view/rclc-hkl:root)
 * University of St. Michael's College, including:
-    * John M. Kelly Library Special Collections
-    * University of St. Michael's College Archives
-* University of Toronto Thomas Fisher Rare Book Library, including:
-    * The Discovery and Early Development of Insulin
-    * Anatomia Collection: anatomical plates, 1522-1867
-    * The Wenceslaus Hollar Collection
+    * [John M. Kelly Library Special Collections](https://collections.library.utoronto.ca/view/usmc:root)
+    * [University of St. Michael's College Archives](https://collections.library.utoronto.ca/view/usmc-archives:root)
+* [University of Toronto Thomas Fisher Rare Book Library](https://collections.library.utoronto.ca/view/fisher:root), including:
+    * [The Discovery and Early Development of Insulin](https://collections.library.utoronto.ca/view/insulin:root)
+    * [Anatomia Collection: anatomical plates, 1522-1867](https://collections.library.utoronto.ca/view/anatomia:root)
+    * [The Wenceslaus Hollar Collection](https://collections.library.utoronto.ca/view/hollar:root)
 
 Legacy digital projects making use of Collections U of T include:
-* Ann Komaromi's *Project for the Study of Dissidence and Samizdat*
-* *French* and *Italian Paleography*, supported by a grant from The Andrew W. Mellon Foundation and completed in partnership with the Newberry Library and the Walter J. Ong Centre for Digital Humanities at Saint Louis University
+* Ann Komaromi's *[Project for the Study of Dissidence and Samizdat](https://collections.library.utoronto.ca/view/samizdat:root)*
+* *[French](https://collections.library.utoronto.ca/view/paleography:root)* and *[Italian Paleography](https://collections.library.utoronto.ca/view/italianpaleography:root)*, supported by a grant from The Andrew W. Mellon Foundation and completed in partnership with the Newberry Library and the Walter J. Ong Centre for Digital Humanities at Saint Louis University
 * Pamela Klassen's *[Story Nations](https://storynations.utoronto.ca/index.php/the-diary/the-digital-edition/manuscript-and-transcription/)*
-* The University of Toronto's East Asian Library and the University of British Columbia's *Korean Canadian Heritage Archives*
+* The University of Toronto's East Asian Library and the University of British Columbia's *[Korean Canadian Heritage Archives](https://collections.library.utoronto.ca/view/eal3:root)*
 
 ## What is Collections U of T IIIF?
 
