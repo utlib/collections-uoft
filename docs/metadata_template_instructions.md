@@ -47,6 +47,9 @@ See [slide deck](https://docs.google.com/presentation/d/1W2PWTBE22rj15h7FbVDgAv5
 
 Double click the blue box in the bottom right of the cell to fill a value down.
 
+![Google sheets - fill down](img/sheets_fill_down.png)
+
+
 ### Create Dropdown
 
 1. Open a spreadsheet in [Google Sheets](https://docs.google.com/spreadsheets/).
