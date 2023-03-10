@@ -28,7 +28,7 @@ After copying the spreadsheet, begin filling in the spreadsheet for your collect
 
 ### PID/Filename/Identifier Tips
 
-See [slide deck](https://docs.google.com/presentation/d/1W2PWTBE22rj15h7FbVDgAv5DIfg33rnn-1vLQZ_qgDw/edit#slide=id.ge72446e2fa_0_90) on PID/Filename/Identifier tips. 
+See [slide deck](https://docs.google.com/presentation/d/1W2PWTBE22rj15h7FbVDgAv5DIfg33rnn-1vLQZ_qgDw/edit?usp=sharing) on PID/Filename/Identifier tips. 
 
 ## Pre-Ingest Checklist
 
