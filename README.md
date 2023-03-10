@@ -13,7 +13,7 @@ As of March 2023 this documentation status is *draft* and has not been approved 
     * [Ingest instructions](docs/ingest_instructions.md)
 * Documentation for getting started with Collections U of T
     * Searching
-    * What is IIIF?
+    * [What is IIIF?](docs/iiif-collections-u-of-t.md)
         * Using IIIF - Tools
         * Using IIIF - Downloading
         * Using IIIF - Embedding
@@ -37,7 +37,7 @@ Collections U of T is not:
 
 UTL staff can request a consultation for Collections U of T support at [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca).
 
-Researchers, students, and faculty can read documentation provided to learn how to use the system. Please send any questions or feedback to [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca).
+Researchers, students, and faculty can read documentation provided here to learn how to use the system. Please send any questions or feedback to [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca).
 
 ### List of Top-Level Collections in Collections U of T
 
