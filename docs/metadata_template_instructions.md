@@ -68,7 +68,7 @@ Double click the blue box in the bottom right of the cell to fill a value down.
 2. Click DataSplit text to columns.
 3. If you want Sheets to detect when a file is formatted using fixed-width, select Detect automatically.
 
-1[Google sheets - drown down](img/sheets_drop_down.png)
+![Google sheets - drown down](img/sheets_drop_down.png)
 
 ## MARCEdit Tips
 
