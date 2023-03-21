@@ -23,8 +23,7 @@ If you wish, you can store this new spreadsheet copy on your staff OneDrive if y
 
 ## Collections U of T Element Details
 
-After copying the spreadsheet, begin filling in the spreadsheet for your collection(s) based on the [Collections U of T Element Details](https://docs.google.com/spreadsheets/d/1EidYREGS521xZKoxBN3Fl-PzkJnNJAR_zftuXXwQsZg/edit#gid=0 - these details are draft until New Collections is launched, but should not change much as we move into the new system.
-). If you have any questions about any of the elements, contact Collections U of T staff for support.
+After copying the spreadsheet, begin filling in the spreadsheet for your collection(s) based on the [Collections U of T Element Details](https://docs.google.com/spreadsheets/d/1EidYREGS521xZKoxBN3Fl-PzkJnNJAR_zftuXXwQsZg/edit#gid=0) - these details are draft until New Collections is launched, but should not change much as we move into the new system. If you have any questions about any of the elements, contact Collections U of T staff for support.
 
 ### PID/Filename/Identifier Tips
 
