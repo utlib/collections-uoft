@@ -4,7 +4,7 @@
 
 This page provides information about Collections U of T metadata and instructions and tips on using the Collections U of T Metadata Spreadsheet Template.
 
-The [Collections U of T Metadata Spreadsheet Template](https://docs.google.com/spreadsheets/d/1PMtZt5CzkidIXbTBUaoi8Qg7kBU-m9RzeM-lBMORPks/edit?usp=sharing) is currently stored in Google Drive for easiest access (U of T OneDrive all-staff links expire).
+The [Collections U of T Metadata Spreadsheet Template](https://docs.google.com/spreadsheets/d/1PMtZt5CzkidIXbTBUaoi8Qg7kBU-m9RzeM-lBMORPks/edit?usp=sharing) is currently stored in Google Drive for easiest access (U of T OneDrive all-staff links have an expiry date).
 
 **Skip to:**
 * [Getting Started](metadata_template_instructions.md#getting-started-with-collections-u-of-t-metadata)
@@ -17,9 +17,15 @@ The [Collections U of T Metadata Spreadsheet Template](https://docs.google.com/s
 
 ## Getting Started with Collections U of T Metadata
 
-To start, download or make your own Google Drive copy of the spreadsheet template. 
-Name the spreadsheet with the PID of your collection.
-If you wish, you can store this new spreadsheet copy on your staff OneDrive if you wish, or continue working in Google Sheets.
+First, if you have existing MARC records to work with you can scroll to [MARCEdit Tips](metadata_template_instructions.md#marcedit-tips) to read more about converting MARC records into a Collections U of T spreadsheet.
+
+If you have an existing database of metadata and would like help exporting it, email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca).
+
+If you are creating your metadata spreadsheet from scratch, start by downloading or making your own Google Drive copy of the [Collections U of T metadata spreadsheet template - all fields](https://docs.google.com/spreadsheets/d/1PMtZt5CzkidIXbTBUaoi8Qg7kBU-m9RzeM-lBMORPks/edit?usp=sharing).
+
+After copying or downloading, rename the spreadsheet with the PID or title of your collection. It can be helpful to have one spreadsheet per collection. 
+
+If you wish, you can store this new spreadsheet copy on your U of T staff OneDrive if you wish, or continue working in Google Sheets.
 
 ## Collections U of T Element Details
 
@@ -31,16 +37,16 @@ See [slide deck](https://docs.google.com/presentation/d/1W2PWTBE22rj15h7FbVDgAv5
 
 ## Pre-Ingest Checklist
 
-*This list to be filled in with additional instructions.*
-
-* Check for entity codes
-* Instead of entity codes, you are able to represent the actual special character in spreadsheet metadata. The ingest script accepts special characters - so long as spreadsheets are saved with UTF-8 encoding
-* Check each column against the Element Details rules
-* Check for spelling
-* Check for duplicates
-* More to add...
+* Check that PIDs are correctly formatted (see above)
+* Check for entity codes - i.e. *$amp;* in place of *&*. Note that you *are* able to represent the actual special character in the spreadsheet metadata - i.e. *&*. The ingest script accepts special characters - so long as spreadsheets are saved with UTF-8 encoding
+* Check each column you have filled in against the [Element Details](https://docs.google.com/spreadsheets/d/1EidYREGS521xZKoxBN3Fl-PzkJnNJAR_zftuXXwQsZg/edit#gid=0) Input Guidelines to ensure you are following Collections U of T metadata rules
+* Check for spelling errors
+* Check for duplicate words or terms
+* Check that the file paths to your digital images are correct
 
 ## Google Sheets Tips
+
+The Google Sheet template is formatted to assist you with entering data for ingest into Collections. The instructions below can help you if you would like to add additional formatting to the spreadsheet.
 
 ### Fill down
 
@@ -76,3 +82,5 @@ Double click the blue box in the bottom right of the cell to fill a value down.
 ## OpenRefine Tips
 
 *To be added.*
+
+Instructions on this page for OpenRefine will be specific to steps that could help you with Collections U of T metadata spreadsheets. You can also refer to the [OpenRefine documentation](https://openrefine.org/docs) or check out U of T's [Map and Data Library OpenRefine tutorials](https://mdl.library.utoronto.ca/tools/openrefine).
