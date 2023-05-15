@@ -67,8 +67,6 @@
     <subject>
         <cartographics>
             <coordinates>Coordinates</coordinates>
-            <scale>Scale</scale>
-            <projection>Projection</projection>
         </cartographics>
     </subject>
     <note type="ownership" displayLabel="Provenance">Provenance</note>
