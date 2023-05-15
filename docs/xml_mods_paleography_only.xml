@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+    <titleInfo>
+        <title>Title</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+        <title>Title_Alternative</title>
+    </titleInfo>
+    <name>
+        <namePart>Author</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator">author</roleTerm>
+            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>Contributor</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator">contributor</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>Type_Of_Resource</typeOfResource>
+    <targetAudience>Target_Audience</targetAudience>
+    <genre>Genre</genre>
+    <originInfo>
+        <publisher>Publisher</publisher>
+        <place>
+            <placeTerm type="code">PlaceTerm_Code</placeTerm>
+            <placeTerm type="text">PlaceTerm_Text</placeTerm>
+        </place>
+        <dateIssued>Date_Full</dateIssued>
+        <dateIssued encoding="marc" point="start">Date_Start</dateIssued>
+        <dateIssued encoding="marc" point="end">Date_End</dateIssued>   
+        <dateOther>Date_Facet</dateOther>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">Language_Text</languageTerm><!-- Use the English name of language term from https://www.loc.gov/standards/iso639-2/php/code_list.php -->
+        <languageTerm authority="iso639-2b" type="code">Language_Code</languageTerm><!-- Use the 3 letter ISO 639-2 code from https://www.loc.gov/standards/iso639-2/php/code_list.php -->
+    </language>
+    <physicalDescription>
+      <form>Paleography_Form</form>
+      <form type="material">Paleography_Material</form>
+      <extent>Extent</extent>
+      <note type="script" displayLabel="Script">Paleography_Script</note>
+      <note type="marks" displayLabel="Marginalia">Paleography_Marginalia</note>
+      <note type="technique" displayLabel="Decoration">Paleography_Decoration</note>
+      <note type="note" displayLabel="Note">Physical_Description_Note</note>
+    </physicalDescription>
+    <abstract displayLabel="Summary">Description</abstract>
+    <location>
+        <physicalLocation>Holding_Institution</physicalLocation><!-- for the <physicalLocation> tag, when converting from MARC, you will need to manually enter the Holding Institution. Refer to existing library names in other metadata files so you are consistent. -->
+        <url usage="primary display" access="object in context">URL_Permalink</url><!-- when converting from MARC, you will need to manually enter the URL Permalink. The format is always https://collections.library.utoronto.ca/view/PID - where PID is the value within the <identifier type="local">PID</identifier> tag. -->
+    </location>
+    <identifier type="local">PID</identifier>
+    <identifier type="callnumber">Call_Number</identifier>
+    <identifier type="paleography_id">Paleography_ID</identifier>
+    <subject>
+        <topic>Subject_Topic</topic>
+    </subject>
+    <subject>
+        <geographic>Subject_Geographic</geographic>
+    </subject>
+    <subject>
+        <temporal>Subject_Temporal</temporal>
+    </subject>
+    <subject>
+        <cartographics>
+            <coordinates>Coordinates</coordinates>
+            <scale>Scale</scale>
+            <projection>Projection</projection>
+        </cartographics>
+    </subject>
+    <note type="ownership" displayLabel="Provenance">Provenance</note>
+    <note type="admin" displayLabel="Catalog Record">Paleography_Catalog_Link</note>
+    <note type="admin" displayLabel="Transcription">Paleography_Transcription</note>
+    <note type="admin" displayLabel="Background Essay">Paleography_Background_Essay</note>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Part_Of_Constituent</title>
+        </titleInfo>
+        <name>
+        <namePart>Part_Of_Constituent_Creator</namePart>
+    </name>
+    </relatedItem>
+    <accessCondition type="use and reproduction">Rights_Note</accessCondition>
+</mods>
