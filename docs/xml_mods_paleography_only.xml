@@ -65,6 +65,9 @@
         <temporal>Subject_Temporal</temporal>
     </subject>
     <subject>
+        <genre>Subject_Genre</genre>
+    </subject>
+    <subject>
         <cartographics>
             <coordinates>Coordinates</coordinates>
         </cartographics>
