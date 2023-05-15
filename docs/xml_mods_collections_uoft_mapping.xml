@@ -27,23 +27,12 @@
     <name>
         <namePart>Creator_Contributor</namePart>
         <nameIdentifier type="viaf">VIAF_Name_Identifier</nameIdentifier>
-    </name>
-    <name>
-        <namePart>Author</namePart>
         <role>
-            <roleTerm type="text" authority="marcrelator">author</roleTerm>
-            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
-        </role>
-    </name>
-    <name>
-        <namePart>Contributor</namePart>
-        <role>
-            <roleTerm type="text" authority="marcrelator">contributor</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+            <roleTerm type="text" authority="marcrelator">role_term</roleTerm>
+            <roleTerm type="code" authority="marcrelator">role_code</roleTerm>
         </role>
     </name>
     <typeOfResource>Type_Of_Resource</typeOfResource><!-- Use only terms from https://id.loc.gov/vocabulary/resourceTypes.html ; when converting from MARC, remove manuscript="yes" attribute -->
-    <targetAudience>Target_Audience</targetAudience>
     <genre>Genre</genre><!-- for the <genre> tag, when converting from MARC, please delete any period that completes the term in this tag. For example, .</genre> should become </genre> -->
     <originInfo>
         <publisher>Publisher</publisher>
@@ -52,8 +41,6 @@
             <placeTerm type="text">PlaceTerm_Text</placeTerm><!-- if converting from MARC and there is a marccountry code field, add a placeTerm type="text" tag. Find the correct value from the marccountry list at https://www.loc.gov/marc/countries/countries_code.html -->
         </place>
         <dateIssued>Date_Full</dateIssued>
-        <dateIssued encoding="marc" point="start">Date_Start</dateIssued>
-        <dateIssued encoding="marc" point="end">Date_End</dateIssued>   
         <dateOther>Date_Facet</dateOther><!-- for the <dateOther> tag, when converting from MARC, you will likely need to manually enter the dateOther tag. This field is used to record the decade of the date for simple facets by either a) decade - i.e. 1900s, 1910s, 1950s - or b)
 century - i.e. 15th century, 13th century, 20th century. Use decades unless collection/object spans over 4 decades. For objects that fall within a range of dates, add multiple decades or centuries. -->
         <issuance>Issuance</issuance><!-- this tag is used by Fisher MARC records -->
@@ -66,13 +53,7 @@ century - i.e. 15th century, 13th century, 20th century. Use decades unless coll
     <physicalDescription>
       <form authority="marcform">Form_MARCform</form>
       <form authority="gmd">Form_GMD</form>
-      <form>Paleography_Form</form>
-      <form type="material">Paleography_Material</form>
-      <extent>Extent</extent>
-      <note type="script" displayLabel="Script">Paleography_Script</note>
-      <note type="marks" displayLabel="Marginalia">Paleography_Marginalia</note>
-      <note type="technique" displayLabel="Decoration">Paleography_Decoration</note>
-      <note type="note" displayLabel="Note">Physical_Description_Note</note>
+        <extent>Extent</extent>
     </physicalDescription>
     <abstract>Description</abstract>
     <tableOfContents>Table_Of_Contents</tableOfContents>
@@ -88,7 +69,6 @@ century - i.e. 15th century, 13th century, 20th century. Use decades unless coll
     <identifier type="usmc_pid">USMC_PID</identifier>
     <identifier type="utarms_display" displayLabel="digital item no">utarms_digital_object_id</identifier>
     <identifier type="utarms" displayLabel="original identifier">utarms_original_item_no</identifier>
-    <identifier type="paleography_id">Paleography_ID</identifier>
     <subject>
         <topic>Subject_Topic</topic>
     </subject>
@@ -113,9 +93,6 @@ century - i.e. 15th century, 13th century, 20th century. Use decades unless coll
     <note type="Publication Note">Publication_Note</note>
     <note type="Related Materials">Related_Materials</note>
     <note type="ownership" displayLabel="Provenance">Provenance</note>
-    <note type="admin" displayLabel="Catalog Record">Paleography_Catalog_Link</note>
-    <note type="admin" displayLabel="Transcription">Paleography_Transcription</note>
-    <note type="admin" displayLabel="Background Essay">Paleography_Background_Essay</note>
     <relatedItem type="host" displayLabel="Part Of"><!-- no need to add unless item is part of bigger archival collection; commonly used for linking to archival collections or fonds in Discover Archives -->
         <titleInfo>
             <title>Part_Of</title>
