@@ -28,8 +28,7 @@
         <namePart>Creator_Contributor</namePart>
         <nameIdentifier type="viaf">VIAF_Name_Identifier</nameIdentifier>
         <role>
-            <roleTerm type="text" authority="marcrelator">role_term</roleTerm>
-            <roleTerm type="code" authority="marcrelator">role_code</roleTerm>
+            <roleTerm authority="marcrelator" type="text">creator_contributor_role</roleTerm>
         </role>
     </name>
     <typeOfResource>Type_Of_Resource</typeOfResource><!-- Use only terms from https://id.loc.gov/vocabulary/resourceTypes.html ; when converting from MARC, remove manuscript="yes" attribute -->
