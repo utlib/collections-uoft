@@ -49,8 +49,8 @@
     </physicalDescription>
     <abstract displayLabel="Summary">Description</abstract>
     <location>
-        <physicalLocation>Holding_Institution</physicalLocation><!-- for the <physicalLocation> tag, when converting from MARC, you will need to manually enter the Holding Institution. Refer to existing library names in other metadata files so you are consistent. -->
-        <url usage="primary display" access="object in context">URL_Permalink</url><!-- when converting from MARC, you will need to manually enter the URL Permalink. The format is always https://collections.library.utoronto.ca/view/PID - where PID is the value within the <identifier type="local">PID</identifier> tag. -->
+        <physicalLocation>Holding_Institution</physicalLocation>
+        <url usage="primary display" access="object in context">URL_Permalink</url><!-- in this case, the holding institution's permalink to the Paleograph resource -->
     </location>
     <identifier type="local">PID</identifier>
     <identifier type="callnumber">Call_Number</identifier>
