@@ -51,6 +51,7 @@
     <location>
         <physicalLocation>Holding_Institution</physicalLocation>
         <url usage="primary display" access="object in context">URL_Permalink</url><!-- in this case, the holding institution's permalink to the Paleograph resource -->
+        <url displayLabel="IIIF Manifest">seealso_manifest<url>
     </location>
     <identifier type="local">PID</identifier>
     <identifier type="callnumber">Call_Number</identifier>
