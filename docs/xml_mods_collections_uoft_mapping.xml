@@ -90,7 +90,7 @@ century - i.e. 15th century, 13th century, 20th century. Use decades unless coll
     <note>Note</note>
     <note type="statement of responsibility">Statement_Of_Responsibility</note>
     <note type="Publication Note">Publication_Note</note>
-    <note type="Related Materials">Related_Materials</note>
+    <note type="Related Materials">Related_Materials_Note</note>
     <note type="ownership" displayLabel="Provenance">Provenance</note>
     <relatedItem type="host" displayLabel="Part Of"><!-- no need to add unless item is part of bigger archival collection; commonly used for linking to archival collections or fonds in Discover Archives -->
         <titleInfo>
