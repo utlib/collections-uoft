@@ -1,7 +1,10 @@
 # Collections U Of T
 
 ## About this page
-This documentation is intended for collection owners, end users, and U of T staff or open technology community members interested in Collections U of T.
+This documentation is intended for three user groups:
+* U of T staff using Collections U of T
+* Open technology community members interested in Collections U of T technology infrastructure
+* Researchers or public users interested in browsing and searching U of T's digital collections 
 
 As of March 2023 this documentation status is *draft* and has not been approved by UTL Senior Staff.
 
@@ -19,7 +22,7 @@ As of March 2023 this documentation status is *draft* and has not been approved 
         * Using IIIF - Embedding
 
 ## About Collections U of T
-[Collections U of T](https://collections.library.utoronto.ca) is the  University of Toronto Libraries' repository for digitized special collections and archives. It provides open access to these digital collections through the [International Image Interoperability Framework (IIIF)](https://iiif.io/) and standard metadata formats.
+[Collections U of T](https://collections.library.utoronto.ca) is the  University of Toronto Libraries' repository for digitized special collections and archives. It provides open access to these digital collections through the [International Image Interoperability Framework (IIIF)](https://iiif.io/) and standard metadata formats. 
 
 Collections U of T provides U of T staff:
 
@@ -28,6 +31,7 @@ Collections U of T provides U of T staff:
 3. Search and discovery for collections and digital objects
 4. User management and authentication (CRUD for collections and digital objects)
 5. Statistics for collections and digital objects
+6. "Exhibit" pages about collections and items stored in Collections U of T
 
 Collections U of T is not:
 * A digitization service
