@@ -1,7 +1,7 @@
 # Collections U Of T
 
 ## About this page
-This documentation is intended for three user groups:
+This documentation is intended for:
 * U of T staff using Collections U of T
 * Open technology community members interested in Collections U of T technology infrastructure
 * Researchers or public users interested in browsing and searching U of T's digital collections 
