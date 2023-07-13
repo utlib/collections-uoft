@@ -37,7 +37,7 @@ Collections U of T is not:
 * A digitization service
 * A digital exhibit service
 * A digital preservation service
-* Able to store media types other than image files. Note: it does not currently support .pdf collections
+* Able to store media types other than image files. Note: it does not currently support .pdf, audio, or video collections
 * Open to anyone - digital collections must be *assessed* prior to inclusion. Because the service is intended for providing long term discovery and display of access copies of digital collections, the digital objects must belong to a UTL department or archives and be assessed by a UTL staff collection owner prior to inclusion. UTL collection owners are responsible for assessing digital objects for accessibility, privacy and copyright considerations, as well as staffing capacity to support the care and maintenance of the digital collection over time. 
 
 UTL staff can request a consultation for Collections U of T support at [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca).
