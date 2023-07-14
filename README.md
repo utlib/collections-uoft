@@ -53,7 +53,7 @@ Researchers, students, and faculty can read documentation at https://collections
 
 #### Format Support
 
-Collections U of T can only accept image files - .tiff, .jp2, and jpg formats. No other formats can be uploaded to the repository at this time. 
+Collections U of T is an image repository. It can currently accept .tiff, .jp2, and jpg image file formats. No other formats can be uploaded to the repository at this time. 
 
 ### List of Top-Level Collections in Collections U of T
 
