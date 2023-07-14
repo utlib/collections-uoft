@@ -42,7 +42,7 @@ Researchers, students, and faculty can read documentation at https://collections
 
 1. Digital collections or digital objects deposited into Collections U of T are published with the intent of access in perpetuity.
 2. The repository is structured by top-level U of T library or archives. Any content added to Collections U of T must belong to a top-level collection reflecting the UTL library or archives department responsible for the digitized item/collection. The top-level collection library or archives is referred to as the "collection owner".
-3. To create a new top-level collection and obtain logins, Library or Archives can request a consultation for Collections U of T support at [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca). 
+3. To create a new top-level collection and obtain logins, U of T library or archives can request a consultation for Collections U of T support at [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca). 
 4. Collection owners are responsible for reading and following Collections U of T policies.
 5. Collections and items deposited into Collections U of T must not be ephemeral or intended for temporary access.
 6. Collection owners must not deposit duplicates of the same item.
