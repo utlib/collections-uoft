@@ -4,9 +4,9 @@
 This documentation is intended for:
 * U of T staff using Collections U of T
 * Open technology community members interested in Collections U of T technology infrastructure
-* Researchers or public users interested in browsing and searching U of T's digital collections 
+* Researchers or public users interested in browsing and searching U of T's digital collections should refer to https://collections.library.utoronto.ca/explore/help (page not yet published)
 
-As of March 2023 this documentation status is *draft* and has not been approved by UTL Senior Staff.
+*As of March 2023 this documentation status is *draft* and has not been approved by UTL Senior Staff.*
 
 **Skip to:**
 * [About Collections U of T](README.md#about-collections-u-of-t)
@@ -14,12 +14,6 @@ As of March 2023 this documentation status is *draft* and has not been approved 
     * Requesting a top-level collection
     * [Metadata instructions](docs/metadata_template_instructions.md)
     * [Ingest instructions](docs/ingest_instructions.md)
-* Documentation for getting started with Collections U of T
-    * Searching
-    * [What is IIIF?](docs/iiif-collections-u-of-t.md)
-        * Using IIIF - Tools
-        * Using IIIF - Downloading
-        * Using IIIF - Embedding
 
 ## About Collections U of T
 [Collections U of T](https://collections.library.utoronto.ca) is the  University of Toronto Libraries' image repository for digitized special collections and archives. It provides open access to these digital image collections through the [International Image Interoperability Framework (IIIF)](https://iiif.io/) and standard metadata formats. 
