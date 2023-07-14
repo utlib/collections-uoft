@@ -36,7 +36,7 @@ Collections U of T is not:
 
 UTL staff can request a consultation for Collections U of T support at [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca).
 
-Researchers, students, and faculty can read documentation provided here to learn how to use the system. Please send any questions or feedback to [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca).
+Researchers, students, and faculty can read documentation at https://collections.library.utoronto.ca/explore/help (page not yet published) to learn how to use the system. Please send any questions or feedback to [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca).
 
 ### List of Top-Level Collections in Collections U of T
 
