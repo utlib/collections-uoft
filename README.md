@@ -34,9 +34,26 @@ Collections U of T is not:
 * Able to store media types other than image files. Note: it does not currently support .pdf, audio, or video collections
 * Open to anyone - digital collections must be *assessed* prior to inclusion. Because the service is intended for providing long term discovery and display of access copies of digital collections, the digital objects must belong to a UTL department or archives and be assessed by a UTL staff collection owner prior to inclusion. UTL collection owners are responsible for assessing digital objects for accessibility, privacy and copyright considerations, as well as staffing capacity to support the care and maintenance of the digital collection over time. 
 
-UTL staff can request a consultation for Collections U of T support at [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca).
-
 Researchers, students, and faculty can read documentation at https://collections.library.utoronto.ca/explore/help (page not yet published) to learn how to use the system. Please send any questions or feedback to [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca).
+
+### Collections U of T Policies
+
+#### Collection Guidelines
+
+1. Digital collections or digital objects deposited into Collections U of T are published with the intent of access in perpetuity.
+2. The repository is structured by top-level library or archives. Any content added to Collections U of T must belong to a top-level collection reflecting the UTL library or archives department responsible for the digitized item/collection. The top-level collection library or archives is referred to as the "collection owner".
+3. To create a new top-level collection and obtain logins, Library or Archives can request a consultation for Collections U of T support at [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca). 
+4. Collection owners are responsible for reading and following Collections U of T policies.
+5. Collections and items deposited into Collections U of T must not be ephemeral or intended for temporary access.
+6. Collection owners must not deposit duplicates of the same item.
+7. Collection owners must follow Canadian Copyright law when submitting items/collections to Collections U of T. If the collection owner does not hold the rights to publish the material online, permission must be obtained.
+8. Collection owners are responsible for assessing digital objects for accessibility, privacy and copyright considerations, as well as staffing capacity to support the care and maintenance of the digital collection over time. Consideration should be given that the items submitted to Collections U of T will be publicly accessible in perpetuity.
+9. Collection owners must follow Collections U of T metadata guidelines.
+10. Collections owners are responsible for ensuring their collection content is preserved. Note that Collections U of T is not a preservation repository.
+
+#### Format Support
+
+Collections U of T can only accept image files - .tiff, .jp2, and jpg formats. No other formats can be uploaded to the repository at this time. 
 
 ### List of Top-Level Collections in Collections U of T
 
