@@ -47,7 +47,7 @@ Researchers, students, and faculty can read documentation at https://collections
 5. Collections and items deposited into Collections U of T must not be ephemeral or intended for temporary access.
 6. Collection owners must not deposit duplicates of the same item.
 7. Collection owners must follow Canadian Copyright law when submitting items/collections to Collections U of T. If the collection owner does not hold the rights to publish the material online, permission must be obtained.
-8. Collection owners are responsible for assessing digital objects for accessibility, privacy and copyright considerations, as well as staffing capacity to support the care and maintenance of the digital collection over time. Consideration should be given that the items submitted to Collections U of T will be publicly accessible in perpetuity.
+8. Collection owners are responsible for assessing digital objects for accessibility, privacy and copyright considerations, as well as staffing capacity to support the care and maintenance of the digital collection over time. Consideration should be given that the items submitted to Collections U of T will be accessible in perpetuity and may require future staff time to maintain.
 9. Collection owners must follow Collections U of T metadata guidelines.
 10. Collections owners are responsible for ensuring their collection content is preserved. Note that Collections U of T is not a preservation repository.
 
