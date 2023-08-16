@@ -1,9 +1,3 @@
-import MdxLayoutWrapper from '@/layouts/MdxLayoutWrapper'
-
-export const meta = {
-  author: 'Collections U of T'
-}
-
 # What is IIIF?
 
 [IIIF (International Image Interoperability Framework)](http://iiif.io/) is a set of APIs and related tools created by an international community of leading cultural institutions. The IIIF community has created documentation to help you learn how to use the [IIIF APIs](https://iiif.io/get-started/how-iiif-works/), how to use the [IIIF Mirador viewer](https://iiif.io/guides/using_iiif_resources/#mirador), and how to [find other IIIF digitized collections](https://iiif.io/guides/finding_resources/) from cultural heritage institutions across the globe. Below you will find additional IIIF documentation specific to Collections U of T and the University of Toronto's IIIF digital collections.
@@ -12,7 +6,7 @@ export const meta = {
 
 Each digitized object in Collections U of T has something called a **IIIF manifest**. On each digital object's view page, you will see a *Copy IIIF Manifest* button in the top right corner of the display.
 
-![Mirador viewer display of the "Italian tour: 3,000 miles with Lunn" manuscript](../img/1_copy_iiif_manifest_button.jpg)
+![Mirador viewer display of the "Italian tour: 3,000 miles with Lunn" manuscript](/docs/img/1_copy_iiif_manifest_button.jpg)
 
 This button is intended to make it easy for you to copy IIIF manifests for digital objects you are interested in reusing. IIIF manifests contain information about the images and metadata for digitized objects and allow for the reuse of the digitized objects they represent. You can also access **all** Collections U of T IIIF manifests at [https://iiif.library.utoronto.ca/presentation/v2/collections](https://iiif.library.utoronto.ca/presentation/v2/collections).
 
