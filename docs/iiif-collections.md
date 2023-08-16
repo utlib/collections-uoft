@@ -30,7 +30,7 @@ Some collections may not have rights information. For these, a contact email is 
 ## What can I do with IIIF manifests? 
 Once you have copied a IIIF manifest, you can paste it into a number of open tools to reuse the image. Note that IIIF manifests are accessible through URLs (links). IIIF manifest URLs point to a publicly accessible document, written in a format called JSON (or JavaScript Object Notation). Clicking on the IIIF manifest link, or pasting the URL into your browser, will lead you to a document that looks like this:
 
-![The JSON view of a IIIF manifest for the "Italian tour: 3,000 miles with Lunn" manuscript](../img/2_iiif_manifest_json.jpg)
+![The JSON view of a IIIF manifest for the "Italian tour: 3,000 miles with Lunn" manuscript](img/2_iiif_manifest_json.jpg)
 
 Instead of clicking on the link, you want to **copy** the IIIF manifest of the digital object you are working with *into* the tool of your choice. 
 
