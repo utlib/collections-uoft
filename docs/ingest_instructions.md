@@ -4,7 +4,7 @@ New Collections U of T infrastructure will be launched in 2023 as the UTL ITS te
 
 Manual ingests by UTL ITS are possible during this migration period. 
 
-Please clear all copyright and privacy considerations for the collection before submitting the images to Collections U of T for online public access.
+Please clear all copyright, privacy, and rights considerations for the collection before submitting the images to Collections U of T for online public access.
 
 To ingest into an existing top-level collection, [contact us](mailto:digitalinitiatives@library.utoronto.ca) with the following details:
 
