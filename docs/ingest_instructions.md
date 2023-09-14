@@ -20,9 +20,10 @@ To ingest into an existing top-level collection, [contact us](mailto:digitalinit
 
 **If adding to an existing collection, include:**
 1. PID of the collection you are adding to
-2. Path to the completed [metadata spreadsheet](https://github.com/utlib/collections-uoft/blob/main/docs/metadata_template_instructions.md)
-7. Path to the directory where the images are stored (you must ensure image filenames match metadata spreadsheet filenames)
-8. Deadline for ingest to help us prioritize and schedule the work
+2. Path to the completed [metadata spreadsheet](https://github.com/utlib/collections-uoft/blob/main/docs/metadata_template_instructions.md) or URL paths to existing Alma MARC records (we can convert these to spreadsheet using MARCEdit)
+3. Whether the viewing direction of the images should be right to left - note: if the metadata language is set to "Hebrew" or "Chagatai", the Collections U of T ingest will automatically set the viewing direction to right to left for these resources. If there are other languages you would like us to set automatic right to left viewing for, please email us.
+4. Path to the directory where the images are stored (you must ensure image filenames match metadata spreadsheet filenames)
+5. Deadline for ingest to help us prioritize and schedule the work
 
 **A note on updating images within an object that has already been public for an extended period of time**
 
