@@ -1,18 +1,20 @@
+# Transcribing and Annotating Collections U of T Images
+
 This page compiles an ongoing list of transcription and annotation tools that can be used with Collections U of T images. 
 
 For Collections U of T purposes, we are interested in tools that are designed to work with [IIIF](https://iiif.io) and follow the [W3C Web Annotation Data Model](https://www.w3.org/TR/annotation-model) - coming out of the [W3C Open Annotations Community](https://www.w3.org/community/openannotation/). 
 
 Collections U of T does not currently support TEI xml. 
 
-Transcriptions ingested into Collections U of T should be stable and in a final format. It is possible to use Collections U of T objects in course content or transcribe-a-thons, but content ingested into the platform should be reviewed by collection owners and approved for public display.
+Please note: collection owners should only upload final, complete transcriptions into Collections U of T. Transcriptions are displayed publicly and indexed for search. It is possible to reuse Collections U of T objects in course content or transcribe-a-thons - but the resulting text from these should not be ingested into Collections U of T before review by collection owners. Content should be approved for public display and search indexing before being added to Collections U of T.
 
-# From The Page
+## From The Page
 
 As example, the Thomas Fisher Rare Book Library has purchased a From The Page membership account for their transcription work. The profile is available at https://fromthepage.com/utl
 
 Other collection owners are encouraged to assess if From The Page meets their use case and context. From The Page offers trial accounts for testing.
 
-## Importing Collections U of T IIIF manifests into From The Page for transcription
+### Importing Collections U of T IIIF manifests into From The Page for transcription
 
 
 1\. Navigate to the collection of the object you would like to transcribe - i.e. <https://collections.library.utoronto.ca/view/fisher2:root> or find the object you want to add to From The Page and click on it.
@@ -68,6 +70,14 @@ Other collection owners are encouraged to assess if From The Page meets their us
 
 12\. And you will see the IIIF manifest imported into From The Page for you to begin transcription!
 
-### [Documentation dade with Scribe](https://scribehow.com)
+13\. Contact digitalinitiatives@library.utoronto.ca when you are ready to add your From The Page transcriptions into Collections U of T.
+
+#### [Documentation dade with Scribe](https://scribehow.com)
+
+## Other Tools
+* (IIIF Toolkit for Omeka)[https://github.com/utlib/IiifItems/wiki/Importing-IIIF-Content]
+* (Transkribus)[https://transkribus.eu/]
+* (Recogito)[https://recogito.pelagios.org/] and {Annotorius)[https://recogito.github.io/annotorious/about/]
+* (T-PEN)[http://t-pen.org/TPEN/]
 
 
