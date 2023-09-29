@@ -88,9 +88,9 @@ Other collection owners are encouraged to assess if From The Page meets their us
 #### [Documentation dade with Scribe](https://scribehow.com)
 
 ## Other Tools
-* (IIIF Toolkit for Omeka)[https://github.com/utlib/IiifItems/wiki/Importing-IIIF-Content]
-* (Transkribus)[https://transkribus.eu/]
-* (Recogito)[https://recogito.pelagios.org/] and {Annotorius)[https://recogito.github.io/annotorious/about/]
-* (T-PEN)[http://t-pen.org/TPEN/]
+* [IIIF Toolkit for Omeka](https://github.com/utlib/IiifItems/wiki/Importing-IIIF-Content)
+* [Transkribus](https://transkribus.eu/)
+* [Recogito](https://recogito.pelagios.org/) and [Annotorius](https://recogito.github.io/annotorious/about/)
+* [T-PEN](http://t-pen.org/TPEN/)
 
 
