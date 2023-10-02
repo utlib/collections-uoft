@@ -85,7 +85,7 @@ Other collection owners are encouraged to assess if From The Page meets their us
 
 13\. Contact digitalinitiatives@library.utoronto.ca when you are ready to add your From The Page transcriptions into Collections U of T.
 
-#### [Documentation dade with Scribe](https://scribehow.com)
+#### [Documentation made with Scribe](https://scribehow.com)
 
 ## Other Tools
 * [IIIF Toolkit for Omeka](https://github.com/utlib/IiifItems/wiki/Importing-IIIF-Content)
