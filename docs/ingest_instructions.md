@@ -25,7 +25,7 @@ To ingest into an existing top-level collection, [contact us](mailto:digitalinit
 4. Path to the directory where the images are stored (you must ensure image filenames match metadata spreadsheet filenames)
 5. Deadline for ingest to help us prioritize and schedule the work
 
-Consult with the Collections U of T team if you are ingesting OCR text or transcriptions for your image files. Instructions for using transcription tools with Collections U of T IIIF manifests can also be found [here](/docs/transcription_and_annotation_tools.md).
+Consult with the Collections U of T team if you are ingesting OCR text or transcriptions for your image files. Instructions for using transcription tools with Collections U of T IIIF manifests can also be found [here](/main/docs/transcription_and_annotation_tools.md).
 
 **A note on updating images within an object that has already been public for an extended period of time**
 
