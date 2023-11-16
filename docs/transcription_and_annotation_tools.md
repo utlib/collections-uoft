@@ -68,7 +68,7 @@ Other collection owners are encouraged to assess if From The Page meets their us
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-28/5aae0682-805f-4075-b2fb-f1c0fcc41884/ascreenshot.jpeg?tl_px=1005,436&br_px=1865,917&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=512,212)
 
 
-12\. And you will see the IIIF manifest imported into From The Page for you to begin transcription! Transcription guideline suggestions can be provided by your supervisor / the collection owner. 
+12\. And you will see the IIIF manifest imported into From The Page for you to begin transcription! Transcription guideline suggestions can be provided by your supervisor or the department/library/archives who care for the collection. 
 
 
 13\. Contact digitalinitiatives@library.utoronto.ca when you are ready to add your From The Page transcriptions into Collections U of T.
