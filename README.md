@@ -14,6 +14,7 @@ This documentation is intended for:
     * Requesting a top-level collection
     * [Metadata instructions](docs/metadata_template_instructions.md)
     * [Ingest instructions](docs/ingest_instructions.md)
+    * [Transcription and Annotation tools for Collections U of T IIIF images](docs/transcription_and_annotation_tools.md)
 
 ## About Collections U of T
 [Collections U of T](https://collections.library.utoronto.ca) is the  University of Toronto Libraries' image repository for digitized special collections and archives. It provides open access to these digital image collections through the [International Image Interoperability Framework (IIIF)](https://iiif.io/) and standard metadata formats. 
