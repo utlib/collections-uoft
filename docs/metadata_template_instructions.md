@@ -94,4 +94,4 @@ All collections share the same metadata schema, as laid out in the metadata spre
 
 Note that for values in the Creator / Contributor field the role term you enter in the role column will become the metadata label. If you enter "none" or do not enter anything into the role term column then the default display label will be Creator / Contributor. Here is an example of names entered with "none" as well as "bookplate designer" for manuscript [fisher2:11952](https://collections.library.utoronto.ca/view/fisher2:11952).
 
-![Creator or Contributor role terms become labels per name.](/img/creator_contributor_role_terms.jpg
+![Creator or Contributor role terms become labels per name](/img/creator_contributor_role_terms.jpg
