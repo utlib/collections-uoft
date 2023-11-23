@@ -90,5 +90,5 @@ Note that if you are working in Google Sheets on your Collections U of T metadat
 
 # How do I alter the metadata labels that publicly display for my collection on Collections U of T?
 
-All collections share the same metadata schema, as laid out in the metadata spreadsheet template. However, it is possible to submit a request for metadata display changes to ITS. [These documents are internal](https://git.library.utoronto.ca/utl-its/digital-collections/collections-api/-/tree/feature_merged/src/configs/metadataMapping) and managed by the ITS team. Changing the display label for your collection can be requested by [emailing Collections U of T ITS staff](mailto:digitalinitiatives@library.utoronto.ca).
+All collections share the same metadata schema, as laid out in the metadata spreadsheet template. However, it is possible to submit a request for metadata display changes to ITS. [These documents are internal](https://git.library.utoronto.ca/utl-its/digital-collections/collections-api/-/tree/feature_merged/src/configs/metadataMapping) and managed by the ITS team. Changing the display label for your collection can be requested by [emailing Collections U of T ITS staff](mailto:digitalinitiatives@library.utoronto.ca). The metadata display also controls the labels for your collection items' IIIF manifests.
 
