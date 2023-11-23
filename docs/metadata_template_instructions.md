@@ -14,6 +14,7 @@ The [Collections U of T Metadata Spreadsheet Template](https://docs.google.com/s
 * [Google Sheets Tips](metadata_template_instructions.md#google-sheets-tips)
 * [MARCEdit Tips](metadata_template_instructions.md#marcedit-tips)
 * [OpenRefine Tips](metadata_template_instructions.md#openrefine-tips)
+* [How do I update Metadata Labels on Collections U of T for my collection?](metadata_template_instructions.md#how-do-i-alter-the-metadata-labels-that-publicly-display-for-my-collection-on-collections-u-of-t)
 
 ## Getting Started with Collections U of T Metadata
 
