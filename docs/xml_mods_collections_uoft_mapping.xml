@@ -36,8 +36,11 @@
     <originInfo>
         <publisher>Publisher</publisher>
         <place>
-            <placeTerm type="code" authority="marccountry">PlaceTerm_Code</placeTerm>
             <placeTerm type="text">PlaceTerm_Text</placeTerm><!-- if converting from MARC and there is a marccountry code field, add a placeTerm type="text" tag. Find the correct value from the marccountry list at https://www.loc.gov/marc/countries/countries_code.html -->
+        </place>
+        <place>
+            <placeTerm type="code" authority="marccountry">PlaceTerm_Code</placeTerm>
+            <placeTerm type="text" authority="marccountry">auto-populates upon ingest</placeTerm>
         </place>
         <dateIssued>Date_Full</dateIssued>
         <dateOther>Date_Facet</dateOther><!-- for the <dateOther> tag, when converting from MARC, you will likely need to manually enter the dateOther tag. This field is used to record the decade of the date for simple facets by either a) decade - i.e. 1900s, 1910s, 1950s - or b)
