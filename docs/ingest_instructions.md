@@ -37,4 +37,4 @@ Be aware that changing the images in your digital objects after they have been p
 
 **Can I ingest A/V file formats into Collections U of T?**
 
-No, you cannot ingest A/V file formats into Collections U of T. At this time, A/V file formats can be stored in UTL's MyMedia service. Once stored in MyMedia, you can use the MyMedia embed link to add the videos to simple pages for your collection. You can also ingest metadata for these files to surface in Collections U of T search. For more information about how to handle A/V digital collections, [contact us](mailto:digitalinitiatives@library.utoronto.ca).
+No, you cannot ingest A/V file formats into Collections U of T. At this time, A/V file formats can be stored in UTL's [MyMedia service](https://mymedia.library.utoronto.ca/). Once stored in MyMedia, you can use the MyMedia embed link to add the videos to simple pages for your collection. You can also ingest metadata for these files to surface in Collections U of T search. For more information about how to handle A/V digital collections, [contact us](mailto:digitalinitiatives@library.utoronto.ca).
