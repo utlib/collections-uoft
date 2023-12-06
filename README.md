@@ -10,6 +10,7 @@ This documentation is intended for:
 
 **Skip to:**
 * [About Collections U of T](README.md#about-collections-u-of-t)
+* [Collections U of T policies](README.md#collections-u-of-t-policies)
 * Documentation for collection owners
     * Requesting a top-level collection
     * [Metadata instructions](docs/metadata_template_instructions.md)
