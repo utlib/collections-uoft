@@ -1,6 +1,6 @@
 # Ingest instructions
 
-New Collections U of T infrastructure will be launched in 2023 as the UTL ITS team completes its migration off of Islandora 7 (Drupal 7). 
+New Collections U of T infrastructure will be launched in 2024 as the UTL ITS team completes its migration off of Islandora 7 (Drupal 7). 
 
 Manual ingests by UTL ITS are possible during this migration period. 
 
