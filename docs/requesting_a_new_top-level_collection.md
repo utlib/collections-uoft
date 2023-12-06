@@ -9,6 +9,8 @@ U of T libraries and archives can request use of Collections U of T any time by 
 * PID of collection (this will be included in the URL for your top-level collection and *cannot* be changed once it is published)
 * Emails for staff who will require access to the Collections U of T administration back end
 
+**Note: because of service capacity, approving your request, onboarding staff, and setting up your new collection may take 2-8 weeks to complete.**
+
 To have your request for a new top-level collection in Collections U of T approved, please ensure:
 * You commit to following Collections U of T policies and procedures, both current and as they evolve
 * You have staff members available who are familiar with metadata best practices and can follow Collections U of T metadata guidelines
