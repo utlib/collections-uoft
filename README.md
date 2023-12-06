@@ -11,8 +11,8 @@ This documentation is intended for:
 **Skip to:**
 * [About Collections U of T](README.md#about-collections-u-of-t)
 * [Collections U of T policies](README.md#collections-u-of-t-policies)
-* Documentation for collection owners
-    * Requesting a top-level collection
+* Documentation for collection owners:
+    * [Requesting a top-level collection](docs/requesting_a_new_top-level_collection.md)
     * [Metadata instructions](docs/metadata_template_instructions.md)
     * [Ingest instructions](docs/ingest_instructions.md)
     * [Transcription and Annotation tools for Collections U of T IIIF images](docs/transcription_and_annotation_tools.md)
