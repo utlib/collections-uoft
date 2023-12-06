@@ -9,10 +9,10 @@ U of T libraries and archives can request use of Collections U of T any time by 
 * PID of collection (this will be included in the URL for your top-level collection and *cannot* be changed once it is published)
 * Approximate size (MB, GB, or TB) of images you are initially planning to ingest (we may need to increase storage, depending on your collection size)
 * Confirmation that the image collections you will be ingesting are:
-    a) intended for long-term, public, and perpetual acess
-    b) cleared for accessibility, privacy and copyright considerations. You must follow Canadian Copyright law when uploading digital images into Collections U of T. If you do not hold the rights to publish the material online, permission must be obtained. 
-    c) not duplicates of existing items already in Collections U of T under another library/archives' collection
-    d) not being stored in Collections U of T for preservation (it is not a preservation repository)
+*    a) intended for long-term, public, and perpetual acess
+*    b) cleared for accessibility, privacy and copyright considerations. You must follow Canadian Copyright law when uploading digital images into Collections U of T. If you do not hold the rights to publish the material online, permission must be obtained. 
+*    c) not duplicates of existing items already in Collections U of T under another library/archives' collection
+*    d) not being stored in Collections U of T for preservation (it is not a preservation repository)
 * Emails for staff who will require access to the Collections U of T administration back end
 
 **Note: because of service capacity, approving your request, onboarding staff, and setting up your new collection may take 2-8 weeks to complete.**
