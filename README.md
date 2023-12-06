@@ -42,7 +42,7 @@ Researchers, students, and faculty can read documentation at https://collections
 
 #### Collection Guidelines
 
-1. Digital collections or digital objects deposited into Collections U of T are published with the intent of access in perpetuity. Currently, Collections U of T does not have restriction features - all content in the repository is publicly accessible. If you require storage for digital image collections accessibly only to internal UTL or U of T users, please [contact us](mailto:digitalinitiatives@library.utoronto.ca). 
+1. Digital collections or digital objects deposited into Collections U of T are published with the intent of access in perpetuity. Note: currently, Collections U of T does not have restriction features - all images in the repository are publicly accessible and publicly downloadable. If you require storage for digital image collections but want to restrict access or downloads to internal UTL or U of T users, please [contact us](mailto:digitalinitiatives@library.utoronto.ca). 
 2. The repository is structured by top-level U of T library or archives. Any content added to Collections U of T must belong to a top-level collection reflecting the UTL library or archives department responsible for the digitized item/collection. The top-level collection library or archives is referred to as the "collection owner".
 3. To create a new top-level collection and obtain logins, U of T library or archives can request a consultation for Collections U of T support at [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca). 
 4. Collection owners are responsible for reading and following Collections U of T policies.
