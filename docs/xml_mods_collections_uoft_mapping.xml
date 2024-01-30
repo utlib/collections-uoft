@@ -69,7 +69,7 @@ century - i.e. 15th century, 13th century, 20th century. Use decades unless coll
     <identifier type="local">PID</identifier><!-- when converting from MARC, you will need to manually enter the PID and most other identifier tags. -->
     <identifier type="callnumber">Call_Number</identifier>
     <identifier type="fisher_f_number">Fisher_F_Number</identifier>
-    <identifier type="usmc_pid">USMC_PID</identifier>
+    <identifier type="alternate_identifier">alternate_identifier</identifier><!-- formerly USMC_pid and other collections' alt identifiers -->
     <identifier type="utarms_display" displayLabel="digital item no">utarms_digital_object_id</identifier>
     <identifier type="utarms" displayLabel="original identifier">utarms_original_item_no</identifier>
     <subject>
