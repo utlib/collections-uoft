@@ -1,121 +1,116 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
     <titleInfo>
-        <title>Title</title>
+        <title lang="title_lang">title</title>
     </titleInfo>
-    <titleInfo type="alternative">
-        <title>Title_Alternative</title><!-- For titles with multiple languages in different character sets, use the Title_Alternative tag for the romanized titles in the ASCII character set and use Title_Translated for other translations. We keep a separate tag for romanized titles for legacy indexing and display reasons. For an example, see the rclc-hkl:xhrb collection -->
+    <titleInfo lang="title_alternative_lang" type="alternative">
+        <title>title_alternative</title><!-- For titles with multiple languages in different character sets, use the Title_Alternative tag for the romanized titles in the ASCII character set and use Title_Translated for other translations. We keep a separate tag for romanized titles for legacy indexing and display reasons. For an example, see the rclc-hkl:xhrb collection -->
     </titleInfo>
-    <titleInfo type="translated">
-        <title>Title_Translated</title><!-- Use for any translated titles. For titles with multiple languages in different character sets, use the Title_Alternative tag for the romanized titles in the ASCII character set, and use Title_Translated for other translations. We keep a separate tag for romanized titles for legacy indexing and display reasons. For an example, see the rclc-hkl:xhrb collection -->
+    <titleInfo lang="title_translated_lang" type="translated">
+        <title>title_translated</title><!-- Use for any translated titles. For titles with multiple languages in different character sets, use the Title_Alternative tag for the romanized titles in the ASCII character set, and use Title_Translated for other translations. We keep a separate tag for romanized titles for legacy indexing and display reasons. For an example, see the rclc-hkl:xhrb collection -->
     </titleInfo>
-    <titleInfo type="uniform">
-        <title>Title_Uniform</title>
+    <titleInfo lang="title_uniform_lang" type="uniform">
+        <title>title_uniform</title>
     </titleInfo>
     <part>
         <detail type="volume">
-            <number>Volume</number>
+            <number>volume</number>
         </detail>
         <detail type="issue">
-            <number>Issue</number>
+            <number>issue</number>
         </detail>
         <extent unit="pages">
-            <start>Pages</start>
-            <end>Pages</end>
+            <start>pages</start>
+            <end>pages</end>
         </extent>
     </part>
     <name>
-        <namePart>Creator_Contributor</namePart>
-        <nameIdentifier type="viaf">VIAF_Name_Identifier</nameIdentifier>
+        <namePart lang="creator_contributor_lang">creator_contributor</namePart>
+        <nameIdentifier type="viaf">viaf_name_identifier</nameIdentifier>
         <role>
             <roleTerm authority="marcrelator" type="text">creator_contributor_role</roleTerm>
         </role>
     </name>
-    <typeOfResource>Type_Of_Resource</typeOfResource><!-- Use only terms from https://id.loc.gov/vocabulary/resourceTypes.html ; when converting from MARC, remove manuscript="yes" attribute -->
-    <genre>Genre</genre><!-- for the <genre> tag, when converting from MARC, please delete any period that completes the term in this tag. For example, .</genre> should become </genre> -->
+    <typeOfResource>type_of_resource</typeOfResource><!-- Use only terms from https://id.loc.gov/vocabulary/resourceTypes.html ; when converting from MARC, remove manuscript="yes" attribute -->
+    <genre>genre</genre><!-- for the <genre> tag, when converting from MARC, please delete any period that completes the term in this tag. For example, .</genre> should become </genre> -->
     <originInfo>
-        <publisher>Publisher</publisher>
+        <publisher>publisher</publisher>
         <place>
-            <placeTerm type="text">PlaceTerm_Text</placeTerm><!-- if converting from MARC and there is a marccountry code field, add a placeTerm type="text" tag. Find the correct value from the marccountry list at https://www.loc.gov/marc/countries/countries_code.html -->
+            <placeTerm type="text">placeterm_text</placeTerm><!-- if converting from MARC and there is a marccountry code field, add a placeTerm type="text" tag. Find the correct value from the marccountry list at https://www.loc.gov/marc/countries/countries_code.html -->
         </place>
         <place>
-            <placeTerm type="code" authority="marccountry">PlaceTerm_Code</placeTerm>
-            <placeTerm type="text" authority="marccountry">auto-populates upon ingest</placeTerm>
+            <placeTerm type="code" authority="marccountry">placeterm_code</placeTerm>
+            <placeTerm type="text" authority="marccountry">auto-populates upon ingest from placeterm_code value - if you do not input a placeterm_code value, you will not have a place facet on your search page</placeTerm>
         </place>
-        <dateIssued>Date_Full</dateIssued>
-        <dateOther>Date_Facet</dateOther><!-- for the <dateOther> tag, when converting from MARC, you will likely need to manually enter the dateOther tag. This field is used to record the decade of the date for simple facets by either a) decade - i.e. 1900s, 1910s, 1950s - or b)
+        <dateIssued>date_full</dateIssued>
+        <dateOther>date_facet</dateOther><!-- for the <dateOther> tag, when converting from MARC, you will likely need to manually enter the dateOther tag. This field is used to record the decade of the date for simple facets by either a) decade - i.e. 1900s, 1910s, 1950s - or b)
 century - i.e. 15th century, 13th century, 20th century. Use decades unless collection/object spans over 4 decades. For objects that fall within a range of dates, add multiple decades or centuries. -->
-        <issuance>Issuance</issuance><!-- this tag is used by Fisher MARC records -->
-        <edition>Edition</edition><!-- this tag is used by Fisher MARC records -->
+        <issuance>issuance</issuance><!-- this tag is used by Fisher MARC records -->
+        <edition>edition</edition><!-- this tag is used by Fisher MARC records -->
     </originInfo>
     <language>
-        <languageTerm authority="iso639-2b" type="text">Language_Text</languageTerm><!-- Use the English name of language term from https://www.loc.gov/standards/iso639-2/php/code_list.php -->
-        <languageTerm authority="iso639-2b" type="code">Language_Code</languageTerm><!-- Use the 3 letter ISO 639-2 code from https://www.loc.gov/standards/iso639-2/php/code_list.php -->
+        <languageTerm authority="iso639-2b" type="text">language_text</languageTerm><!-- Use the English name of language term from https://www.loc.gov/standards/iso639-2/php/code_list.php -->
+        <languageTerm authority="iso639-2b" type="code">language_code</languageTerm><!-- Use the 3 letter ISO 639-2 code from https://www.loc.gov/standards/iso639-2/php/code_list.php -->
     </language>
     <physicalDescription>
-      <form authority="marcform">Form_MARCform</form>
-      <form authority="gmd">Form_GMD</form>
-      <extent>Extent</extent>
-      <note type="note" displayLabel="Note">Physical_Description_Note</note>
+      <form authority="marcform">form_marcform</form>
+      <form authority="gmd">form_gmd</form>
+      <extent>extent</extent>
+      <note type="note" displayLabel="Note">physical_description_note</note>
     </physicalDescription>
-    <abstract>Description</abstract>
-    <tableOfContents>Table_Of_Contents</tableOfContents>
+    <abstract>description</abstract>
+    <tableOfContents>table_of_contents</tableOfContents>
     <location>
-        <physicalLocation>Holding_Institution</physicalLocation><!-- for the <physicalLocation> tag, when converting from MARC, you will need to manually enter the Holding Institution. Refer to existing library names in other metadata files so you are consistent. -->
-        <url displayLabel="Catalog Record">URL_Catkey</url><!-- when converting from MARC, you will need to manually enter the Catalog Record URL if the record has one. As of May, 2021 we will keep Sirsi permalinks as is for legacy purposes but always add Alma Record Permalinks going forward. -->
-        <url displayLabel="Alma Record">Alma_Record</url><!-- when converting from MARC, you will need to manually enter the Alma Record's Permalink URL. -->
-        <url usage="primary display" access="object in context">URL_Permalink</url><!-- when converting from MARC, you will need to manually enter the URL Permalink. The format is always https://collections.library.utoronto.ca/view/PID - where PID is the value within the <identifier type="local">PID</identifier> tag. -->
+        <physicalLocation>holding_institution</physicalLocation><!-- for the <physicalLocation> tag, when converting from MARC, you will need to manually enter the Holding Institution. Refer to existing library names in other metadata files so you are consistent. -->
+        <url displayLabel="catalog record">url_catkey</url><!-- when converting from MARC, you will need to manually enter the Catalog Record URL if the record has one. As of May, 2021 we will keep Sirsi permalinks as is for legacy purposes but always add Alma Record Permalinks going forward. -->
+        <url displayLabel="alma record">alma_record</url><!-- when converting from MARC, you will need to manually enter the Alma Record's Permalink URL. -->
+        <url usage="primary display" access="object in context">url_permalink</url><!-- when converting from MARC, you will need to manually enter the URL Permalink. The format is always https://collections.library.utoronto.ca/view/PID - where PID is the value within the <identifier type="local">PID</identifier> tag. -->
     </location>
-    <identifier type="local">PID</identifier><!-- when converting from MARC, you will need to manually enter the PID and most other identifier tags. -->
-    <identifier type="callnumber">Call_Number</identifier>
-    <identifier type="fisher_f_number">Fisher_F_Number</identifier>
+    <identifier type="local">pid</identifier><!-- when converting from MARC, you will need to manually enter the PID and most other identifier tags. -->
+    <identifier type="callnumber">call_number</identifier>
+    <identifier type="fisher_f_number">fisher_f_number</identifier>
     <identifier type="alternate_identifier">alternate_identifier</identifier><!-- formerly USMC_pid and other collections' alt identifiers -->
+    <identifier type="lccn">lccn_identifier</identifier>
     <identifier type="utarms_display" displayLabel="digital item no">utarms_digital_object_id</identifier>
     <identifier type="utarms" displayLabel="original identifier">utarms_original_item_no</identifier>
     <subject>
-        <topic>Subject_Topic</topic>
+        <topic>subject_topic</topic>
     </subject>
     <subject>
-        <geographic>Subject_Geographic</geographic>
-    </subject>
-    <subject>
-        <temporal>Subject_Temporal</temporal>
-    </subject>
-    <subject>
-        <genre>Subject_Genre</genre>
+        <topic authority="mesh">subject_topic_mesh</topic><!-- used for Anatomia collection -->
     </subject>
     <subject>
         <cartographics>
-            <coordinates>Coordinates</coordinates>
-            <scale>Scale</scale>
-            <projection>Projection</projection>
+            <coordinates>coordinates</coordinates>
+            <scale>scale</scale>
+            <projection>projection</projection>
         </cartographics>
     </subject>
-    <note>Note</note>
-    <note type="statement of responsibility">Statement_Of_Responsibility</note>
-    <note type="Publication Note">Publication_Note</note>
-    <note type="Related Materials">Related_Materials_Note</note>
-    <note type="ownership" displayLabel="Provenance">Provenance</note>
+    <note>note</note>
+    <note type="statement of responsibility">statement_of_responsibility</note>
+    <note type="Publication Note">publication_note</note>
+    <note type="Related Materials">related_materials_note</note>
+    <note type="ownership" displayLabel="Provenance">provenance</note>
     <relatedItem type="host" displayLabel="Part Of"><!-- no need to add unless item is part of bigger archival collection; commonly used for linking to archival collections or fonds in Discover Archives -->
         <titleInfo>
-            <title>Part_Of</title>
+            <title>part_of</title>
         </titleInfo>
     </relatedItem>
     <relatedItem type="series"><!-- no need to add unless specified by collection owner/archives -->
         <titleInfo>
-            <title>Part_Of_Series</title>
+            <title>part_of_series</title>
         </titleInfo>
     </relatedItem>
     <relatedItem type="constituent">
         <titleInfo>
-            <title>Part_Of_Constituent</title>
+            <title>part_of_constituent</title>
         </titleInfo>
         <name>
-        <namePart>Part_Of_Constituent_Creator</namePart>
+        <namePart>part_of_constituent_creator</namePart>
     </name>
     </relatedItem>
-    <accessCondition type="use and reproduction">Rights_Note</accessCondition>
-    <accessCondition type="restriction on access">Rights_Facet</accessCondition>
-    <accessCondition type="credit">Credit</accessCondition>
+    <accessCondition type="use and reproduction">rights_note</accessCondition>
+    <accessCondition type="restriction on access">rights_facet</accessCondition>
+    <accessCondition type="credit">credit</accessCondition>
     <!-- delete comments from file before submitting to Collections U of T -->
 </mods>
