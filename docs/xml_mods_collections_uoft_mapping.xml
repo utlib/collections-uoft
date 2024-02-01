@@ -88,8 +88,8 @@ century - i.e. 15th century, 13th century, 20th century. Use decades unless coll
     </subject>
     <note>note</note>
     <note type="statement of responsibility">statement_of_responsibility</note>
-    <note type="Publication Note">publication_note</note>
-    <note type="Related Materials">related_materials_note</note>
+    <note type="publication note">publication_note</note>
+    <note type="related materials">related_materials_note</note>
     <note type="ownership" displayLabel="Provenance">provenance</note>
     <relatedItem type="host" displayLabel="Part Of"><!-- no need to add unless item is part of bigger archival collection; commonly used for linking to archival collections or fonds in Discover Archives -->
         <titleInfo>
@@ -106,8 +106,8 @@ century - i.e. 15th century, 13th century, 20th century. Use decades unless coll
             <title>part_of_constituent</title>
         </titleInfo>
         <name>
-        <namePart>part_of_constituent_creator</namePart>
-    </name>
+            <namePart>part_of_constituent_creator</namePart>
+        </name>
     </relatedItem>
     <accessCondition type="use and reproduction">rights_note</accessCondition>
     <accessCondition type="restriction on access">rights_facet</accessCondition>
