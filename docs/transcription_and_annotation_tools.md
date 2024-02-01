@@ -18,6 +18,7 @@ Other collection owners are encouraged to assess if From The Page meets their us
 
 
 1\. Navigate to the collection of the object you would like to transcribe - i.e. <https://collections.library.utoronto.ca/view/fisher2:root> or find the object you want to add to From The Page and click on it.
+![How to Copy an IIIF Manifest for Transcribing and Annotating Collections U of T Images - Step 2](https://github.com/utlib/collections-uoft/assets/126804798/e22ba7ae-4ec0-4828-9116-986c822da82f)
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-28/708ec4c9-6401-4c66-b972-01ebaf013e23/ascreenshot.jpeg?tl_px=749,102&br_px=1609,583&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=402,212)
 
