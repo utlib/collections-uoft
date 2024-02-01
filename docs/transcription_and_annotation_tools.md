@@ -20,56 +20,56 @@ Other collection owners are encouraged to assess if From The Page meets their us
 1\. Navigate to the collection of the object you would like to transcribe - i.e. <https://collections.library.utoronto.ca/view/fisher2:root> or find the object you want to add to From The Page and click on it.
 ![How to Copy an IIIF Manifest for Transcribing and Annotating Collections U of T Images - Step 2](https://github.com/utlib/collections-uoft/assets/126804798/e22ba7ae-4ec0-4828-9116-986c822da82f)
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-28/708ec4c9-6401-4c66-b972-01ebaf013e23/ascreenshot.jpeg?tl_px=749,102&br_px=1609,583&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=402,212)
+
+2\. Scroll down and click "Share and Reuse"
+![Copy IIIF Manifest - Step 2 (1)](https://github.com/utlib/collections-uoft/assets/126804798/38759c96-93ae-4a80-85da-b265184e1f22)
+
+3\. Click "Copy IIIF Manifest"
+![Copy IIIF Manifest - Step 3](https://github.com/utlib/collections-uoft/assets/126804798/9cc24ece-8950-4a73-a911-f17114511d46)
 
 
-2\. Click "Copy IIIF Manifest"
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-28/578fd4be-05cf-474a-afdf-efde782efbf9/ascreenshot.jpeg?tl_px=1005,0&br_px=1865,480&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=611,-10)
+4\. In a new tab, navigate to [From The Page](https://fromthepage.com/)
 
 
-3\. In a new tab, navigate to [From The Page](https://fromthepage.com/)
-
-
-4\. Click "Sign In"
+5\. Click "Sign In"
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-28/f8ed9736-0e72-4055-9151-60e292581055/ascreenshot.jpeg?tl_px=0,106&br_px=859,587&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=249,212)
 
 
-5\. Once signed in, click "Dashboard" to find the appropriate From The Page collection you want to add the Collections U of T object to.
+6\. Once signed in, click "Dashboard" to find the appropriate From The Page collection you want to add the Collections U of T object to.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-28/a6f7a6d1-9290-48be-a5c9-a9cd9dca8f25/ascreenshot.jpeg?tl_px=1005,0&br_px=1865,480&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=505,11)
 
 
-6\. Click on the collection you want to add an object to  - in this case, "General Manuscripts"
+7\. Click on the collection you want to add an object to  - in this case, "General Manuscripts"
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-28/e6fe2d12-ee4d-4b59-bf86-84eb204c9fa0/ascreenshot.jpeg?tl_px=0,309&br_px=859,790&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=342,212)
 
 
-7\. Ensure the object doesn't already exist in the collection by searching for the title or identifier.
+8\. Ensure the object doesn't already exist in the collection by searching for the title or identifier.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-28/4f436eea-c00c-436c-b399-a8a68ae8d626/ascreenshot.jpeg?tl_px=876,92&br_px=1736,573&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=402,212)
 
 
-8\. If it doesn't already exist, click "Add a new work" at the bottom of the collection page.
+9\. If it doesn't already exist, click "Add a new work" at the bottom of the collection page.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-28/38de6613-def7-480b-9d1d-161f806eefc2/ascreenshot.jpeg?tl_px=0,367&br_px=859,848&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=306,212)
 
 
-9\. Click "Import a IIIF Manifest or Collection"
+10\. Click "Import a IIIF Manifest or Collection"
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-28/f2d8b77f-57a9-413a-80ef-e6f5478c006a/ascreenshot.jpeg?tl_px=82,78&br_px=941,559&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=402,212)
 
 
-10\. Paste the IIIF Manifest URL into the text box.
+11\. Paste the IIIF Manifest URL into the text box.
 
 
-11\. Click "Import Manifest"
+12\. Click "Import Manifest"
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-28/5aae0682-805f-4075-b2fb-f1c0fcc41884/ascreenshot.jpeg?tl_px=1005,436&br_px=1865,917&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=512,212)
 
 
-12\. And you will see the IIIF manifest imported into From The Page for you to begin transcription! Transcription guideline suggestions can be provided by your supervisor or the department/library/archives who care for the collection. 
+13\. And you will see the IIIF manifest imported into From The Page for you to begin transcription! Transcription guideline suggestions can be provided by your supervisor or the department/library/archives who care for the collection. 
 
 
 13\. Contact digitalinitiatives@library.utoronto.ca when you are ready to add your From The Page transcriptions into Collections U of T.
