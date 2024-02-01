@@ -81,9 +81,13 @@ century - i.e. 15th century, 13th century, 20th century. Use decades unless coll
     </subject>
     <subject>
         <cartographics>
-            <coordinates>coordinates</coordinates>
-            <scale>scale</scale>
-            <projection>projection</projection>
+          <coordinates>coordinates</coordinates>
+        </cartographics>
+        <cartographics>
+          <scale>scale</scale>
+        </cartographics>
+        <cartographics>
+          <projection>projection</projection>
         </cartographics>
     </subject>
     <note>note</note>
