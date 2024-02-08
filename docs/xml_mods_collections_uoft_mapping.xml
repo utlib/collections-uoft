@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
     <titleInfo>
-        <title lang="title_lang">title</title>
+        <title xml:lang="title_lang">title</title>
     </titleInfo>
-    <titleInfo lang="title_alternative_lang" type="alternative">
+    <titleInfo xml:lang="title_alternative_lang" type="alternative">
         <title>title_alternative</title><!-- For titles with multiple languages in different character sets, use the Title_Alternative tag for the romanized titles in the ASCII character set and use Title_Translated for other translations. We keep a separate tag for romanized titles for legacy indexing and display reasons. For an example, see the rclc-hkl:xhrb collection -->
     </titleInfo>
-    <titleInfo lang="title_translated_lang" type="translated">
+    <titleInfo xml:lang="title_translated_lang" type="translated">
         <title>title_translated</title><!-- Use for any translated titles. For titles with multiple languages in different character sets, use the Title_Alternative tag for the romanized titles in the ASCII character set, and use Title_Translated for other translations. We keep a separate tag for romanized titles for legacy indexing and display reasons. For an example, see the rclc-hkl:xhrb collection -->
     </titleInfo>
-    <titleInfo lang="title_uniform_lang" type="uniform">
+    <titleInfo xml:lang="title_uniform_lang" type="uniform">
         <title>title_uniform</title>
     </titleInfo>
     <part>
@@ -25,7 +25,7 @@
         </extent>
     </part>
     <name>
-        <namePart lang="creator_contributor_lang">creator_contributor</namePart>
+        <namePart xml:lang="creator_contributor_lang">creator_contributor</namePart>
         <nameIdentifier type="viaf">viaf_name_identifier</nameIdentifier>
         <role>
             <roleTerm authority="marcrelator" type="text">creator_contributor_role</roleTerm>
