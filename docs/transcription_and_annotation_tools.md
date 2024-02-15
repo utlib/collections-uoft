@@ -17,15 +17,20 @@ Other collection owners are encouraged to assess if From The Page meets their us
 ### Importing Collections U of T IIIF manifests into From The Page for transcription
 
 
-1\. Navigate to the collection of the object you would like to transcribe - i.e. <https://collections.library.utoronto.ca/view/fisher2:root> or find the object you want to add to From The Page and click on it.
-![How to Copy an IIIF Manifest for Transcribing and Annotating Collections U of T Images - Step 2](https://github.com/utlib/collections-uoft/assets/126804798/e22ba7ae-4ec0-4828-9116-986c822da82f)
+1\. Navigate to the collection of the object you would like to transcribe - i.e. <[https://collections.library.utoronto.ca/view/fisher2:F8597](https://collections-frontend-dev.library.utoronto.ca/view/fisher2:F8597)> or find the object you want to add to From The Page and click on it.
+[How to Copy IIIF Manifest from a Website - Step 2](https://github.com/utlib/collections-uoft/assets/126804798/1cca128d-dd88-43f8-8edb-547adb82f139)
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-28/708ec4c9-6401-4c66-b972-01ebaf013e23/ascreenshot.jpeg?tl_px=749,102&br_px=1609,583&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=402,212)
 
 
-2\. Click "Copy IIIF Manifest"
+2\. Click "Share and Reuse"
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-28/578fd4be-05cf-474a-afdf-efde782efbf9/ascreenshot.jpeg?tl_px=1005,0&br_px=1865,480&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=611,-10)
+![How to Copy IIIF Manifest from a Website - Step 3](https://github.com/utlib/collections-uoft/assets/126804798/49512fcd-52dc-4621-a6c9-03f154787754)
+
+
+3\. Click "Copy IIIF Manifest"
+
+![How to Copy IIIF Manifest from a Website - Step 3](https://github.com/utlib/collections-uoft/assets/126804798/832a6b86-a141-48e8-8c14-8b7ddc17e561)
 
 
 3\. In a new tab, navigate to [From The Page](https://fromthepage.com/)
