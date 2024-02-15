@@ -30,7 +30,8 @@ Other collection owners are encouraged to assess if From The Page meets their us
 
 3\. Click "Copy IIIF Manifest"
 
-![How to Copy IIIF Manifest from a Website - Step 3](https://github.com/utlib/collections-uoft/assets/126804798/0f7323ad-db88-4312-98ac-fe95fb8322f9)
+![How to Copy IIIF Manifest from a Website - Step 4](https://github.com/utlib/collections-uoft/assets/126804798/9259cba3-2adb-4479-b87b-3a668874da25)
+
 
 
 4\. In a new tab, navigate to [From The Page](https://fromthepage.com/)
