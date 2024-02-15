@@ -18,7 +18,8 @@ Other collection owners are encouraged to assess if From The Page meets their us
 
 
 1\. Navigate to the collection of the object you would like to transcribe - i.e. <[https://collections.library.utoronto.ca/view/fisher2:F8597](https://collections-frontend-dev.library.utoronto.ca/view/fisher2:F8597)> or find the object you want to add to From The Page and click on it.
-[How to Copy IIIF Manifest from a Website - Step 2](https://github.com/utlib/collections-uoft/assets/126804798/1cca128d-dd88-43f8-8edb-547adb82f139)
+![How to Copy IIIF Manifest from a Website - Step 2](https://github.com/utlib/collections-uoft/assets/126804798/2e5c7505-69c3-42b2-9091-276dca0fb1a6)
+
 
 ![How to Copy IIIF Manifest from a Website - Step 19](https://github.com/utlib/collections-uoft/assets/126804798/13465c3e-0b57-4520-aa06-5b83c299a1a3)
 
