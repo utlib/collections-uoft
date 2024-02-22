@@ -25,15 +25,19 @@ Migration FAQ
 --------
 
 1. Can I now resume ingesting new collections and images into the new Collections U of T beta site? Can I edit metadata again?
-   _Yes - if you have an existing repository page in Collections U of T you can add new collections and items at any time. UTL ITS will support facilitated ingest throughout 2024 as we continue monitoring the performance of the new Collections U of T application. Please [email us](mailto:digitalinitiatives@library.utoronto.ca) if you need ingest and editing support._
+
+_Yes - if you have an existing repository page in Collections U of T you can add new collections and items at any time. UTL ITS will support facilitated ingest throughout 2024 as we continue monitoring the performance of the new Collections U of T application. Please [email us](mailto:digitalinitiatives@library.utoronto.ca) if you need ingest and editing support._
 
 2. Is there an administrator login? How do I login to edit and upload digital images into the new Collections U of T beta site?
-   _You cannot login to the new Collections U of T application *yet*. UTL ITS is continuing to work on the Collections U of T administrator interface as we spend 2024 monitoring new Collections U of T performance and indexing. The new Collections U of T administrator interface is expected to launch in the *Summer of 2025*._ 
+
+_You cannot login to the new Collections U of T application *yet*. UTL ITS is continuing to work on the Collections U of T administrator interface as we spend 2024 monitoring new Collections U of T performance and indexing. The new Collections U of T administrator interface is expected to launch in the *Summer of 2025*._ 
 
 3. When will my Islandora 7 website be taken offline?
-   _Spring 2024. Copies of the Islandora 7 sites will be captured in UTL's [Archive-It account](https://archive-it.org/collections/6473)._
+
+_Spring 2024. Copies of the Islandora 7 sites will be captured in UTL's [Archive-It account](https://archive-it.org/collections/6473)._
 
 4. Why did UTL migrate the Collections U of T service off of Islandora?
-   _We decided to create a custom IIIF digital image collection discovery platform based on existing technology and infrastructure supported by UTL ITS and Scholars Portal. This solution is best suited to provide a flexible and scaleable technology for the Collections U of T service. You can read more about our research and planning around this migration in our [2020 Code4Lib article on the topic](https://journal.code4lib.org/articles/15000)._
+
+_We decided to create a custom IIIF digital image collection discovery platform based on existing technology and infrastructure supported by UTL ITS and Scholars Portal. This solution is best suited to provide a flexible and scaleable technology for the Collections U of T service. You can read more about our research and planning around this migration in our [2020 Code4Lib article on the topic](https://journal.code4lib.org/articles/15000)._
 
 Have more questions? [Email us!](mailto:digitalinitiatives@library.utoronto.ca)  
