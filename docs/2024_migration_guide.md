@@ -4,7 +4,7 @@ It is with much excitement that the University of Toronto Libraries Information 
 
 **You can access the new Collections U of T beta website at [https://collections-beta.library.utoronto.ca/](https://collections-beta.library.utoronto.ca/).** 
 
-Please note that the beta site is currently only available on U of T networks. For now, you must use VPN to access the beta site off campus. It is not publicly accessible - please do not share the -beta URLs with students, faculty, researchers, or the public. 
+Please note that the beta site is currently only available on U of T networks. For now, you must use VPN to access the beta site off campus. Remember that the site is available to you for testing purposes only at the moment - none of the -beta URLs are publicly accessible. Please do not share the -beta URLs with students, faculty, researchers, or the public. 
 
 
 "New" Collections U of T Training Kit
@@ -40,11 +40,18 @@ _We will begin onboarding new repositories to the new Collections U of T website
 
 _Late Spring 2024 - we will communicate the exact date._
 
-**5) When will my Islandora 7 website be taken offline?**
+**5) Should I still use the collections.library.utoronto.ca permalinks to collections and images?**
+_Yes. The collections.library.utoronto.ca URL is still the correct permalink to collections and images. Do not use -beta URLs. The collections-beta.library.utoronto.ca/ URL will be replaced with collections.library.utoronto.ca when the new Collections U of T website is publicly launched in late Spring 2024._
+
+**6) When will my Islandora 7 website be taken offline?**
 
 _Late Spring 2024 - we will communicate the exact date. Copies of the Islandora 7 sites will be captured in UTL's [Archive-It account](https://archive-it.org/collections/6473)._
 
-**6) Why did UTL migrate the Collections U of T service off of Islandora?**
+**7) Will my Islandora site's page URLs be preserved?**
+
+_No - but the ITS team has set up re-directs that will re-direct old Islandora URLs to the new Collections U of T website's URLs once the new site is publicly launched. Remember to continue to always use the **permalink URLs** when sharing collections and items with students, faculty, researchers and the public._
+
+**8) Why did UTL migrate the Collections U of T service off of Islandora?**
 
 _We decided to create a custom IIIF digital image collection discovery platform based on existing technology and infrastructure supported by UTL ITS and Scholars Portal. This solution is best suited to provide flexible and scaleable technology for the Collections U of T service. You can read more about our research and planning around this migration in our [2020 Code4Lib article on the topic](https://journal.code4lib.org/articles/15000)._
 
