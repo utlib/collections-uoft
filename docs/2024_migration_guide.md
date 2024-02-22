@@ -41,6 +41,7 @@ _We will begin onboarding new repositories to the new Collections U of T website
 _Late Spring 2024 - we will communicate the exact date._
 
 **5) Should I still use the collections.library.utoronto.ca permalinks to collections and images?**
+
 _Yes. The collections.library.utoronto.ca URL is still the correct permalink to collections and images. Do not use -beta URLs. The collections-beta.library.utoronto.ca/ URL will be replaced with collections.library.utoronto.ca when the new Collections U of T website is publicly launched in late Spring 2024._
 
 **6) When will my Islandora 7 website be taken offline?**
