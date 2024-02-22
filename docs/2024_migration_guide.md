@@ -1,4 +1,4 @@
-#2024 Collections U of T Migration Guide
+# 2024 Collections U of T Migration Guide
 
 It is with much excitement that the University of Toronto Libraries Information Technology Services announces the March 2024 beta launch of its "new" Collections U of T service. This migration is the result of a multi-year migration project to move the Collections U of T service off of Islandora 7 (Drupal 7) as Drupal 7 reaches [end of support on January 5, 2025](https://www.drupal.org/about/drupal-7/d7eol/partners?gad_source=1&gclid=CjwKCAiA_tuuBhAUEiwAvxkgTpcqWPPQRldzo2woWqXjQGdC9r5TTSbAuycGH45nlNF-2FpSv2Iv9xoCsB8QAvD_BwE).
 
