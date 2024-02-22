@@ -36,11 +36,15 @@ _You cannot login to the new Collections U of T application *yet*. UTL ITS is co
 
 _We will begin onboarding new repositories to the new Collections U of T website in Summer 2025 due to service capacity from July 1, 2024 to July 1, 2025._
 
-**4) When will my Islandora 7 website be taken offline?**
+**4) When will the new Collections U of T website be available to the public (outside of U of T networks)?**    
 
-_Spring 2024. Copies of the Islandora 7 sites will be captured in UTL's [Archive-It account](https://archive-it.org/collections/6473)._
+_Late Spring 2024 - we will communicate the exact date._
 
-**5) Why did UTL migrate the Collections U of T service off of Islandora?**
+**5) When will my Islandora 7 website be taken offline?**
+
+_Late Spring 2024 - we will communicate the exact date. Copies of the Islandora 7 sites will be captured in UTL's [Archive-It account](https://archive-it.org/collections/6473)._
+
+**6) Why did UTL migrate the Collections U of T service off of Islandora?**
 
 _We decided to create a custom IIIF digital image collection discovery platform based on existing technology and infrastructure supported by UTL ITS and Scholars Portal. This solution is best suited to provide flexible and scaleable technology for the Collections U of T service. You can read more about our research and planning around this migration in our [2020 Code4Lib article on the topic](https://journal.code4lib.org/articles/15000)._
 
