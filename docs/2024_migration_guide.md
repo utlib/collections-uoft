@@ -32,12 +32,16 @@ _Yes - if you have an existing repository page in Collections U of T you can add
 
 _You cannot login to the new Collections U of T application *yet*. UTL ITS is continuing to work on the Collections U of T administrator interface as we spend 2024 monitoring new Collections U of T performance and indexing. The new Collections U of T administrator interface is expected to launch in the *Summer of 2025*._ 
 
-**3) When will my Islandora 7 website be taken offline?**
+**3) I never had a repository on Islandora. Can I add a new repository to the new Collections U of T website for my UTL library/archive?**
+
+_We will begin onboarding new repositories to the new Collections U of T website in Summer 2025 due to service capacity from July 1, 2024 to July 1, 2025._
+
+**4) When will my Islandora 7 website be taken offline?**
 
 _Spring 2024. Copies of the Islandora 7 sites will be captured in UTL's [Archive-It account](https://archive-it.org/collections/6473)._
 
-**4) Why did UTL migrate the Collections U of T service off of Islandora?**
+**5) Why did UTL migrate the Collections U of T service off of Islandora?**
 
-_We decided to create a custom IIIF digital image collection discovery platform based on existing technology and infrastructure supported by UTL ITS and Scholars Portal. This solution is best suited to provide a flexible and scaleable technology for the Collections U of T service. You can read more about our research and planning around this migration in our [2020 Code4Lib article on the topic](https://journal.code4lib.org/articles/15000)._
+_We decided to create a custom IIIF digital image collection discovery platform based on existing technology and infrastructure supported by UTL ITS and Scholars Portal. This solution is best suited to provide flexible and scaleable technology for the Collections U of T service. You can read more about our research and planning around this migration in our [2020 Code4Lib article on the topic](https://journal.code4lib.org/articles/15000)._
 
 Have more questions? [Email us!](mailto:digitalinitiatives@library.utoronto.ca)  
