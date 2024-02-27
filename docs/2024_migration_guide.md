@@ -38,15 +38,17 @@ _We will begin onboarding new repositories to the new Collections U of T website
 
 **4) When will the new Collections U of T website be available to the public (outside of U of T networks)?**    
 
-_Late Spring 2024 - we will communicate the exact date._
+_April 1, 2024._
+
+_The [collections.library.utoronto.ca/*](https://collections.library.utoronto.ca/) URL will point to the new Collections U of T website on April 1, 2024. This scheduled date may change if any issues arise on -beta._
 
 **5) Should I still use the collections.library.utoronto.ca permalinks to collections and images?**
 
-_Yes. The collections.library.utoronto.ca URL is still the correct permalink to collections and images. Do not use -beta URLs. The collections-beta.library.utoronto.ca/ URL will be replaced with collections.library.utoronto.ca when the new Collections U of T website is publicly launched in late Spring 2024._
+_Yes. The collections.library.utoronto.ca URL is still the correct permalink to collections and images. **Do not publicly promote or share the -beta URLs.** The collections-beta.library.utoronto.ca URL will be replaced with collections.library.utoronto.ca when the new Collections U of T website is publicly launched._
 
 **6) When will my Islandora 7 website be taken offline?**
 
-_Late Spring 2024 - we will communicate the exact date. Copies of the Islandora 7 sites will be captured in UTL's [Archive-It account](https://archive-it.org/collections/6473)._
+_Late Spring 2024 - we will communicate the exact date with collection owners as capacity allows (for both ITS and collection owners). Copies of the Islandora 7 sites will be captured in UTL's [Archive-It account](https://archive-it.org/collections/6473)._
 
 **7) Will my Islandora site's page URLs be preserved?**
 
@@ -54,6 +56,6 @@ _No - but the ITS team has set up re-directs that will re-direct old Islandora U
 
 **8) Why did UTL migrate the Collections U of T service off of Islandora?**
 
-_We decided to create a custom IIIF digital image collection discovery platform based on existing technology and infrastructure supported by UTL ITS and Scholars Portal. This solution is best suited to provide flexible and scaleable technology for the Collections U of T service. You can read more about our research and planning around this migration in our [2020 Code4Lib article on the topic](https://journal.code4lib.org/articles/15000)._
+_We decided to create a UTL-homegrown IIIF digital image collection discovery platform based on existing technology and infrastructure supported by UTL ITS and Scholars Portal. This homegrown solution is best suited to provide flexible and scaleable technology for the Collections U of T service and also leverages existing technology and staff expertise at UTL and Scholars Portal. You can read more about our research and planning around this migration in our [2020 Code4Lib article on the topic](https://journal.code4lib.org/articles/15000)._
 
 Have more questions? [Email us!](mailto:digitalinitiatives@library.utoronto.ca)  
