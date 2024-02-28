@@ -77,7 +77,6 @@
     <note type="admin" displayLabel="Catalog Record">Paleography_Catalog_Link</note>
     <note type="admin" displayLabel="Transcription">Paleography_Transcription</note>
     <note type="admin" displayLabel="Background Essay">Paleography_Background_Essay</note>
-    <note type="seealso_manifest" displayLabel="IIIF Manifest">seealso_manifest</note>
     <relatedItem type="constituent">
         <titleInfo>
             <title>Part_Of_Constituent</title>
