@@ -12,11 +12,11 @@ permalink: /docs/about
 [Collections U of T](https://collections.library.utoronto.ca) is the  University of Toronto Libraries' image repository for UTL digitized special collections and archives.
 
 **Skip to:**
-* [About Collections U of T](/docs/about/about-collections-u-of-t)
-* [Collections U of T policies](/docs/about/collections-u-of-t-policies)
+* [About Collections U of T](/blob/main/docs/about/about-collections-u-of-t)
+* [Collections U of T policies](/blob/main/docs/about/collections-u-of-t-policies)
 * [Help finding and using images in Collections U of T](https://collections.library.utoronto.ca/explore/help) (page not yet published)
 * Documentation for collection owners:
-    * [Requesting a top-level collection](docs/requesting_a_new_top-level_collection.md)
+    * [Requesting a top-level collection](/blob/main/docs/requesting_a_new_top-level_collection.md)
     * [Metadata instructions](docs/metadata_template_instructions.md)
     * [Ingest instructions](docs/ingest_instructions.md)
     * [Transcription and Annotation tools for Collections U of T IIIF images](docs/transcription_and_annotation_tools.md)
