@@ -28,19 +28,21 @@ Migration FAQ
 
 _Yes - if you have an existing repository page in Collections U of T you can add new collections and items at any time. UTL ITS will support facilitated ingest throughout 2024 as we continue monitoring the performance of the new Collections U of T application. Please [email us](mailto:digitalinitiatives@library.utoronto.ca) if you need ingest and editing support._
 
+_The Collections U of T service is operating at reduced capacity until Summer 2025 due to ITS staffing._
+
 **2) Is there an administrator login? How do I login to edit and upload digital images into the new Collections U of T beta site?**
 
-_You cannot login to the new Collections U of T application *yet*. UTL ITS is continuing to work on the Collections U of T administrator interface as we spend 2024 monitoring new Collections U of T performance and indexing. The new Collections U of T administrator interface is expected to launch in the *Summer of 2025*._ 
+_The administration login into new Collections U of T will be available in *2025*. UTL ITS is continuing to work on the Collections U of T administrator interface. 2024 will be devoted to monitoring new Collections U of T performance and indexing with support for facilitated ingests provided by ITS. The new Collections U of T administrator interface is expected to launch in the *Summer of 2025*._ 
 
-**3) I never had a repository on Islandora. Can I add a new repository to the new Collections U of T website for my UTL library/archive?**
+**3) I never had a Collections U of T repository on Islandora. Can I add a new repository to the new Collections U of T website for my UTL library/archive?**
 
-_We will begin onboarding new repositories to the new Collections U of T website in Summer 2025 due to service capacity from July 1, 2024 to July 1, 2025._
+_Due to service capacity from July 1, 2024 to Summer 2025 we will not be adding new repositories into Collections U of T. Please [email us](mailto:digitalinitiatives@library.utoronto.ca) in 2025 if you would like to begin using Collections U of T._
 
 **4) When will the new Collections U of T website be available to the public (outside of U of T networks)?**    
 
-_April 1, 2024._
+_April 16, 2024._
 
-_The [collections.library.utoronto.ca/*](https://collections.library.utoronto.ca/) URL will point to the new Collections U of T website on April 1, 2024. This scheduled date may change if any issues arise on -beta._
+_The [collections.library.utoronto.ca/*](https://collections.library.utoronto.ca/) URL will point to the new Collections U of T website on April 16, 2024. This scheduled date may change if any issues arise on -beta._
 
 **5) Should I still use the collections.library.utoronto.ca permalinks to collections and images?**
 
@@ -56,6 +58,6 @@ _No - but the ITS team has set up re-directs that will re-direct old Islandora U
 
 **8) Why did UTL migrate the Collections U of T service off of Islandora?**
 
-_We decided to create a UTL-homegrown IIIF digital image collection discovery platform based on existing technology and infrastructure supported by UTL ITS and Scholars Portal. This homegrown solution is best suited to provide flexible and scaleable technology for the Collections U of T service and also leverages existing technology and staff expertise at UTL and Scholars Portal. You can read more about our research and planning around this migration in our [2020 Code4Lib article on the topic](https://journal.code4lib.org/articles/15000)._
+_We selected a UTL-homegrown IIIF digital image collection discovery solution based on existing technology and infrastructure supported by UTL ITS and Scholars Portal. This homegrown solution is best suited to provide flexible and scaleable technology for the Collections U of T service and also leverages existing technology and staff expertise at UTL and Scholars Portal. You can read more about our research and planning around this migration in our [2020 Code4Lib article on the topic](https://journal.code4lib.org/articles/15000)._
 
 Have more questions? [Email us!](mailto:digitalinitiatives@library.utoronto.ca)  
