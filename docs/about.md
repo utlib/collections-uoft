@@ -16,9 +16,9 @@ permalink: /docs/about
 * [Collections U of T policies](about.md#collections-u-of-t-policies)
 * [Help finding and using images in Collections U of T](https://collections.library.utoronto.ca/explore/help) (page not yet published)
 * Documentation for collection owners:
-    * [Requesting a top-level collection](docs/requesting_a_new_top-level_collection.md)
-    * [Metadata instructions](docs/metadata_template_instructions.md)
-    * [Ingest instructions](docs/ingest_instructions.md)
+    * [Requesting a top-level collection](/requesting_a_new_top-level_collection.md)
+    * [Metadata instructions](/metadata_template_instructions.md)
+    * [Ingest instructions](/ingest_instructions.md)
     * [Transcription and Annotation tools for Collections U of T IIIF images](docs/transcription_and_annotation_tools.md)
 
 ## About Collections U of T
@@ -86,7 +86,7 @@ Legacy digital projects making use of Collections U of T include:
 
 IIIF (International Image Interoperability Framework) is a set of APIs and related tools created by an international community of leading cultural institutions. The IIIF community has created [a guide](https://iiif.io/guides/using_iiif_resources/) to help you get started in learning about IIIF and how to make use of it.
 
-Our ["What is IIIF?"](docs/iiif-collections.md) page also includes IIIF documentation specific to Collections U of T. 
+Our ["What is IIIF?"](/iiif-collections.md) page also includes IIIF documentation specific to Collections U of T. 
 
 ## Metadata and Data Model
 
@@ -102,10 +102,10 @@ For help with Collections U of T metadata, read the Collections U of T Metadata 
 * [Collections U of T metadata spreadsheet template - all fields](https://docs.google.com/spreadsheets/d/1PMtZt5CzkidIXbTBUaoi8Qg7kBU-m9RzeM-lBMORPks/edit?usp=sharing)
 * [Collections U of T Metadata Profile - Element Details](https://docs.google.com/spreadsheets/d/1EidYREGS521xZKoxBN3Fl-PzkJnNJAR_zftuXXwQsZg/edit?usp=sharing)
 * Collections U of T metadata mapping:
-    - [MODS xml mapping](docs/xml_mods_collections_uoft_mapping.xml)
+    - [MODS xml mapping](/xml_mods_collections_uoft_mapping.xml)
     - Wikidata properties (to be completed)
 
-Are you ready to start adding metadata to the Collections U of T spreadsheet? [See instructions](docs/metadata_template_instructions.md).
+Are you ready to start adding metadata to the Collections U of T spreadsheet? [See instructions](/metadata_template_instructions.md).
 
 ## Other UTL Services
 
