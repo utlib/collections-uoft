@@ -17,9 +17,9 @@ permalink: /docs/about
 * [Help finding and using images in Collections U of T](https://collections.library.utoronto.ca/explore/help) (page not yet published)
 * Documentation for collection owners:
     * [Requesting a top-level collection](/docs/requesting_a_new_top-level_collection.md)
-    * [Metadata instructions](/metadata_template_instructions.md)
-    * [Ingest instructions](/ingest_instructions.md)
-    * [Transcription and Annotation tools for Collections U of T IIIF images](docs/transcription_and_annotation_tools.md)
+    * [Metadata instructions](/docs/metadata_template_instructions.md)
+    * [Ingest instructions](/docs/ingest_instructions.md)
+    * [Transcription and Annotation tools for Collections U of T IIIF images](/docs/transcription_and_annotation_tools.md)
 
 ## About Collections U of T
 [Collections U of T](https://collections.library.utoronto.ca) is the  University of Toronto Libraries' image repository for digitized special collections and archives. It provides open access to these digital image collections through the [International Image Interoperability Framework (IIIF)](https://iiif.io/) and standard metadata formats. 
