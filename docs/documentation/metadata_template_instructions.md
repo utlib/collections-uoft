@@ -1,3 +1,11 @@
+---
+layout: default
+title: Metadata
+nav_order: 2
+description: "About Collections U of T Metadata"
+permalink: /
+---
+
 # Collections U of T Metadata
 
 ## About This Page
