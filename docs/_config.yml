@@ -17,7 +17,7 @@
 title: Collections U of T Staff Policies & Documentation
 description: Collections U of T staff policies and documentation
 baseurl: "/collections-uoft" # the subpath of your site, e.g. /blog
-url: "https://utlib.github.io/collections-uoft" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 repository: collections-uoft/main # for github-metadata
 
 permalink: pretty
@@ -76,44 +76,6 @@ search:
 # For copy button on code
 enable_copy_code_button: true
 
-# By default, consuming the theme as a gem leaves mermaid disabled; it is opt-in
-mermaid:
-  # Version of mermaid library
-  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
-  version: "9.1.6"
-  # Put any additional configuration, such as setting the theme, in _includes/mermaid_config.js
-  # See also docs/ui-components/code
-  # To load mermaid from a local library, also use the `path` key to specify the location of the library; e.g.
-  # for (v10+):
-  # path: "/assets/js/mermaid.esm.min.mjs"
-  # for (<v10):
-  # path: "/assets/js/mermaid.min.js"
-  # Note: copy both `mermaid.esm.min.mjs` (v10+) or `mermaid.min.js` (<v10) and the associated `.map` file from the specified version of `mermaid/dist` to `/assets/js/`.
-
-# Enable or disable heading anchors
-heading_anchors: true
-
-# Aux links for the upper right navigation
-# aux_links:
-#  "Just the Docs on GitHub":
-#    - "https://github.com/just-the-docs/just-the-docs"
-
-# Makes Aux links open in a new tab. Default is false
-# aux_links_new_tab: false
-
-# Sort order for navigation links
-# nav_sort: case_insensitive # default, equivalent to nil
-nav_sort: case_sensitive # Capital letters sorted before lowercase
-
-# External navigation links
-# nav_external_links:
-#  - title: Just the Docs on GitHub
-#    url: https://github.com/just-the-docs/just-the-docs
-
-liquid:
-   error_mode: strict
-   strict_filters: true
-
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
@@ -152,29 +114,3 @@ callouts:
   warning:
     title: Warning
     color: red
-
-# Google Analytics Tracking (optional)
-# Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
-# Note: the main Just the Docs site does *not* use Google Analytics.
-# ga_tracking: UA-2709176-10,G-5FG1HLH3XQ
-# ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-github-metadata
-  - jekyll-include-cache
-
-kramdown:
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
-
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
-  # ignore:
-  #   envs: all
