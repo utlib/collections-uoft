@@ -1,99 +1,125 @@
 ---
 layout: default
-title: Home
+title: About
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Collections U of T Internal Staff Policies and Documentation"
 permalink: /
 ---
 
-# Focus on writing good documentation
-{: .fs-9 }
+![Collections U of T Logo](img/collections_uoft_logo.png)
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }
+# Policies and Documentation
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
+[Collections U of T](https://collections.library.utoronto.ca) is the  University of Toronto Libraries' image repository for UTL digitized special collections and archives.
 
----
+This site contains internal staff policy & procedures documentation.
 
-{: .warning }
-> This website documents the features of the current `main` branch of the Just the Docs theme. See [the CHANGELOG]({% link CHANGELOG.md %}) for a list of releases, new features, and bug fixes.
+Documentation and help for browsing and searching in *Collections U of T* can be found on [the public help page at https://collections-beta.library.utoronto.ca/explore/help](https://collections-beta.library.utoronto.ca/explore/help).
 
-Just the Docs is a theme for generating static websites with [Jekyll]. You can write source files for your web pages using [Markdown], the [Liquid] templating language, and HTML.[^1] Jekyll builds your site by converting all files that have [front matter] to HTML. Your [Jekyll configuration] file determines which theme to use, and sets general parameters for your site, such as the URL of its home page.
+# Collections U Of T
 
-Jekyll builds this Just the Docs theme docs website using the theme itself. These web pages show how your web pages will look *by default* when you use this theme. But you can easily *[customize]* the theme to make them look completely different!
+[Collections U of T](https://collections.library.utoronto.ca) is the  University of Toronto Libraries' image repository for UTL digitized special collections and archives.
 
-Browse the docs to learn more about how to use this theme.
+**Skip to:**
+* [About Collections U of T](index.md#about-collections-u-of-t)
+* [Collections U of T policies](index.md#collections-u-of-t-policies)
+* [Help finding and using images in Collections U of T](https://collections.library.utoronto.ca/explore/help) (page not yet published)
+* Documentation for collection owners:
+    * [Requesting a top-level collection](/docs/requesting_a_new_top-level_collection.md)
+    * [Metadata instructions](/docs/metadata_template_instructions.md)
+    * [Ingest instructions](/docs/ingest_instructions.md)
+    * [Transcription and Annotation tools for Collections U of T IIIF images](/docs/transcription_and_annotation_tools.md)
 
-## Getting started
+## About Collections U of T
+[Collections U of T](https://collections.library.utoronto.ca) is the  University of Toronto Libraries' image repository for digitized special collections and archives. It provides open access to these digital image collections through the [International Image Interoperability Framework (IIIF)](https://iiif.io/) and standard metadata formats. 
 
-The [Just the Docs Template] provides the simplest, quickest, and easiest way to create a new website that uses the Just the Docs theme. To get started with creating a site, just click "[use the template]"!
+Collections U of T provides U of T staff:
 
-{: .note }
-To use the theme, you do ***not*** need to clone or fork the [Just the Docs repo]! You should do that only if you intend to browse the theme docs locally, contribute to the development of the theme, or develop a new theme based on Just the Docs.
+1. Collection management and digital object storage for university special collections and archives image collections
+2. Indexing for digital object metadata
+3. Search and discovery for collections and digital objects
+4. User management and authentication (CRUD for collections and digital objects)
+5. Statistics for collections and digital objects
+6. The ability to create "simple pages" for content _about_ collections and items stored in Collections U of T
 
-You can easily set the site created by the template to be published on [GitHub Pages] – the [template README] file explains how to do that, along with other details.
+Collections U of T is *not*:
+* A digitization service
+* A digital exhibit service
+* A digital preservation service
+* Currently structured tostore media types other than _image files_. Collections U of T does not currently support .pdf, audio, or video collections
+* Open to anyone for use - digital collections must be *assessed* prior to inclusion in Collections U of T. Because the service is intended for providing long term discovery and access for digital image collections, the digital objects must belong to a UTL department or archives for long term care and maintenance purposes. Collections from external organizations must be assessed by a UTL department and acquired via formal agreement with the external organization prior to inclusion in Collections U of T. Note that UTL collection owners are responsible for assessing digital objects for accessibility, privacy and copyright considerations, as well as staffing capacity to support the care and maintenance of the digital collection over time. 
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^2] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Researchers, students, and faculty can read documentation at https://collections.library.utoronto.ca/explore/help (page not yet published) to learn how to use the system. Please send any questions or feedback to [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca).
 
-More specifically, the created site:
+### Collections U of T Policies
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+#### Collection Guidelines
 
-Other than that, you're free to customize sites that you create with the template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+1. Digital collections or digital objects deposited into Collections U of T are published with the intent of access in perpetuity. All content ingested into Collections U of T will be public. Collections U of T does not currently have any collection or item restriction features - all images in the repository are publicly accessible and publicly downloadable. If you require storage for digital image collections but need to restrict access or downloads to internal UTL or U of T users, please [contact us](mailto:digitalinitiatives@library.utoronto.ca). 
+2. The repository is structured by top-level U of T library or archives. Any content added to Collections U of T *must* belong to a top-level collection reflecting the UTL library or archives department responsible for the long term maintenance of the digitized items and collections. The top-level collection library or archives is referred to as the "collection owner".
+3. To create a new top-level collection and obtain logins, U of T library or archives staff can request a consultation for Collections U of T support at [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca). 
+4. Collection owners are responsible for reading and following Collections U of T policies.
+5. Collections and items deposited into Collections U of T must not be ephemeral or intended for temporary access.
+6. Collection owners must not deposit duplicates of the same item.
+7. Collection owners must follow Canadian Copyright law when submitting items/collections to Collections U of T. If the collection owner does not hold the rights to publish the material online, permission must be obtained.
+8. Collection owners are responsible for assessing digital objects for accessibility, privacy and copyright considerations, as well as staffing capacity to support the care and maintenance of the digital collection over time. Consideration should be given that the items submitted to Collections U of T will be accessible in perpetuity and may require future staff time to maintain.
+9. Collection owners must follow Collections U of T metadata guidelines.
+10. Collections U of T is not a preservation repository. Collection owners are responsible for the preservation of the digital files they use to create items in Collections U of T.
 
-{: .note }
-See the theme [README][Just the Docs README] for how to use the theme as a gem without creating a new site.
+#### Format Support
 
-## About the project
+Collections U of T is a digital image repository that currently accepts the following file formats: TIFF, JPEG 2000, JPEG, and PNG. Please note that only files in these formats can be uploaded to the repository at this time.
 
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](https://patrickmarsceill.com).
+### List of Top-Level Collections in Collections U of T
 
-### License
+As of March 2024, Collections U of T holds selected digital objects for the following libraries and archives:
+* [University of Toronto Archives Online](https://collections.library.utoronto.ca/view/utarms:root)
+* [University of Toronto Map and Data Library](https://collections.library.utoronto.ca/view/mdl:root)
+* [University of Toronto Music Library](https://collections.library.utoronto.ca/view/musiclibrary:root)
+* [University of Toronto Richard Charles Lee Canada-Hong Kong Library](https://collections.library.utoronto.ca/view/rclc-hkl:root)
+* University of St. Michael's College, including:
+    * [John M. Kelly Library Special Collections](https://collections.library.utoronto.ca/view/usmc:root)
+    * [University of St. Michael's College Archives](https://collections.library.utoronto.ca/view/usmc-archives:root)
+* [University of Toronto Thomas Fisher Rare Book Library](https://collections.library.utoronto.ca/view/fisher:root), including:
+    * [The Discovery and Early Development of Insulin](https://collections.library.utoronto.ca/view/insulin:root)
+    * [Anatomia Collection: anatomical plates, 1522-1867](https://collections.library.utoronto.ca/view/anatomia:root)
+    * [The Wenceslaus Hollar Collection](https://collections.library.utoronto.ca/view/hollar:root)
 
-Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
+Legacy digital projects making use of Collections U of T include:
+* Ann Komaromi's *[Project for the Study of Dissidence and Samizdat](https://collections.library.utoronto.ca/view/samizdat:root)*
+* *[French](https://collections.library.utoronto.ca/view/paleography:root)* and *[Italian Paleography](https://collections.library.utoronto.ca/view/italianpaleography:root)*, supported by a grant from The Andrew W. Mellon Foundation and completed in partnership with the Newberry Library and the Walter J. Ong Centre for Digital Humanities at Saint Louis University
+* Pamela Klassen's *[Story Nations](https://storynations.utoronto.ca/index.php/the-diary/the-digital-edition/manuscript-and-transcription/)*
+* The University of Toronto's East Asian Library and the University of British Columbia's *[Korean Canadian Heritage Archives](https://collections.library.utoronto.ca/view/eal3:root)*
 
-### Contributing
+## What is Collections U of T IIIF?
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/just-the-docs/just-the-docs#contributing).
+IIIF (International Image Interoperability Framework) is a set of APIs and related tools created by an international community of leading cultural institutions. The IIIF community has created [a guide](https://iiif.io/guides/using_iiif_resources/) to help you get started in learning about IIIF and how to make use of it.
 
-#### Thank you to the contributors of Just the Docs!
+Our ["What is IIIF?"](/iiif-collections.md) page also includes IIIF documentation specific to Collections U of T. 
 
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"></a>
-  </li>
-{% endfor %}
-</ul>
+## Metadata and Data Model
 
-### Code of Conduct
+The Collections U of T data model is available upon request.
 
-Just the Docs is committed to fostering a welcoming community.
+## Descriptive Metadata Standards
+Historically, Collections U of T has used [MODS](https://www.loc.gov/standards/mods/userguide/generalapp.html)-based descriptive metadata formatted as spreadsheets and then converted to xml, or MARC converted to MODS xml via [MarcEdit](https://marcedit.reeset.net/). Descriptive metadata is also converted to JSON in Collections U of T IIIF manifests for display purposes. 
 
-[View our Code of Conduct](https://github.com/just-the-docs/just-the-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
+For help with Collections U of T metadata, read the Collections U of T Metadata Instructions page. 
 
-----
+## Metadata Templates
 
-[^1]: The [source file for this page] uses all three markup languages.
+* [Collections U of T metadata spreadsheet template - all fields](https://docs.google.com/spreadsheets/d/1PMtZt5CzkidIXbTBUaoi8Qg7kBU-m9RzeM-lBMORPks/edit?usp=sharing)
+* [Collections U of T Metadata Profile - Element Details](https://docs.google.com/spreadsheets/d/1EidYREGS521xZKoxBN3Fl-PzkJnNJAR_zftuXXwQsZg/edit?usp=sharing)
+* Collections U of T metadata mapping:
+    - [MODS xml mapping](/xml_mods_collections_uoft_mapping.xml)
+    - Wikidata properties (to be completed)
 
-[^2]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+Are you ready to start adding metadata to the Collections U of T spreadsheet? [See instructions](/metadata_template_instructions.md).
 
-[Jekyll]: https://jekyllrb.com
-[Markdown]: https://daringfireball.net/projects/markdown/
-[Liquid]: https://github.com/Shopify/liquid/wiki
-[Front matter]: https://jekyllrb.com/docs/front-matter/
-[Jekyll configuration]: https://jekyllrb.com/docs/configuration/
-[source file for this page]: https://github.com/just-the-docs/just-the-docs/blob/main/index.md
-[Just the Docs Template]: https://just-the-docs.github.io/just-the-docs-template/
-[Just the Docs]: https://just-the-docs.com
-[Just the Docs repo]: https://github.com/just-the-docs/just-the-docs
-[Just the Docs README]: https://github.com/just-the-docs/just-the-docs/blob/main/README.md
-[GitHub Pages]: https://pages.github.com/
-[Template README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[customize]: {% link docs/customization.md %}
-[use the template]: https://github.com/just-the-docs/just-the-docs-template/generate
+## Other UTL Services
+
+Collections U of T is just one of the many services offered by the University of Toronto Libraries. Here are some other services that might be of interest or helpful in your work or research:
+* [Discover Archives](https://discoverarchives.library.utoronto.ca/)
+* [Exhibits U of T](https://exhibits.library.utoronto.ca/)
+* [TSpace](https://tspace.library.utoronto.ca/?refresh=true)
+* [Find out more about the University of Toronto Libraries](https://onesearch.library.utoronto.ca/)
