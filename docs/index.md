@@ -2,9 +2,8 @@
 layout: default
 title: About
 nav_order: 1
-description: "Collections U of T Internal Staff Policies and Documentation"
+description: "About"
 permalink: /
-has_children: false
 ---
 
 ![Collections U of T Logo](img/collections_uoft_logo.png)
