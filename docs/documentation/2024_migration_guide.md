@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 2024 Migration Guide
-nav_order: 2
+nav_order: 1
+parent: Documentation
 description: "2024 Migration Guide"
 permalink: /documentation/2024_migration_guide
 ---
