@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Metadata
-nav_order: 2
+nav_order: 1
 description: "About Collections U of T Metadata"
 permalink: /
 ---
