@@ -19,8 +19,6 @@ baseurl: "/collections-uoft" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 repository: collections-uoft/main # for github-metadata
 
-permalink: pretty
-
 exclude:
  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
    - .sass-cache/
