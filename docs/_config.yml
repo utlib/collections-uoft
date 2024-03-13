@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Collections U of T Internal Staff Policies and Documentation
+title: Collections U of T
 
-description: Staff policies and documentation for Collections U of T
+# description: Staff policies and documentation for Collections U of T
 
 baseurl: "/collections-uoft" # the subpath of your site, e.g. /blog
 
