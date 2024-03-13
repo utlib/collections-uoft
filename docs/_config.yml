@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Collections U of T
+title: Collections U of T Staff Policies & Documentation
 description: Collections U of T staff policies and documentation
 baseurl: "/collections-uoft" # the subpath of your site, e.g. /blog
 url: "https://utlib.github.io/collections-uoft" # the base hostname & protocol for your site, e.g. http://example.com
