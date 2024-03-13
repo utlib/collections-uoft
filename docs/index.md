@@ -3,7 +3,7 @@ layout: default
 title: About
 nav_order: 1
 description: "About"
-permalink: /
+permalink: /about
 has_children: false
 ---
 
