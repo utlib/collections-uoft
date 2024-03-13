@@ -1,7 +1,7 @@
 ---
 layout: default
 title: History
-nav_order: 2
+nav_order: 10
 description: "History of Collections U of T"
 permalink: /
 ---
