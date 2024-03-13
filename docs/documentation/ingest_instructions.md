@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Ingest Instructions
-nav_order: 5
+nav_order: 3
+parent: Documentation
 description: "Ingest Instructions"
-permalink: /
+permalink: /documentation/ingest_instructions
 ---
 
 # Ingest instructions
