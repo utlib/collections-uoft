@@ -1,3 +1,11 @@
+---
+layout: default
+title: New Collections
+nav_order: 6
+description: "Requesting a New Top-level Collection"
+permalink: /
+---
+
 # Requesting a new top-level collection
 
 Before requesting a new top-level collection in Collections U of T, review the [service parameters](https://github.com/utlib/collections-uoft/blob/main/README.md#about-collections-u-of-t) to make sure Collections U of T fits your needs.
