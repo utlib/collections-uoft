@@ -1,9 +1,11 @@
 ---
 layout: default
-title: New Collections
+title: Adding New Collections
 nav_order: 6
+nav_order: 1
+parent: Documentation
 description: "Requesting a New Top-level Collection"
-permalink: /
+permalink: /documentation/adding_new_collections
 ---
 
 # Requesting a new top-level collection
