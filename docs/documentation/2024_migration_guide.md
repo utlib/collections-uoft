@@ -1,9 +1,9 @@
 ---
 layout: default
 title: 2024 Migration Guide
-nav_order: 3
+nav_order: 2
 description: "2024 Migration Guide"
-permalink: /
+permalink: /documentation/2024_migration_guide
 ---
 
 # 2024 Collections U of T Migration Guide
