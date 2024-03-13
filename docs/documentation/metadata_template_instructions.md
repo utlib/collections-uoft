@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Metadata
-nav_order: 1
+nav_order: 2
+parent: Documentation
 description: "About Collections U of T Metadata"
-permalink: /
+permalink: /documentation/metadata
 ---
 
 # Collections U of T Metadata
