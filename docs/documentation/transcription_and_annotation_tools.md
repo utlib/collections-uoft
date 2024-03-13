@@ -1,3 +1,11 @@
+---
+layout: default
+title: Transcriptions With IIIF
+nav_order: 7
+description: "For Collections Owners - Transcribing and Annotating Collections U of T Images"
+permalink: /
+---
+
 # Transcribing and Annotating Collections U of T Images
 
 This page compiles an ongoing list of transcription and annotation tools that can be used with Collections U of T images. 
