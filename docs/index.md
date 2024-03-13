@@ -4,6 +4,7 @@ title: About
 nav_order: 1
 description: "About"
 permalink: /
+has_children: false
 ---
 
 ![Collections U of T Logo](img/collections_uoft_logo.png)
