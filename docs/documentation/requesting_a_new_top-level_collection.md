@@ -2,7 +2,6 @@
 layout: default
 title: Adding New Collections
 nav_order: 6
-nav_order: 1
 parent: Documentation
 description: "Requesting a New Top-level Collection"
 permalink: /documentation/adding_new_collections
