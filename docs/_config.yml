@@ -23,7 +23,7 @@ baseurl: "/collections-uoft" # the subpath of your site, e.g. /blog
 # Build settings
 markdown: kramdown
 remote_theme: just-the-docs/just-the-docs
-color_scheme: "light"
+color_scheme: "dark"
 plugins:
   - jekyll-feed
 
