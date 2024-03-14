@@ -11,7 +11,7 @@ has_children: false
 
 # Policies and Documentation
 
-[Collections U of T](https://collections.library.utoronto.ca) is the  University of Toronto Libraries' image repository for UTL digitized special collections and archives.
+[Collections U of T](https://collections-beta.library.utoronto.ca) is the  University of Toronto Libraries' image repository for UTL digitized special collections and archives. The site is currently in -beta with the tentative soft launch date of April 16, 2024. 
 
 This site contains internal staff policy & procedures documentation.
 
