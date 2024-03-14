@@ -26,10 +26,10 @@ Documentation and help for browsing and searching in *Collections U of T* can be
 * [Collections U of T policies](index.md#collections-u-of-t-policies)
 * [Help finding and using images in Collections U of T](https://collections.library.utoronto.ca/explore/help) (page not yet published)
 * Documentation for collection owners:
-    * [Requesting a top-level collection](/docs/requesting_a_new_top-level_collection.md)
-    * [Metadata instructions](/docs/metadata_template_instructions.md)
-    * [Ingest instructions](/docs/ingest_instructions.md)
-    * [Transcription and Annotation tools for Collections U of T IIIF images](/docs/transcription_and_annotation_tools.md)
+    * [Requesting a top-level collection](documentation/adding-new-collections.md)
+    * [Metadata instructions](documentation/metadata.md)
+    * [Ingest instructions](documentation/ingest-instructions.md)
+    * [Transcription and Annotation tools for Collections U of T IIIF images](documentation/transcriptions-with-iiif.md)
 
 ## About Collections U of T
 [Collections U of T](https://collections.library.utoronto.ca) is the  University of Toronto Libraries' image repository for digitized special collections and archives. It provides open access to these digital image collections through the [International Image Interoperability Framework (IIIF)](https://iiif.io/) and standard metadata formats. 
@@ -96,7 +96,7 @@ Legacy digital projects making use of Collections U of T include:
 
 IIIF (International Image Interoperability Framework) is a set of APIs and related tools created by an international community of leading cultural institutions. The IIIF community has created [a guide](https://iiif.io/guides/using_iiif_resources/) to help you get started in learning about IIIF and how to make use of it.
 
-Our ["What is IIIF?"](/iiif-collections.md) page also includes IIIF documentation specific to Collections U of T. 
+Our ["What is IIIF?"](documentation/iiif-collections.md) page also includes IIIF documentation specific to Collections U of T. 
 
 ## Metadata and Data Model
 
@@ -115,7 +115,7 @@ For help with Collections U of T metadata, read the Collections U of T Metadata 
     - [MODS xml mapping](/xml_mods_collections_uoft_mapping.xml)
     - Wikidata properties (to be completed)
 
-Are you ready to start adding metadata to the Collections U of T spreadsheet? [See instructions](/metadata_template_instructions.md).
+Are you ready to start adding metadata to the Collections U of T spreadsheet? [See instructions](documentation/metadata.md).
 
 ## Other UTL Services
 
