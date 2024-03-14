@@ -4,7 +4,7 @@ title: Adding New Collections
 nav_order: 6
 parent: Documentation
 description: "Requesting a New Top-level Collection"
-permalink: /documentation/adding_new_collections
+permalink: /documentation/adding-new-collections
 ---
 
 # Requesting a new top-level collection

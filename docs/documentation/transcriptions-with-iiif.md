@@ -4,7 +4,7 @@ title: Transcriptions With IIIF
 nav_order: 7
 parent: Documentation
 description: "For Collections Owners - Transcribing and Annotating Collections U of T Images"
-permalink: /documentation/transcriptions_with_iiif
+permalink: /documentation/transcriptions-with-iiif
 ---
 
 # Transcribing and Annotating Collections U of T Images

@@ -4,7 +4,7 @@ title: What is IIIF?
 nav_order: 4
 parent: Documentation
 description: "What is IIIF?"
-permalink: /documentation/what_is_iiif
+permalink: /documentation/iiif-collections
 ---
 
 # What is IIIF?

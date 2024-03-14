@@ -4,7 +4,7 @@ title: 2024 Migration Guide
 nav_order: 1
 parent: Documentation
 description: "2024 Migration Guide"
-permalink: /documentation/2024_migration_guide
+permalink: /documentation/2024-migration-guide
 ---
 
 # 2024 Collections U of T Migration Guide

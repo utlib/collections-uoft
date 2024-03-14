@@ -4,7 +4,7 @@ title: Ingest Instructions
 nav_order: 3
 parent: Documentation
 description: "Ingest Instructions"
-permalink: /documentation/ingest_instructions
+permalink: /documentation/ingest-instructions
 ---
 
 # Ingest instructions
