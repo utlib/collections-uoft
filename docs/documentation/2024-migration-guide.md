@@ -15,6 +15,16 @@ It is with much excitement that the University of Toronto Libraries Information 
 
 Please note that the beta site is currently only available on U of T networks. For now, you must use VPN to access the beta site off campus. Remember that the site is available to you for testing purposes only at the moment - none of the -beta URLs are publicly accessible. Please do not share the -beta URLs with students, faculty, researchers, or the public. 
 
+# Important Dates
+
+* March 19, 2024: collections-beta site shared with collection owners (internal U of T IP access only)
+* April 2, 2024: collection owner deadline to submit feedback about collections-beta
+* April 2-15, 2024: feedback reviewed by ITS and selected improvements implemented
+* April 16, 2024: collections-beta goes live
+* After April 16, 2024: facilitated ingests can resume
+* July 2024 - Summer 2025: reduced Collections U of T service capacity due to staff leaves
+* Fall 2025: self-ingest roll out
+
 
 "New" Collections U of T Training Kit
 --------
