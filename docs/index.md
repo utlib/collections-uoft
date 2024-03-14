@@ -17,7 +17,9 @@ This site contains internal staff policy & procedures documentation.
 
 Documentation and help for browsing and searching in *Collections U of T* can be found on [the public help page at https://collections-beta.library.utoronto.ca/explore/help](https://collections-beta.library.utoronto.ca/explore/help).
 
+
 > ***Please note from July 2024 - Summer 2025 the Collections U of T service will be operating in maintenance mode with reduced staff capacity.***
+
 
 
 # Collections U Of T
