@@ -62,7 +62,7 @@ The Google Sheet template is formatted to assist you with entering data for inge
 
 Double click the blue box in the bottom right of the cell to fill a value down.
 
-![Google sheets - fill down](img/sheets_fill_down.png)
+![Google sheets - fill down](../img/sheets_fill_down.png)
 
 
 ### Create Dropdown
@@ -103,4 +103,4 @@ All collections share the same metadata schema (see above documentation). It is 
 
 For values in the Creator / Contributor field the role term you select in the *creator_contributor_role* column will become the metadata label for the name entered in the *creator_contributor* column. If you enter "none", or do not enter anything into the role term column, then the default display label will be Creator / Contributor. Here is an example of names entered with "none" as well as "bookplate designer" for manuscript [fisher2:11952](https://collections.library.utoronto.ca/view/fisher2:11952).
 
-![Creator or Contributor role terms become labels per name](img/creator_contributor_role_terms.jpg)
+![Creator or Contributor role terms become labels per name](../img/creator_contributor_role_terms.jpg)
