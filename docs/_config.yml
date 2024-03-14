@@ -17,7 +17,7 @@ title: Collections U of T Staff Docs
 # description: Collections U of T Staff Policies and Documentation
 baseurl: "/collections-uoft" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-repository: collections-uoft/main # for github-metadata
+repository: utlib/collections-uoft # for github-metadata
 
 exclude:
  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
