@@ -11,20 +11,14 @@ has_children: false
 
 # Policies and Documentation
 
-[Collections U of T](https://collections-beta.library.utoronto.ca) is the  University of Toronto Libraries' image repository for UTL digitized special collections and archives. The site is currently in -beta with the tentative soft launch date of April 16, 2024. 
+*[Collections U of T](https://collections-beta.library.utoronto.ca)* is the  University of Toronto Libraries' image repository for UTL digitized special collections and archives. The site is currently in -beta with the tentative soft launch date of April 16, 2024. 
 
-This site contains internal staff policy & procedures documentation.
+**This site contains staff policy & procedures documentation.**
 
-Documentation and help for browsing and searching in *Collections U of T* can be found on [the public help page at https://collections-beta.library.utoronto.ca/explore/help](https://collections-beta.library.utoronto.ca/explore/help).
+If you are looking for documentation and help for browsing and searching in *Collections U of T* visit the public help pages at [https://collections-beta.library.utoronto.ca/explore/help](https://collections-beta.library.utoronto.ca/explore/help).
 
 
 > ***Please note from July 2024 - Summer 2025 the Collections U of T service will be operating in maintenance mode with reduced staff capacity.***
-
-
-
-# Collections U Of T
-
-[Collections U of T](https://collections.library.utoronto.ca) is the  University of Toronto Libraries' image repository for UTL digitized special collections and archives.
 
 **Skip to:**
 * [About Collections U of T](index.md#about-collections-u-of-t)
@@ -52,12 +46,12 @@ Collections U of T is *not*:
 * A digitization service
 * A digital exhibit service
 * A digital preservation service
-* Currently structured tostore media types other than _image files_. Collections U of T does not currently support .pdf, audio, or video collections
-* Open to anyone for use - digital collections must be *assessed* prior to inclusion in Collections U of T. Because the service is intended for providing long term discovery and access for digital image collections, the digital objects must belong to a UTL department or archives for long term care and maintenance purposes. Collections from external organizations must be assessed by a UTL department and acquired via formal agreement with the external organization prior to inclusion in Collections U of T. Note that UTL collection owners are responsible for assessing digital objects for accessibility, privacy and copyright considerations, as well as staffing capacity to support the care and maintenance of the digital collection over time. 
-
-Researchers, students, and faculty can read documentation at https://collections.library.utoronto.ca/explore/help (page not yet published) to learn how to use the system. Please send any questions or feedback to [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca).
+* Currently structured to store media types other than _image files_. Collections U of T does not currently support .pdf, audio, or video collections
+* Open to anyone for use - digital collections must be *assessed* prior to inclusion in Collections U of T. Because the service is intended for providing long term discovery and access for digital image collections, the digital objects must belong to a UTL department or archives for long term care and maintenance purposes. Collections from external organizations must be assessed by a UTL department and acquired via formal agreement with the external organization prior to inclusion in Collections U of T. Collections U of T is not intended for hosting digitized content from external institutions. Note that UTL collection owners are responsible for assessing digital objects for accessibility, privacy and copyright considerations, as well as staffing capacity to support the care and maintenance of the digital collection over time. 
 
 ### Collections U of T Policies
+
+Last updated 2024.03.14
 
 #### Collection Guidelines
 
@@ -79,23 +73,25 @@ Collections U of T is a digital image repository that currently accepts the foll
 ### List of Top-Level Collections in Collections U of T
 
 As of March 2024, Collections U of T holds selected digital objects for the following libraries and archives:
-* [University of Toronto Archives Online](https://collections.library.utoronto.ca/view/utarms:root)
-* [University of Toronto Map and Data Library](https://collections.library.utoronto.ca/view/mdl:root)
-* [University of Toronto Music Library](https://collections.library.utoronto.ca/view/musiclibrary:root)
-* [University of Toronto Richard Charles Lee Canada-Hong Kong Library](https://collections.library.utoronto.ca/view/rclc-hkl:root)
+* [University of Toronto Archives Online](https://collections-beta.library.utoronto.ca/view/utarms:root)
+* University of Toronto's East Asian Library and the University of British Columbia's [Korean Canadian Heritage Archives](https://collections-beta.library.utoronto.ca/view/eal3:root)
+* [Richard Charles Lee Canada-Hong Kong Library Digital Collections
+](https://collections-beta.library.utoronto.ca/view/rclc-hkl:root)
+* [University of Toronto Map and Data Library](https://collections-beta.library.utoronto.ca/view/mdl:root)
+* [University of Toronto Music Library](https://collections-beta.library.utoronto.ca/view/musiclibrary:root)
+* [University of Toronto Richard Charles Lee Canada-Hong Kong Library](https://collections-beta.library.utoronto.ca/view/rclc-hkl:root)
 * University of St. Michael's College, including:
-    * [John M. Kelly Library Special Collections](https://collections.library.utoronto.ca/view/usmc:root)
-    * [University of St. Michael's College Archives](https://collections.library.utoronto.ca/view/usmc-archives:root)
-* [University of Toronto Thomas Fisher Rare Book Library](https://collections.library.utoronto.ca/view/fisher:root), including:
-    * [The Discovery and Early Development of Insulin](https://collections.library.utoronto.ca/view/insulin:root)
-    * [Anatomia Collection: anatomical plates, 1522-1867](https://collections.library.utoronto.ca/view/anatomia:root)
-    * [The Wenceslaus Hollar Collection](https://collections.library.utoronto.ca/view/hollar:root)
+    * [John M. Kelly Library Special Collections](https://collections-beta.library.utoronto.ca/view/usmc:root)
+    * [University of St. Michael's College Archives](https://collections-beta.library.utoronto.ca/view/usmc-archives:root)
+* [University of Toronto Thomas Fisher Rare Book Library](https://collections-beta.library.utoronto.ca/view/fisher:root), including:
+    * [The Discovery and Early Development of Insulin](https://collections-beta.library.utoronto.ca/view/insulin:root)
+    * [Anatomia Collection: anatomical plates, 1522-1867](https://collections-beta.library.utoronto.ca/view/anatomia:root)
+    * [The Wenceslaus Hollar Collection](https://collections-beta.library.utoronto.ca/view/hollar:root)
 
 Legacy digital projects making use of Collections U of T include:
-* Ann Komaromi's *[Project for the Study of Dissidence and Samizdat](https://collections.library.utoronto.ca/view/samizdat:root)*
-* *[French](https://collections.library.utoronto.ca/view/paleography:root)* and *[Italian Paleography](https://collections.library.utoronto.ca/view/italianpaleography:root)*, supported by a grant from The Andrew W. Mellon Foundation and completed in partnership with the Newberry Library and the Walter J. Ong Centre for Digital Humanities at Saint Louis University
+* Ann Komaromi's *[Project for the Study of Dissidence and Samizdat](https://collections-beta.library.utoronto.ca/view/samizdat:root)*
+* *[French](https://french.newberry.t-pen.org/)* and *[Italian Paleography](https://italian.newberry.t-pen.org/)*, supported by a grant from The Andrew W. Mellon Foundation and completed in partnership with the Newberry Library and the Walter J. Ong Centre for Digital Humanities at Saint Louis University
 * Pamela Klassen's *[Story Nations](https://storynations.utoronto.ca/index.php/the-diary/the-digital-edition/manuscript-and-transcription/)*
-* The University of Toronto's East Asian Library and the University of British Columbia's *[Korean Canadian Heritage Archives](https://collections.library.utoronto.ca/view/eal3:root)*
 
 ## What is Collections U of T IIIF?
 
