@@ -17,11 +17,12 @@ Please note that the beta site is currently only available on U of T networks. F
 
 # Important Dates
 
-* March 19, 2024: collections-beta site shared with collection owners (internal U of T IP access only)
+* March 20, 2024: collections-beta site shared with collection owners (internal U of T IP access only)
 * April 2, 2024: collection owner deadline to submit feedback about collections-beta
 * April 2-15, 2024: feedback reviewed by ITS and selected improvements implemented
 * April 16, 2024: collections-beta goes live
 * After April 16, 2024: facilitated ingests can resume
+* By end of June 2024: all Islandora sites will be shut down and re-directed to New Collections
 * July 2024 - Summer 2025: reduced Collections U of T service capacity due to staff leaves
 * Fall 2025: self-ingest roll out
 
