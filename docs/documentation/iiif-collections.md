@@ -27,6 +27,11 @@ Similarly, The URL path for a digital object's manifest is always `https://iiif.
 
 Note that IIIF collections manifests follow a different URL pattern. Collection manifests are always `https://iiif.library.utoronto.ca/presentation/collections/**PID**` - where PID is the identifier for the digital collection.
 
+## Collections U of T IIIF API Support
+
+Currently, Collections U of T supports two IIIF API specifications: [Presentation API](https://iiif.io/api/presentation/3.0/) and [Image API](https://iiif.io/api/image/3.0/) (v2 and v3; manifests currently default to v2).
+
+
 ## Where can I find copyright and reuse information in Collections U of T? 
 Every collection differs in rights and reuse guidelines. Some collections do not allow for reuse, while others do. For any digital object you are interested in reusing, please refer to the \"Rights\" field in the digital object(s) "information" section of the image viewer. 
 
