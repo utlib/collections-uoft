@@ -94,7 +94,7 @@ _Yes but you need to [email ITS](mailto:digitalinitiatives@library.utoronto.ca) 
 
 **3) Is there an administrator login for me to login to New Collections to edit and upload digital images into the new Collections U of T beta site?**
 
-_No. See above. The administration login into new Collections U of T will be available in *2025*. UTL ITS is continuing to work on the Collections U of T administrator interface. 2024 will be devoted to monitoring new Collections U of T performance and indexing. ITS will support collection owners with facilitated ingests. The new Collections U of T administrator interface is expected to launch in late *2025*._ 
+_No. See above. The administration login into new Collections U of T will be available in 2025. UTL ITS is continuing to work on the Collections U of T administrator interface. 2024 will be devoted to monitoring new Collections U of T performance and indexing. ITS will support collection owners with facilitated ingests. The new Collections U of T administrator interface is expected to launch in late 2025._ 
 
 **4) I never had a Collections U of T repository on Islandora. Can I add a new repository to the new Collections U of T website for my UTL library/archive?**
 
