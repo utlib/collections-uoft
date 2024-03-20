@@ -56,7 +56,7 @@ If you are a Collections U of T collection owner please complete the following c
 
 ## All Migration Dates
 
-* March 20, 2024: collections-beta site shared with collection owners (internal U of T IP access only)
+* March 21, 2024: collections-beta site shared with collection owners (internal U of T IP access only)
 * April 2, 2024: collection owner deadline to submit feedback about collections-beta
 * April 2-15, 2024: feedback reviewed by ITS and selected improvements implemented
 * **April 16, 2024: collections-beta goes live** on collections.library.utoronto.ca
