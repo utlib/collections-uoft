@@ -45,11 +45,14 @@ It is with much excitement that the University of Toronto Libraries Information 
 
 If you are a Collections U of T collection owner please complete the following checklist:
 
-1. By March 29: refer to your "New Collections beta launch" email - go to the new beta website and find your collection from the list on the homepage
-2. By March 29: review your collection against your old Islandora 7 website
-3. By March 29: review this 2024 Migration Guide page
-4. By April 2: check that you can access the [Collections U of T teams channel](https://teams.microsoft.com/l/channel/19%3a0c2caaac27a04fe7b6e37018970a66b5%40thread.tacv2/Collections%2520U%2520of%2520T?groupId=2151c2c7-2063-412d-8ebf-de2c9f809003&tenantId=78aac226-2f03-4b4d-9037-b46d56c55210) for asynchronous support and migration updates
-5. By April 2: [contact UTL ITS](mailto:digitalinitiatives@library.utoronto.ca) with any feedback, questions or bugs to report about the new Collections U of T beta website before the New Collections soft launch date on April 16, 2024. Please include screenshots and URLs in your feedback
+1) **By March 29:**
+* refer to your "New Collections beta launch" email - go to the new beta website and review your collection against your old Islandora 7 website
+* review this 2024 Migration Guide page in full
+
+2) **By April 2:**
+* meet with Kelli to walkthrough the new system and discuss any questions in person
+* check that you can access the [Collections U of T teams channel](https://teams.microsoft.com/l/channel/19%3a0c2caaac27a04fe7b6e37018970a66b5%40thread.tacv2/Collections%2520U%2520of%2520T?groupId=2151c2c7-2063-412d-8ebf-de2c9f809003&tenantId=78aac226-2f03-4b4d-9037-b46d56c55210) for asynchronous support and migration updates
+* [email UTL ITS](mailto:digitalinitiatives@library.utoronto.ca) any feedback, questions, or bugs before the New Collections soft launch date on April 16, 2024. Please include screenshots and URLs in your feedback
 
 > ***The Collections U of T beta site's public soft launch is scheduled for Tuesday, April 16, 2024.***
 
