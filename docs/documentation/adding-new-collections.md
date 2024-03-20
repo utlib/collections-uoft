@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Requesting A New Collections U of T Repository
+title: Requesting A New Repository
 nav_order: 2
 parent: Documentation
 description: "Requesting a New Top-level Repository"
 permalink: /documentation/adding-new-collections
 ---
 
-# Requesting a new top-level repository
+# Requesting a new top-level repository in Collections U of T
 
 ## What is a repository?
 
