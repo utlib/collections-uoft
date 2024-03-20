@@ -24,7 +24,7 @@ It is with much excitement that the University of Toronto Libraries Information 
 
 **You can access the new Collections U of T beta website at [https://collections-beta.library.utoronto.ca/](https://collections-beta.library.utoronto.ca/).**
 
-**The beta site is:
+**The beta site is:**
 * not public; it is only accessible on UTL VPN
   * _use VPN to access the beta site if you are off campus or not on a UTL ITS managed workstation_
 * available for testing purposes _only_
