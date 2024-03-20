@@ -3,15 +3,19 @@ layout: default
 title: Adding New Collections
 nav_order: 6
 parent: Documentation
-description: "Requesting a New Top-level Collection"
+description: "Requesting a New Top-level Repository"
 permalink: /documentation/adding-new-collections
 ---
 
-# Requesting a new top-level collection
+# What is a repository?
 
-Before requesting a new top-level collection in Collections U of T, review the [service parameters](https://github.com/utlib/collections-uoft/blob/main/README.md#about-collections-u-of-t) to make sure Collections U of T fits your needs.
+In Collections U of T, the libraries or archives who cares for the physical items and their digitized surrogates are called "repositories". Each top-level repository acts as the top-level collection containing all of the sub-collections and their digital objects from a U of T library or archive. You must submit a request for a new top-level repository before you can add digital collections to Collections U of T.
 
-U of T libraries and archives can request use of Collections U of T any time by emailing digitalinitiatives@library.utoronto.ca with their request, including the following information:
+# Requesting a new top-level repository
+
+Before requesting a new top-level repository in Collections U of T, review the [service parameters](https://github.com/utlib/collections-uoft/blob/main/README.md#about-collections-u-of-t) to make sure Collections U of T fits your needs.
+
+U of T libraries and archives can request use of Collections U of T any time by emailing [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) with their request, including the following information:
 
 * Title of the new top-level collection (usually the name of the library/archives)
 * Brief description for the collection (this will display publicly on the top-level collection page)
@@ -19,9 +23,9 @@ U of T libraries and archives can request use of Collections U of T any time by 
 * Approximate size (MB, GB, or TB) of images you are initially planning to ingest (we may need to increase storage, depending on your collection size)
 * Emails for staff who will require access to the Collections U of T administration back end
 
-You must also confirm that the image collections you are ingesting are:
+You must also confirm that the image collection(s) you are ingesting are:
 * intended for long-term, public, and perpetual acess
-* cleared for accessibility, privacy and copyright considerations. You must follow Canadian Copyright law when uploading digital images into Collections U of T. If you do not hold the rights to publish the material online, permission must be obtained and shared with Collections U of T service staff.
+* cleared for accessibility, privacy, and copyright considerations. You must follow Canadian Copyright law when uploading digital images into Collections U of T. If you do not hold the rights to publish the material online, permission must be obtained and shared with Collections U of T service staff.
 * not duplicates of existing items already in Collections U of T under another library/archives' collection
 * not being stored in Collections U of T for preservation (Collections U of T is not a preservation repository)
 
