@@ -64,9 +64,9 @@ If you are a Collections U of T collection owner please complete the following c
   * facilitated ingests can resume into collections.library.utoronto.ca
   * the Islandora sites will remain live and publicly accessible but no new items will be ingested into Islandora sites
 * By end of June 2024: all Islandora sites will be shut down
- * ITS will work with collection owners to schedule shut down dates for each Islandora site
- * Islandora site URLs will be re-directed to the relevant collection URL on New Collections
- * Existing collections.library permalinks will remain the same - but the display will change. For example, [https://collections.library.utoronto.ca/view/utarmsIB:2006-23-38MS](https://collections.library.utoronto.ca/view/utarmsIB:2006-23-38MS) will remain the permalink URL for this photograph of Harold Innis in the UTARMS collection but the display will change to what you see on [https://collections-beta.library.utoronto.ca/view/utarmsIB:2006-23-38MS]([https://collections-beta.library.utoronto.ca/view/utarmsIB:2006-23-38MS) after the public launch on April 16th
+  * ITS will work with collection owners to schedule shut down dates for each Islandora site
+  * Islandora site URLs will be re-directed to the relevant collection URL on New Collections
+  * existing collections.library permalinks will remain the same - but the display will change. For example, [https://collections.library.utoronto.ca/view/utarmsIB:2006-23-38MS](https://collections.library.utoronto.ca/view/utarmsIB:2006-23-38MS) will remain the permalink URL for this photograph of Harold Innis in the UTARMS collection but the display will change to what you see on [https://collections-beta.library.utoronto.ca/view/utarmsIB:2006-23-38MS]([https://collections-beta.library.utoronto.ca/view/utarmsIB:2006-23-38MS) after the public launch on April 16th
 * July 2024 - Summer 2025: development for Collections U of T administrator user interface will be completed
  * Collection owners can ingest new content with support from ITS
  * New Collections will be monitored for performance and indexing
