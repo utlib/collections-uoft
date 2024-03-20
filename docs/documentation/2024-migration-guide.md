@@ -9,7 +9,7 @@ permalink: /documentation/2024-migration-guide
 
 # 2024 Collections U of T Migration Guide
 
-  
+<br/>  
 * [2024 Collections U of T Migration Guide](#2024-collections-u-of-t-migration-guide)
 * [Important Migration Dates](#important-migration-dates)
 * ["New" Collections U of T Training Kit](#new-collections-u-of-t-training-kit)
