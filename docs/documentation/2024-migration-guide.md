@@ -63,7 +63,7 @@ If you are a Collections U of T collection owner please complete the following c
   * this is the New Collections public soft launch date!
   * facilitated ingests can resume into collections.library.utoronto.ca
   * the Islandora sites will remain live and publicly accessible but no new items will be ingested into Islandora sites
-* By end of June 2024: ITS will work with collection owners to schedule shut down dates for each Islandora site; Islandora site URLs will be re-directed to New Collections at collections.library.utoronto.ca URLs
+* By end of June 2024: ITS will work with collection owners to schedule shut down dates for each Islandora site. Islandora site URLs will be re-directed to the relevant collection URL on New Collections at the collections.library.utoronto.ca URLs. Collections U of T permalink /view/ URLs remain the same. For example, https://collections.library.utoronto.ca/view/utarmsIB:2006-23-38MS remains the permalink URL for this photograph of Harold Innis in the UTARMS collection. 
 * July 2024 - Summer 2025: there will be reduced Collections U of T service management capacity due to staff leaves
 * Fall 2025: ITS will roll out New Collections administrator user interface and collection owners will be able to self-ingest
 
@@ -110,7 +110,7 @@ _Late Spring 2024 - we will communicate the exact date with collection owners as
 
 **8) Will my Islandora site's page URLs be preserved in New Collections?**
 
-_No - but the ITS team has set up re-directs that will re-direct old Islandora URLs to the new Collections U of T website's URLs once the new site is publicly launched. Remember to continue to always use the **permalink URLs** when sharing collections and items with students, faculty, researchers, and the public._
+_No - but the ITS team has set up re-directs that will re-direct old Islandora URLs to the appropriate new Collections U of T website's URLs, per collection, once the new site is publicly launched. Remember to continue to always use the **permalink URLs** when sharing collections and items with students, faculty, researchers, and the public._
 
 **9) Why did UTL migrate the Collections U of T service off of Islandora?**
 
