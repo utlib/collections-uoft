@@ -17,6 +17,7 @@ has_children: false
 
 If you are looking for documentation and help for browsing and searching in *Collections U of T* visit the public help pages at [https://collections-beta.library.utoronto.ca/explore/help](https://collections-beta.library.utoronto.ca/explore/help).
 
+> ***The New Collections application and website is launching in Spring 2024. Go to the [2024 Migration Guide](https://utlib.github.io/collections-uoft/documentation/2024-migration-guide) for more information.***
 
 > ***Please note from July 2024 - Summer 2025 the Collections U of T service will be operating in maintenance mode with reduced staff capacity.***
 
