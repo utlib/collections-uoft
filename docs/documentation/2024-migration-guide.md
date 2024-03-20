@@ -88,9 +88,9 @@ If you are a Collections U of T collection owner please complete the following c
 
 **1) Can I resume ingesting new collections and images into the new Collections U of T beta site?**
 
-_Yes, after April 16th, if you have an existing repository page in Collections U of T you can add new collections and items at any time. UTL ITS will support facilitated ingest throughout 2024 as we continue monitoring the performance of the new Collections U of T application. Please [email ITS](mailto:digitalinitiatives@library.utoronto.ca) if you need ingest and editing support. Facilitated ingest instructions can be found on the [Ingest Instructions](https://utlib.github.io/collections-uoft/documentation/ingest-instructions) page._
+_Yes, after April 16th, if you have an existing repository page in Collections U of T you can add new collections and items at any time. UTL ITS will support facilitated ingest throughout 2024 as we continue monitoring the performance of the new Collections U of T application. Please [email ITS](mailto:digitalinitiatives@library.utoronto.ca) if you need ingest and editing support. Facilitated ingest instructions can be found on the [Ingest Instructions](https://utlib.github.io/collections-uoft/documentation/ingest-instructions) page in addition to forthcoming training drop in sessions and additional ingest support documentation._
 
-_Please consider that the Collections U of T service is operating at reduced capacity until Summer 2025 due to ITS staffing._
+_Please consider that the Collections U of T service will be operating at reduced capacity from July 2024 until Summer 2025 due to ITS staffing. If you have ingest requests requiring significant metadata support please let us know as soon as possible._
 
 **2) Can I edit metadata again?**
 
@@ -98,11 +98,11 @@ _Yes but you need to [email ITS](mailto:digitalinitiatives@library.utoronto.ca) 
 
 **3) Is there an administrator login for me to login to New Collections to edit and upload digital images into the new Collections U of T beta site?**
 
-_No. See above. The administration login into new Collections U of T will be available in 2025. UTL ITS is continuing to work on the Collections U of T administrator interface. 2024 will be devoted to monitoring new Collections U of T performance and indexing. ITS will support collection owners with facilitated ingests. The new Collections U of T administrator interface is expected to launch in late 2025._ 
+_No. See above. The administration login into New Collections U of T will be available in 2025. UTL ITS is continuing to work on the Collections U of T administrator interface. 2024 will be devoted to monitoring new Collections U of T ingest, performance, and indexing. ITS will support collection owners with facilitated ingests until the administrator interface is completed. The new Collections U of T administrator interface is expected to launch in late 2025._ 
 
 **4) I never had a Collections U of T repository on Islandora. Can I add a new repository to the new Collections U of T website for my UTL library/archive?**
 
-_Due to service capacity from July 1, 2024 to Summer 2025 we will not be adding new repositories into Collections U of T. You can [email us](mailto:digitalinitiatives@library.utoronto.ca) to [request a new repository](https://utlib.github.io/collections-uoft/documentation/adding-new-collections) be added and we will review these requests and onboard new repositories in 2025 for you to begin using Collections U of T._
+_Due to service capacity from July 1, 2024 to Summer 2025 we will not be adding any new repositories into Collections U of T. You can [email us](mailto:digitalinitiatives@library.utoronto.ca) to [request a new repository](https://utlib.github.io/collections-uoft/documentation/adding-new-collections) be added and we will review these requests and onboard new repositories in Fall 2025 for you to begin using Collections U of T._
 
 **5) When will the new Collections U of T website be available to the public (outside of U of T networks)?**    
 
@@ -112,11 +112,11 @@ _The [collections.library.utoronto.ca/](https://collections.library.utoronto.ca/
 
 **6) Should I still use the collections.library.utoronto.ca permalinks to collections and images?**
 
-_Yes. The collections.library.utoronto.ca URL is still the correct permalink to collections and images. **Do not publicly promote or share the -beta URLs.** The collections-beta.library.utoronto.ca URL will be replaced with collections.library.utoronto.ca when the new Collections U of T website is publicly launched._
+_Yes. The collections.library.utoronto.ca URL is still the correct permalink to collections and images. **Do not publicly promote or share the -beta URLs.** The collections-beta.library.utoronto.ca URL path will be replaced with collections.library.utoronto.ca when the new Collections U of T website is publicly launched on April 16th._
 
 **7) When will my Islandora 7 website be taken offline?**
 
-_Late Spring 2024 - we will communicate the exact date with collection owners as capacity allows (for both ITS and collection owners). Copies of the Islandora 7 sites will be captured in UTL's [Archive-It account](https://archive-it.org/collections/6473)._
+_By June 2024 - we will communicate the exact date with collection owners as capacity allows (for both ITS and collection owners). Copies of the Islandora 7 sites will be captured in UTL's [Archive-It account](https://archive-it.org/collections/6473)._
 
 **8) Will my Islandora site's page URLs be preserved in New Collections?**
 
