@@ -7,15 +7,19 @@ description: "Requesting a New Top-level Repository"
 permalink: /documentation/adding-new-collections
 ---
 
-# What is a repository?
+# Requesting a new top-level repository
+
+## What is a repository?
 
 In Collections U of T, the libraries or archives who cares for the physical items and their digitized surrogates are called "repositories". Each top-level repository acts as the top-level collection containing all of the sub-collections and their digital objects from a U of T library or archive. You must submit a request for a new top-level repository before you can add digital collections to Collections U of T.
 
-# Requesting a new top-level repository
+## Before requesting a Collections U of T repository...
 
-Before requesting a new top-level repository in Collections U of T, review the [service parameters](https://github.com/utlib/collections-uoft/blob/main/README.md#about-collections-u-of-t) to make sure Collections U of T fits your needs.
+Review the [service parameters](https://github.com/utlib/collections-uoft/blob/main/README.md#about-collections-u-of-t) to make sure Collections U of T fits your needs.
 
-U of T libraries and archives can request use of Collections U of T any time by emailing [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) with their request, including the following information:
+## How to request a Collections U of T repository...
+
+Email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) with the following information:
 
 * Title of the new top-level collection (usually the name of the library/archives)
 * Brief description for the collection (this will display publicly on the top-level collection page)
