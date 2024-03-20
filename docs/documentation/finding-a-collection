@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Navigating Collections U of T
-nav_order: 11
+nav_exclude: true
 parent: Documentation
 description: Finding a collection"
 permalink: /documentation/finding-a-collection
 ---
 
-Finding A Collection
+# Finding A Collection
 
 On this page, you will find documention on:
 Finding a collection
 Searching for a specific item
 Searching the Collections U of T repository
 
-Search across collections
+## Search across collections
 
 1. 
 ![Search across collections](/docs/img/search-across-collections-1.png)
