@@ -11,7 +11,7 @@ permalink: /documentation/adding-new-collections
 
 ## What is a repository?
 
-In Collections U of T, the libraries or archives who cares for the physical items and their digitized surrogates are called "repositories". Each top-level repository acts as the top-level collection containing all of the sub-collections and their digital objects from a U of T library or archive. You must submit a request for a new top-level repository before you can add digital collections to Collections U of T.
+In Collections U of T, the libraries or archives who care for the physical items and their digitized surrogates are called "repositories". Within the Collections U of T database, each participating repository gets a top-level repository "collection" that acts as the top-level collection container for all of the repository's digital objects. You must submit a request for a new top-level repository before you can add digital collections to Collections U of T.
 
 ## Before requesting a Collections U of T repository...
 
