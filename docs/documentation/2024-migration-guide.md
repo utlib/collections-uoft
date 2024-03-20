@@ -30,9 +30,9 @@ It is with much excitement that the University of Toronto Libraries Information 
 * available for testing purposes _only_
   * _please remember the site is still in beta and under active development[1]_
 * internal to U of T staff
-  * _none of the beta site URLs are publicly accessible so please do not share the beta URLs with students, faculty, researchers, or the public)_
+  * _none of the beta site URLs are publicly accessible so please do not share the beta URLs with students, faculty, researchers, or the public_
 * not impacting the Collections U of T Islandora 7 sites
-  * _the Islandora sites remain publicly accessible and running concurrently alongside the new Collections U of T beta site)_**
+  * _the Islandora sites remain publicly accessible and running concurrently alongside the new Collections U of T beta site_
 
   [1] Remaining beta development includes:
   * PID validation against Islandora RELS-EXT - you may notice that not all digital object counts match your Islandora site
