@@ -1,45 +1,43 @@
 ---
 layout: default
-title: Metadata
-nav_order: 12
+title: Metadata Instructions
+nav_order: 4
 parent: Documentation
-description: "About Collections U of T Metadata"
+description: "Collections U of T Metadata Instructions"
 permalink: /documentation/metadata
 ---
 
-# Collections U of T Metadata
-
-## About This Page
+# Collections U of T Metadata Instructions
 
 This page provides information about Collections U of T metadata and instructions and tips on using the Collections U of T Metadata Spreadsheet Template.
 
 The [Collections U of T Metadata Spreadsheet Template](https://docs.google.com/spreadsheets/d/1PMtZt5CzkidIXbTBUaoi8Qg7kBU-m9RzeM-lBMORPks/edit?usp=sharing) is currently stored in Google Drive for easiest access (U of T OneDrive all-staff links have an expiry date).
 
 **Skip to:**
-* [Getting Started](metadata_template_instructions.md#getting-started-with-collections-u-of-t-metadata)
-* [Collections U of T Element Details](metadata_template_instructions.md#collections-u-of-t-element-details)
-* [PID/Filename/Identifier Tips](metadata_template_instructions.md#pidfilenameidentifier-tips)
-* [Pre-Ingest Checklist](metadata_template_instructions.md#pre-ingest-checklist)
-* [Google Sheets Tips](metadata_template_instructions.md#google-sheets-tips)
-* [MARCEdit Tips](metadata_template_instructions.md#marcedit-tips)
-* [OpenRefine Tips](metadata_template_instructions.md#openrefine-tips)
-* [How do I update Metadata Labels on Collections U of T for my collection?](metadata_template_instructions.md#how-do-i-alter-the-metadata-labels-that-publicly-display-for-my-collection-on-collections-u-of-t)
+* [Getting Started](https://utlib.github.io/collections-uoft/documentation/metadata#getting-started-with-collections-u-of-t-metadata)
+* [Collections U of T Element Details](https://utlib.github.io/collections-uoft/documentation/metadata#collections-u-of-t-element-details)
+* [PID/Filename/Identifier Tips](https://utlib.github.io/collections-uoft/documentation/metadata#pidfilenameidentifier-tips)
+* [Pre-Ingest Checklist](https://utlib.github.io/collections-uoft/documentation/metadata#pre-ingest-checklist)
+* [Google Sheets Tips](https://utlib.github.io/collections-uoft/documentation/metadata#google-sheets-tips)
+* [MARCEdit Tips](https://utlib.github.io/collections-uoft/documentation/metadata#marcedit-tips)
+* [OpenRefine Tips](https://utlib.github.io/collections-uoft/documentation/metadata#openrefine-tips)
+* [How do I update Metadata Labels on Collections U of T for my collection?](https://utlib.github.io/collections-uoft/documentation/metadata#how-do-i-alter-the-metadata-labels-that-publicly-display-for-my-collection-on-collections-u-of-t)
 
 ## Getting Started with Collections U of T Metadata
 
-First, if you have existing MARC records to work with you can scroll to [MARCEdit Tips](metadata_template_instructions.md#marcedit-tips) to read more about converting MARC records into a Collections U of T spreadsheet.
+First, if you have existing MARC records to work with you can scroll to [MARCEdit Tips](metadata_template_ins)tructions.md#marcedit-tips) to read more about converting MARC records into a Collections U of T spreadsheet.
 
 If you have an existing database of metadata and would like help exporting it, email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca).
 
 If you are creating your metadata spreadsheet from scratch, start by downloading or making your own Google Drive copy of the [Collections U of T metadata spreadsheet template - all fields](https://docs.google.com/spreadsheets/d/1PMtZt5CzkidIXbTBUaoi8Qg7kBU-m9RzeM-lBMORPks/edit?usp=sharing).
 
-After copying or downloading, rename the spreadsheet with the PID or title of your collection. It can be helpful to have one spreadsheet per collection. 
+After copying or downloading, rename the spreadsheet with the PID or title of your collection. It can be helpful to have **one spreadsheet per collection**. 
 
-If you wish, you can store this new spreadsheet copy on your U of T staff OneDrive if you wish, or continue working in Google Sheets.
+If you wish, you can store this new spreadsheet copy on your U of T staff OneDrive or continue working in Google Sheets.
 
 ## Collections U of T Element Details
 
-After copying the spreadsheet, begin filling in the spreadsheet for your collection(s) based on the [Collections U of T Element Details](https://docs.google.com/spreadsheets/d/1EidYREGS521xZKoxBN3Fl-PzkJnNJAR_zftuXXwQsZg/edit#gid=0) - these details are draft until New Collections is launched, but should not change much as we move into the new system. If you have any questions about any of the elements, contact Collections U of T staff for support.
+After copying the spreadsheet, begin filling in the spreadsheet for your collection(s) based on the [Collections U of T Element Details](https://docs.google.com/spreadsheets/d/1EidYREGS521xZKoxBN3Fl-PzkJnNJAR_zftuXXwQsZg/edit#gid=0). If you have any questions about any of the elements, contact Collections U of T staff for support.
 
 ### PID/Filename/Identifier Tips
 
@@ -97,7 +95,7 @@ Instructions on this page for OpenRefine will be specific to steps that could he
 
 Note that if you are working in Google Sheets on your Collections U of T metadata spreadsheet, you can load the data into OpenRefine directly from Google Sheets by following [these instructions](https://openrefine.org/docs/manual/starting#google-data). Make sure the spreadsheet is a Google Sheet and not an .xlsx document stored in your Google Drive. 
 
-# How do I alter the metadata labels that publicly display for my collection on Collections U of T?
+## How do I alter the metadata labels that publicly display for my collection on Collections U of T?
 
 All collections share the same metadata schema (see above documentation). It is possible to submit a request to change the labels of the metadata for your repository. To change the display labels of metadata for your repository's collection(s) please [email Collections U of T ITS staff](mailto:digitalinitiatives@library.utoronto.ca) to request a consultation about modifying metadata labels. If it is possible to accommodate your requested changes, ITS will modify [internal metadata mapping documents](https://git.library.utoronto.ca/utl-its/digital-collections/collections-lookup/-/tree/main/src/config/metadataMapping?ref_type=heads). Note that these internal metadata display documents also control the labels in your repository's IIIF manifests.
 
