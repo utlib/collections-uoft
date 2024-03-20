@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Adding New Collections
-nav_order: 6
+title: Requesting A New Collections U of T Repository
+nav_order: 2
 parent: Documentation
 description: "Requesting a New Top-level Repository"
 permalink: /documentation/adding-new-collections
@@ -18,6 +18,9 @@ In Collections U of T, the libraries or archives who cares for the physical item
 Review the [service parameters](https://github.com/utlib/collections-uoft/blob/main/README.md#about-collections-u-of-t) to make sure Collections U of T fits your needs.
 
 ## How to request a Collections U of T repository...
+
+> ***Please note from July 2024 - Summer 2025 the Collections U of T service will be operating in maintenance mode with reduced staff capacity. You can still submit a request for a new repository but the service will not be adding and onboarding new repositories until Fall 2025.***
+
 
 Email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) with the following information:
 
