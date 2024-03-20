@@ -15,7 +15,7 @@ In Collections U of T, the libraries or archives who care for the physical items
 
 ## Before requesting a Collections U of T repository...
 
-Review the [service parameters](https://github.com/utlib/collections-uoft/blob/main/README.md#about-collections-u-of-t) to make sure Collections U of T fits your needs.
+Review the [service parameters]([https://github.com/utlib/collections-uoft/blob/main/README.md#about-collections-u-of-t](https://utlib.github.io/collections-uoft/#about-collections-u-of-t) to make sure Collections U of T fits your needs.
 
 ## How to request a Collections U of T repository...
 
