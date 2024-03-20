@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Metadata
-nav_order: 2
+nav_order: 12
 parent: Documentation
 description: "About Collections U of T Metadata"
 permalink: /documentation/metadata
