@@ -51,6 +51,8 @@ If you are a Collections U of T collection owner please complete the following c
 4. By April 2: check that you can access the [Collections U of T teams channel](https://teams.microsoft.com/l/team/19%3a6Gi_nOUv02tuKON6QI8HeJcsTDw5PEhxhbJ_qPafHa41%40thread.tacv2/conversations?groupId=2151c2c7-2063-412d-8ebf-de2c9f809003&tenantId=78aac226-2f03-4b4d-9037-b46d56c55210) for asynchronous support and migration updates
 5. By April 2: [contact UTL ITS]((mailto:digitalinitiatives@library.utoronto.ca)) with any feedback, questions or bugs to report about the new Collections U of T beta website before the New Collections soft launch date on April 16, 2024
 
+> ***The Collections U of T beta site's public soft launch is scheduled for Tuesday, April 16, 2024.***
+
 
 ## All Migration Dates
 
