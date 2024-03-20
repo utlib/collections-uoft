@@ -25,7 +25,7 @@ It is with much excitement that the University of Toronto Libraries Information 
 **The beta site is:**
 * not public; it is only accessible on UTL VPN
   * _use VPN to access the beta site if you are off campus or not on a UTL ITS managed workstation_
-* available for testing purposes _only_
+* available for testing and data review purposes _only_
   * _please remember the site is still in beta and under active development[1]_
 * internal to U of T staff
   * _none of the beta site URLs are publicly accessible so please do not share the beta URLs with students, faculty, researchers, or the public_
@@ -46,8 +46,8 @@ If you are a Collections U of T collection owner please complete the following c
 1. By March 29: refer to your "New Collections beta launch" email - go to the new beta website and find your collection from the list on the homepage
 2. By March 29: review your collection against your old Islandora 7 website
 3. By March 29: review this 2024 Migration Guide page
-4. By April 2: check that you can access the [Collections U of T teams channel](https://teams.microsoft.com/l/team/19%3a6Gi_nOUv02tuKON6QI8HeJcsTDw5PEhxhbJ_qPafHa41%40thread.tacv2/conversations?groupId=2151c2c7-2063-412d-8ebf-de2c9f809003&tenantId=78aac226-2f03-4b4d-9037-b46d56c55210) for asynchronous support and migration updates
-5. By April 2: [contact UTL ITS]((mailto:digitalinitiatives@library.utoronto.ca)) with any feedback, questions or bugs to report about the new Collections U of T beta website before the New Collections soft launch date on April 16, 2024. Please include screenshots and URLs in your feedback
+4. By April 2: check that you can access the [Collections U of T teams channel](https://teams.microsoft.com/l/channel/19%3a0c2caaac27a04fe7b6e37018970a66b5%40thread.tacv2/Collections%2520U%2520of%2520T?groupId=2151c2c7-2063-412d-8ebf-de2c9f809003&tenantId=78aac226-2f03-4b4d-9037-b46d56c55210) for asynchronous support and migration updates
+5. By April 2: [contact UTL ITS](mailto:digitalinitiatives@library.utoronto.ca) with any feedback, questions or bugs to report about the new Collections U of T beta website before the New Collections soft launch date on April 16, 2024. Please include screenshots and URLs in your feedback
 
 > ***The Collections U of T beta site's public soft launch is scheduled for Tuesday, April 16, 2024.***
 
@@ -61,9 +61,15 @@ If you are a Collections U of T collection owner please complete the following c
   * this is the New Collections public soft launch date!
   * facilitated ingests can resume into collections.library.utoronto.ca
   * the Islandora sites will remain live and publicly accessible but no new items will be ingested into Islandora sites
-* By end of June 2024: ITS will work with collection owners to schedule shut down dates for each Islandora site. Islandora site URLs will be re-directed to the relevant collection URL on New Collections at the collections.library.utoronto.ca URLs. Collections U of T permalink /view/ URLs remain the same. For example, https://collections.library.utoronto.ca/view/utarmsIB:2006-23-38MS remains the permalink URL for this photograph of Harold Innis in the UTARMS collection. 
-* July 2024 - Summer 2025: there will be reduced Collections U of T service management capacity due to staff leaves
-* Fall 2025: ITS will roll out New Collections administrator user interface and collection owners will be able to self-ingest
+* By end of June 2024: all Islandora sites will be shut down
+ * ITS will work with collection owners to schedule shut down dates for each Islandora site
+ * Islandora site URLs will be re-directed to the relevant collection URL on New Collections
+ * Existing collections.library permalinks will remain the same - but the display will change. For example, [https://collections.library.utoronto.ca/view/utarmsIB:2006-23-38MS](https://collections.library.utoronto.ca/view/utarmsIB:2006-23-38MS) will remain the permalink URL for this photograph of Harold Innis in the UTARMS collection but the display will change to what you see on [https://collections-beta.library.utoronto.ca/view/utarmsIB:2006-23-38MS]([https://collections-beta.library.utoronto.ca/view/utarmsIB:2006-23-38MS) after the public launch on April 16th
+* July 2024 - Summer 2025: development for Collections U of T administrator user interface will be completed
+ * Collection owners can ingest new content with support from ITS
+ * New Collections will be monitored for performance and indexing
+ * The Collections U of T service will run in maintenance mode due to staff leaves
+* Fall 2025: ITS will roll out New Collections administrator user interface and collection owners will be trained on self-ingest procedures
 
 
 # "New" Collections U of T Training Kit
@@ -76,7 +82,7 @@ If you are a Collections U of T collection owner please complete the following c
 
 **1) Can I resume ingesting new collections and images into the new Collections U of T beta site?**
 
-_Yes - if you have an existing repository page in Collections U of T you can add new collections and items at any time. UTL ITS will support facilitated ingest throughout 2024 as we continue monitoring the performance of the new Collections U of T application. Please [email ITS](mailto:digitalinitiatives@library.utoronto.ca) if you need ingest and editing support. Facilitated ingest instructions can be found on the [Ingest Instructions](https://utlib.github.io/collections-uoft/documentation/ingest-instructions) page._
+_Yes, after April 16th, if you have an existing repository page in Collections U of T you can add new collections and items at any time. UTL ITS will support facilitated ingest throughout 2024 as we continue monitoring the performance of the new Collections U of T application. Please [email ITS](mailto:digitalinitiatives@library.utoronto.ca) if you need ingest and editing support. Facilitated ingest instructions can be found on the [Ingest Instructions](https://utlib.github.io/collections-uoft/documentation/ingest-instructions) page._
 
 _Please consider that the Collections U of T service is operating at reduced capacity until Summer 2025 due to ITS staffing._
 
@@ -96,7 +102,7 @@ _Due to service capacity from July 1, 2024 to Summer 2025 we will not be adding 
 
 _April 16, 2024._
 
-_The [collections.library.utoronto.ca/*](https://collections.library.utoronto.ca/) URL will point to the new Collections U of T website on April 16, 2024. This scheduled date may change if any issues arise on the beta site._
+_The [collections.library.utoronto.ca/](https://collections.library.utoronto.ca/) URL will point to the new Collections U of T website on April 16, 2024. This scheduled date may change if any issues arise on the beta site._
 
 **6) Should I still use the collections.library.utoronto.ca permalinks to collections and images?**
 
