@@ -56,23 +56,23 @@ If you are a Collections U of T collection owner please complete the following c
 
 ## All Migration Dates
 
-* March 21, 2024: collections-beta site shared with collection owners (internal U of T IP access only)
-* April 2, 2024: collection owner deadline to submit feedback about collections-beta
-* April 2-15, 2024: feedback reviewed by ITS and selected improvements implemented
+* **March 21, 2024:** collections-beta site shared with collection owners (internal U of T IP access only)
+* **April 2, 2024:** collection owner deadline to submit feedback about collections-beta
+* **April 2-15, 2024**: feedback reviewed by ITS and selected improvements implemented
 * **April 16, 2024: collections-beta goes live** on collections.library.utoronto.ca
   * this is the New Collections public soft launch date!
   * facilitated ingests can resume into collections.library.utoronto.ca
   * the Islandora sites will remain live and publicly accessible but no new items will be ingested into Islandora sites
-* By end of June 2024: all Islandora sites will be shut down
+* **By end of June 2024:** all Islandora sites will be shut down
   * ITS will work with collection owners to schedule shut down dates for each Islandora site
   * Islandora site URLs will be re-directed to the relevant collection URL on New Collections
   * existing collections.library permalinks will remain the same - but the display will change. For example, [https://collections.library.utoronto.ca/view/utarmsIB:2006-23-38MS](https://collections.library.utoronto.ca/view/utarmsIB:2006-23-38MS) will remain the permalink URL for this photograph of Harold Innis in the UTARMS collection but the display will change to what you see on [https://collections-beta.library.utoronto.ca/view/utarmsIB:2006-23-38MS](https://collections-beta.library.utoronto.ca/view/utarmsIB:2006-23-38MS) after the public launch on April 16th
-* Throughout the 2024-2025:
+* **Throughout 2024-2025:**
   * collection owners can ingest new content with support from ITS
   * New Collections will be monitored for ingest, performance, and indexing bugs
   * the Collections U of T service will run in maintenance mode due to staff leaves
   * development for Collections U of T administrator user interface will be completed
-* Fall 2025: ITS will roll out New Collections administrator user interface and collection owners will be trained on self-ingest procedures
+* **Fall 2025:** ITS will roll out New Collections administrator user interface and collection owners will be trained on self-ingest procedures
 
 
 # "New" Collections U of T Training Kit
