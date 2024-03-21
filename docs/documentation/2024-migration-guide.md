@@ -61,7 +61,7 @@ If you are a Collections U of T collection owner please complete the following c
 
 * **March 21, 2024:** New Collections U of T Beta shared with collection owners (internal U of T IP access only)
 * **April 2, 2024:** collection owner deadline to submit feedback about New Collections U of T Beta
-* **April 2-15, 2024**: feedback reviewed by ITS and selected improvements implemented
+* **April 2-15, 2024**: feedback reviewed by ITS and selected improvements implemented; web accessibility review and improvements
 * **April 16, 2024: New Collections U of T Platform goes live** on collections.library.utoronto.ca
   * this is the New Collections U of T Platform soft launch date!
   * facilitated ingests can resume into collections.library.utoronto.ca
@@ -76,7 +76,7 @@ If you are a Collections U of T collection owner please complete the following c
   * the Collections U of T Service will run in maintenance mode due to staff leaves
   * development for the New Collections U of T Platform's administrator user interface will be completed
 * **Fall 2025:** ITS will roll out the New Collections U of T Platform's administrator user interface and collection owners will be trained on self-ingest procedures
-* **2025-2026:** user testing and iterative improvements on New Collections as requested by collection owners and triaged by ITS
+* **2025-2026:** additional web accessibility review; user testing and feedback gathering; iterative improvements on New Collections as requested by collection owners and triaged by ITS
 
 
 # New Collections U of T Platform Training Kit
