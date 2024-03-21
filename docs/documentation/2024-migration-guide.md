@@ -27,7 +27,7 @@ It is with much excitement that the University of Toronto Libraries Information 
 **The Beta site is:**
 * not public; it is only accessible on UTL VPN
   * _use VPN to access the beta site if you are off campus or not on a UTL ITS managed workstation_
-* available for testing and data review purposes _only_
+* available for testing the front end, search, and data review purposes _only_
   * _please remember the site is still in beta and under active development[1]_
 * internal to U of T staff
   * _none of the Beta site URLs are publicly accessible so please do not share the beta URLs with students, faculty, researchers, or the public_
