@@ -46,7 +46,7 @@ It is with much excitement that the University of Toronto Libraries Information 
 If you are a Collections U of T collection owner please complete the following checklist:
 
 1) **By March 29:**
-* refer to your "New Collections Beta launch" email - go to New Collections U of T Beta and review your collection against your old Islandora 7 website
+* refer to your "New Collections U of T Beta launch" email - go to New Collections U of T Beta and review your collection against your old Islandora 7 website
 * review this 2024 Migration Guide page in full
 
 2) **By April 2:**
