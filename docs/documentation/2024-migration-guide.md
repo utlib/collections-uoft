@@ -35,7 +35,7 @@ It is with much excitement that the University of Toronto Libraries Information 
   * _the Islandora sites remain publicly accessible and running concurrently alongside the New Collections U of T Platform and Beta site_
 
   [1] Remaining beta development includes:
-  * PID validation against the existing Islandora repository - a few collection owners may encounter a small fraction of discrepancies in the counts of digital objects compared to those on your Islandora site as we review and validate IIIF manifests and object counts
+  * PID validation against the existing Islandora repository - temporarily, select collection owners may encounter a small fraction of discrepancies in the counts of digital objects when reviewing your collections and comparing to counts on your Islandora site as we review and validate IIIF manifests and object counts
   * adding thumbnails to all collection-level objects - you may notice some collection objects on /view/ pages have a grey folder icon; we are adding these
   * custom search facet labels on repository search pages - you may notice your custom search labels on your repository's search page are not yet implemented; these require additional development and are coming
   * finishing help pages and staff documentation
@@ -81,8 +81,8 @@ If you are a Collections U of T collection owner please complete the following c
 
 # New Collections U of T Platform Training Kit
 --------
-(To be added - this will be discussed during scheduled meetings with collection owners)      
 
+<iframe src="https://scribehow.com/embed/New_Collections_U_of_T_Training_Kit__KUE0zz27QsWojLN6cdfs7g?as=scrollable&skipIntro=true&removeLogo=true" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
 
 # Migration FAQ
 --------
