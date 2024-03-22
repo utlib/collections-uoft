@@ -11,6 +11,9 @@ permalink: /documentation/ingest-instructions
 
 > ***Please note from July 2024 - Summer 2025 the Collections U of T service supports facilitated ingests. Follow the instructions below and submit an email to  [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) to ingest your content. You must already be a participating Collections U of T repository to receive ingest support. Please also be aware that the Collections U of T service is operating in maintenance mode with reduced staff capacity in 2024-2025.***
 
+> **DRAFT: further edits and instructions forthcoming.**
+
+
 Please clear all copyright, privacy, and rights considerations for the collection before submitting the images to Collections U of T for online public access.
 
 To request facilitated ingest support into an existing top-level repository, [contact us](mailto:digitalinitiatives@library.utoronto.ca) with the following details:
