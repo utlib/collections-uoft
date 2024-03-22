@@ -9,6 +9,9 @@ permalink: /documentation/add-simple-page
 
 # Adding & editing basic pages in Collections U of T
 
+> **DRAFT: further edits and instructions forthcoming.**
+
+
 Collections U of T currently uses the Omeka platform to enable you to add basic pages about your Collections U of T repository and its collections. Please note that this Omeka instance is a separate application from the rest of the Collections U of T platform and **only** serves the function of providing a web user interface for you to add and edit basic pages for your collection. 
 
 Email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) to request a login account to edit your Collections U of T Basic Pages. 
