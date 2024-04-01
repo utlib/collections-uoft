@@ -12,7 +12,7 @@ permalink: /documentation/add-simple-page
 > **DRAFT: further edits and instructions forthcoming.**
 
 
-Simple Pages or **Basic Pages** are the _about_ pages for your repository's digital collection - they are just HTML pages with about text or instructional text to supplement your digital collections and your metadata. You are not required to add Basic Pages for your digital collections but they are an option.
+Simple Pages or **Basic Pages** are the _about_ pages for your repository's digital collections - they are just HTML pages with about text or instructional text to supplement your digital collections and your metadata. You are not required to add Basic Pages for your digital collections but they are an option.
 
 Collections U of T Basic Pages follow the URL pattern of _https://collections-beta.library.utoronto.ca/explore/*_ where * is the page path for your repository's Basic Pages.
 
