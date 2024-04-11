@@ -15,6 +15,13 @@ permalink: /documentation/iiif-collections
 
 **Public documentation about Collections U of T and IIIF is available at [https://collections-beta.library.utoronto.ca/explore/getting_started](https://collections-beta.library.utoronto.ca/explore/getting_started).**
 
-Staff documentation about IIIF and Collections U of T is forthcoming - including when to consider using Collections U of T for IIIF versus the Internet Archive (the IA is also [IIIF-enabled](https://github.com/internetarchive/iiif)). 
+Staff documentation about IIIF and Collections U of T is forthcoming.
+
+## Using external IIIF services - Internet Archive
+
+UTL makes use of the Internet Archive (IA) to publish digital collections. The IA is also [IIIF-enabled](https://github.com/internetarchive/iiif). Collectons owners may consider the following when deciding if they should use Collections U of T versus the Internet Archive:
+* Collections U of T IIIF manifests and image URLs are published with the goal of providing access in perpetuity
+* Metadata fields in Collections U of T IIIF are customizable according to the repository's specifications
+* Collections U of T digital objects are published alongside all of UTL's other  digital collections within the UTL IIIF collection-level manifest
 
 If your department would like more information or training about IIIF for your staff please [email us](mailto:digitalinitiatives@library.utoronto.ca) to plan training sessions or support with IIIF / Collections U of T use for faculty and students after Summer 2025.
