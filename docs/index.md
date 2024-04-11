@@ -32,7 +32,7 @@ If you are looking for documentation and help for browsing and searching in *Col
     * [Transcription and Annotation tools for Collections U of T IIIF images](documentation/transcriptions-with-iiif.md)
 
 ## About Collections U of T
-[Collections U of T](https://collections.library.utoronto.ca) is the  University of Toronto Libraries' image repository for digitized special collections and archives. It provides open access to these digital image collections through the [International Image Interoperability Framework (IIIF)](https://iiif.io/) and standard metadata formats. 
+[Collections U of T](https://collections.library.utoronto.ca) is the  University of Toronto Libraries' image repository for digitized special collections and archives. The service supports UTL special collections and archives staff in providing open access to digitized special collections and archives through the [International Image Interoperability Framework (IIIF)](https://iiif.io/) and standard metadata formats. 
 
 Collections U of T provides U of T staff:
 
