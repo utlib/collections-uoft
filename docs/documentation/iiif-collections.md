@@ -21,9 +21,9 @@ Staff documentation about IIIF and Collections U of T is forthcoming.
 
 UTL makes use of the Internet Archive (IA) to publish digital collections. The IA is also [IIIF-enabled](https://github.com/internetarchive/iiif). Collection owners may consider the following when deciding if they should use Collections U of T versus the Internet Archive:
 * If your UTL department is acquiring archives and special collections for digitization and unrestricted public access please [email us](mailto:digitalinitiatives@library.utoronto.ca) to discuss if your context fits the [Collections U of T policies](https://utlib.github.io/collections-uoft/#about-collections-u-of-t).
-* If you anticipate reuse of digital objects via IIIF tools then Collections U of T IIIF is the recommended service
-* Collections U of T manifests and image URLs are published with the goal of providing access in **perpetuity**
-* Metadata fields in Collections U of T IIIF are customizable according to the repository owner's specifications (within the constraints of the Collections U of T index and metadata profile)
+* If your UTL department's context fits within the Collections U of T policies and you anticipate reuse of digital objects via IIIF tools then Collections U of T IIIF is the recommended service
+* Remember that Collections U of T IIIF manifests and image URLs are published with the goal of providing access and capacity for reuse in **perpetuity**
+* Metadata fields in Collections U of T IIIF manifest are customizable according to the repository owner's specifications (within the constraints of the Collections U of T metadata profile and index)
 * Collections U of T digital objects are published alongside all of UTL's other  digital collections within the [UTL top-level IIIF collection manifest](https://iiif.library.utoronto.ca/presentation/v2/collections)
 
 ## Embedding IIIF
