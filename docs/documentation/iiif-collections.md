@@ -20,9 +20,21 @@ Staff documentation about IIIF and Collections U of T is forthcoming.
 ## Using external IIIF services - Internet Archive
 
 UTL makes use of the Internet Archive (IA) to publish digital collections. The IA is also [IIIF-enabled](https://github.com/internetarchive/iiif). Collection owners may consider the following when deciding if they should use Collections U of T versus the Internet Archive:
-* If you anticipate reuse of digital objects then Collections U of T IIIF is the recommended service
-* Collections U of T manifests and image URLs are published with the goal of providing access in perpetuity
-* Metadata fields in Collections U of T IIIF are customizable according to the repository's specifications
-* Collections U of T digital objects are published alongside all of UTL's other  digital collections within the UTL IIIF collection-level manifest
+* If your UTL department is acquiring archives and special collections for digitization and unrestricted public access please [email us](mailto:digitalinitiatives@library.utoronto.ca) to discuss if your context fits the [Collections U of T policies](https://utlib.github.io/collections-uoft/#about-collections-u-of-t).
+* If you anticipate reuse of digital objects via IIIF tools then Collections U of T IIIF is the recommended service
+* Collections U of T manifests and image URLs are published with the goal of providing access in **perpetuity**
+* Metadata fields in Collections U of T IIIF are customizable according to the repository owner's specifications (within the constraints of the Collections U of T index and metadata profile)
+* Collections U of T digital objects are published alongside all of UTL's other  digital collections within the [UTL top-level IIIF collection manifest](https://iiif.library.utoronto.ca/presentation/v2/collections)
+
+## Embedding IIIF
+
+IIIF embeds via Collections U of T can use the following parameters:
+
+* manifestId: Allow multiple entries and render them up to four in sequence - e.g. manifestId=MANIFEST_ID1&manifestId=MANIFEST_ID2
+* canvasId: Allow multiple entries and it pairs with a matching `manifestId` up to four in sequence. e.g. manifestId=MANIFEST_ID1&canvasId=CANVAS_ID1
+* workspaceControlPanel=true - Allows the Mirador 3.x Workspace functionality within the embed
+* thumbnailNavigationDisplay=true - Enables thumbnail display in embed (default is true)
+
+These embed features are reflected on [the /explore/ pages' IIIF embeds](https://utlib.github.io/collections-uoft/documentation/add-simple-page) as well. 
 
 If your department would like more information or training about IIIF for your staff please [email us](mailto:digitalinitiatives@library.utoronto.ca) to plan training sessions or support with IIIF / Collections U of T use for faculty and students after Summer 2025.
