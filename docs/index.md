@@ -52,8 +52,6 @@ Collections U of T is *not*:
 
 ### Collections U of T Policies
 
-Last updated 2024.03.14
-
 #### Collection Guidelines
 
 1. Digital collections or digital objects deposited into Collections U of T are published with the intent of access in perpetuity. All content ingested into Collections U of T will be public. Collections U of T does not currently have any collection or item restriction features - all images in the repository are publicly accessible and publicly downloadable. If you require storage for digital image collections but need to restrict access or downloads to internal UTL or U of T users, please [contact us](mailto:digitalinitiatives@library.utoronto.ca). 
