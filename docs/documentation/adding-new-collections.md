@@ -11,7 +11,7 @@ permalink: /documentation/adding-new-collections
 
 ## What is a repository?
 
-In Collections U of T, the libraries or archives who care for the physical items and their digitized surrogates are called "repositories". Within the Collections U of T database, each participating repository gets a top-level repository collection that acts as the top-level collection container for all of the repository's digital objects. You must submit a request for a new top-level repository before you can add digital collections to Collections U of T.
+In Collections U of T, the libraries or archives who care for the physical items and their digitized surrogates are called "repositories" ([view current repositories](https://collections.library.utoronto.ca/repositories)). Within the Collections U of T database, each participating repository gets a top-level repository collection that acts as the top-level collection container for all of the repository's digital objects. You must submit a request for a new top-level repository before you can add digital collections to Collections U of T.
 
 ## Before requesting a Collections U of T repository...
 
@@ -41,6 +41,6 @@ You must also confirm that the image collection(s) you are ingesting are:
 To have your request for a new top-level collection in Collections U of T approved, please ensure:
 * You have time available to meet with a Collections U of T service representative to talk through policies and training.
 * You are able to commit to following Collections U of T policies and procedures, both existing policies and with an understanding that service policies may evolve. If you cannot follow Collections U of T policies and procedures, your collection may be taken offline.
-* Your staff members working on the collection are familiar with metadata best practices and can follow Collections U of T metadata guidelines. If you cannot follow Collections U of T metadata guidelines, your collection may be taken offline.
-* You have staffing capacity to support the care and maintenance of the digital collection over time. Note: Collections U of T service staff will not have capacity to maintain your collections or web content. If you do not maintain the content you ingest into Collections U of T, it may be taken offline.
-* You commit to joining the [Collections U of T Teams channel](https://teams.microsoft.com/l/channel/19%3a0c2caaac27a04fe7b6e37018970a66b5%40thread.tacv2/Collections%2520U%2520of%2520T?groupId=2151c2c7-2063-412d-8ebf-de2c9f809003&tenantId=78aac226-2f03-4b4d-9037-b46d56c55210) to follow service updates (to be launched in March 2024).
+* Staff working on the collection are familiar with metadata best practices and can follow Collections U of T metadata guidelines. If you cannot follow Collections U of T metadata guidelines, your collection may be taken offline.
+* You have staffing capacity to support the care and maintenance of the digital collection over time. Note: Collections U of T service staff will not have capacity to maintain your collections or web content. If you do not maintain your content ingested into Collections U of T, it may be taken offline.
+* You commit to joining the [Collections U of T Teams channel](https://teams.microsoft.com/l/channel/19%3a0c2caaac27a04fe7b6e37018970a66b5%40thread.tacv2/Collections%2520U%2520of%2520T?groupId=2151c2c7-2063-412d-8ebf-de2c9f809003&tenantId=78aac226-2f03-4b4d-9037-b46d56c55210) to follow service updates (Teams channel launched in March 2024).
