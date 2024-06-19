@@ -29,7 +29,7 @@ permalink: /documentation/ingest-instructions
 [Contact ITS](mailto:digitalinitiatives@library.utoronto.ca) with the following details:
 
 1. Title of the collection
-2. Brief description to the collection (to be included in the collection's metadata description)
+2. Brief description for the collection (this will display publicly on the collection's /view/ page and be included in the collection's metadata)
 3. PID of collection
 4. Related catalog record catkey, permalink, or any “Part of” links - i.e. corresponding Discover Archives finding aid or link to external collection website
 5. Call number, if any
