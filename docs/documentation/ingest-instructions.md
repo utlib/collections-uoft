@@ -10,12 +10,9 @@ permalink: /documentation/ingest-instructions
 # Ingest instructions
 
 {: .note }
-> ***The Collections U of T administrator interface is currently under development.
-> From July 2024 - Summer 2025 ingests have to be facilitated by ITS.
-> Follow the instructions below and email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) to ingest your content.
-> You must already be a [participating repository](https://utlib.github.io/collections-uoft/documentation/adding-new-collections) to receive ingest support.
-> Please also be aware that the Collections U of T service is operating in maintenance mode with reduced staff capacity in 2024-2025.
-> These instructions will change once the Collections U of T administrator interface is rolled out.***
+> ***The Collections U of T administrator interface is currently under development.<br />From July 2024 - Summer 2025 ingests have to be facilitated by ITS.Follow the instructions below and email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) to ingest your content.<br />
+> You must already be a [participating repository](https://utlib.github.io/collections-uoft/documentation/adding-new-collections) to ingest collections and images into Collections U of T.<br />
+> Please also be aware that the Collections U of T service is operating in maintenance mode with reduced staff capacity in 2024-2025.***
 
 
 ## Before ingesting collections and items into Collections U of T...
