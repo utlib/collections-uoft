@@ -10,12 +10,14 @@ permalink: /documentation/ingest-instructions
 # Ingest instructions
 
 {: .note }
-> ***<p>The Collections U of T administrator interface is currently under development.<br />From July 2024 - Summer 2025 ingests have to be facilitated by ITS. Follow the instructions below and email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) to ingest your content.</p><p>You must already be a [participating repository](https://utlib.github.io/collections-uoft/documentation/adding-new-collections) to ingest collections and images into Collections U of T.</p><p>Please also be aware that the Collections U of T service is operating in maintenance mode with reduced staff capacity in 2024-2025.</p>***
+> ***From July 2024 - Summer 2025 ingests must be facilitated by ITS. Follow the instructions below and email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) to ingest your content. Please also be aware that the Collections U of T service is operating in maintenance mode with reduced staff capacity in 2024-2025.***
 
 
 ## Before ingesting collections and items into Collections U of T...
 
+* You must already be a [participating repository](https://utlib.github.io/collections-uoft/documentation/adding-new-collections)
 * Clear all copyright, privacy, and rights considerations for the collection before submitting the images to Collections U of T for online public access and review all [service policies](https://utlib.github.io/collections-uoft/#collections-u-of-t-policies)
+* Confirm that all collections/items are intended for public access in perpetuity
 * Consult Collections U of T [Metadata Instructions](https://utlib.github.io/collections-uoft/documentation/metadata) in full
 * Review this page in full
 * Ensure PIDs in your metadata spreadsheet are correct - in most cases, PIDs cannot be changed after ingest
