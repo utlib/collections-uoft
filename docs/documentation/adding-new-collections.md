@@ -20,7 +20,7 @@ Review the [service parameters](https://utlib.github.io/collections-uoft/#about-
 ## How to request a Collections U of T repository...
 
 {: .note }
-> ***Please note from July 2024 to Summer 2025 the Collections U of T service will be operating in maintenance mode with reduced staff capacity. You can still submit a request for a new repository but the service will not be adding and onboarding new repositories until Fall 2025.***
+> ***From July 2024 to Summer 2025 the Collections U of T service will be operating in maintenance mode with reduced staff capacity. You can still submit a request for a new repository but the service will not be adding and onboarding new repositories until Fall 2025.***
 
 
 Email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) with the following information:
