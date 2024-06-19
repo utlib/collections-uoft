@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Metadata Elements
-nav_order: 9
-parent: Documentation
+nav_order: 1
+parent: Metadata Instructions
 description: "Collections U of T Metadata Elements"
 permalink: /documentation/metadata_elements
 ---
