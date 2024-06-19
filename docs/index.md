@@ -18,7 +18,7 @@ has_children: false
 If you are looking for documentation and help for browsing and searching in *Collections U of T* visit the public help pages at [https://collections.library.utoronto.ca/explore/help](https://collections.library.utoronto.ca/explore/help).
 
 {: .note }
-> ***The New Collections U of T Platform application launched in May 2024. Go to the [2024 Migration Guide](https://utlib.github.io/collections-uoft/documentation/2024-migration-guide) for more information. From July 2024 - Summer 2025 the Collections U of T service will also be operating in maintenance mode with reduced staff capacity.***
+> ***The New Collections U of T Platform launched in May 2024. Go to the [2024 Migration Guide](https://utlib.github.io/collections-uoft/documentation/2024-migration-guide) for more information. From July 2024 - Summer 2025 the Collections U of T service will also be operating in maintenance mode with reduced staff capacity.***
 
 **Skip to:**
 * [About Collections U of T](index.md#about-collections-u-of-t)
