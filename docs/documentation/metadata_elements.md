@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Metadata Elements
-nav_order: 1
+nav_order: 
 parent: Metadata Instructions
 description: "Collections U of T Metadata Elements"
 permalink: /documentation/metadata/metadata_elements
 ---
-# Collections U of T Metadata Instructions
+# Collections U of T Metadata Instructions - test page, do not use
 
  > **DRAFT: further edits and instructions forthcoming.**
 
