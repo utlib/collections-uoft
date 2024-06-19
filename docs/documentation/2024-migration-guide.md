@@ -60,7 +60,7 @@ _The `collections.library.utoronto.ca/view/PID` URL is still the correct permali
 
 **7) When will Islandora 7 websites be taken offline?**
 
-_Yes, by end June 2024 - copies of the Islandora 7 sites are captured in UTL's [Archive-It account](https://archive-it.org/collections/6473)._
+_By end June 2024 - copies of the Islandora 7 sites are captured in UTL's [Archive-It account](https://archive-it.org/collections/6473)._
 
 **8) Will my Islandora site's page URLs be preserved in New Collections?**
 
