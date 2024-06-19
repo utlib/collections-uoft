@@ -83,17 +83,17 @@ Have more questions? [Email us!](mailto:digitalinitiatives@library.utoronto.ca) 
 * **April-May, 2024:** collection owner deadline to submit feedback about New Collections U of T Beta
 * **April-May, 2024**: feedback reviewed by ITS and selected improvements implemented; web accessibility review and improvements forthcoming
 * **May 21, 2024: New Collections U of T Platform goes live** on collections.library.utoronto.ca and the New Collections U of T Platform soft launch date!
-  * facilitated ingests can resume into collections.library.utoronto.ca
-  * the Islandora sites will remain live and publicly accessible but no new items will be ingested into Islandora sites
+  * Facilitated ingests can resume into collections.library.utoronto.ca
+  * The Islandora sites will remain live and publicly accessible but no new items will be ingested into Islandora sites
 * **By end of June 2024:** all Islandora sites shut down
   * ITS will work with collection owners to schedule shut down dates for each Islandora site
   * Islandora site URLs will be re-directed to the relevant collection URL on New Collections
-  * existing collections.library permalinks will remain the same - but the display will change. Example permalink: [https://collections.library.utoronto.ca/view/utarmsIB:2006-23-38MS](https://collections.library.utoronto.ca/view/utarmsIB:2006-23-38MS)
+  * Existing collections.library permalinks will remain the same - but the display will change. Example permalink: [https://collections.library.utoronto.ca/view/utarmsIB:2006-23-38MS](https://collections.library.utoronto.ca/view/utarmsIB:2006-23-38MS)
 * **Throughout 2024-2025:**
-  * collection owners can ingest new content with support from ITS into the New Collections U of T Platform
+  * Collection owners can ingest new content with support from ITS into the New Collections U of T Platform
   * New Collections will be monitored for ingest, performance, and indexing bugs
   * Ongoing web accessibility improvements
-  * the Collections U of T Service will run in maintenance mode due to staff leaves
-  * development for the New Collections U of T Platform's administrator user interface will be completed
+  * The Collections U of T Service will run in maintenance mode due to staff leaves
+  * Development for the New Collections U of T Platform's administrator user interface will be completed
 * **Fall 2025:** ITS will roll out the New Collections U of T Platform's administrator user interface and collection owners will be trained on self-ingest procedures
 * **2025-2026:** additional web accessibility review; user testing and feedback gathering; iterative improvements on New Collections as requested by collection owners and triaged by ITS
