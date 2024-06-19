@@ -4,7 +4,7 @@ title: Metadata Elements
 nav_order: 1
 parent: Metadata Instructions
 description: "Collections U of T Metadata Elements"
-permalink: /documentation/metadata_elements
+permalink: /documentation/metadata/metadata_elements
 ---
 # Collections U of T Metadata Instructions
 
