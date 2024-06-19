@@ -73,9 +73,9 @@ Collections U of T is a digital image repository that currently accepts the foll
 View the list of existing repositories in Collections U of T [here](https://collections.library.utoronto.ca/repositories).
 
 Digital projects making use of Collections U of T include:
-* Ann Komaromi's *[Project for the Study of Dissidence and Samizdat](https://collections-beta.library.utoronto.ca/view/samizdat:root)*
+* Ann Komaromi's *[Project for the Study of Dissidence and Samizdat](https://samizdat.library.utoronto.ca/)*
 * *[French](https://french.newberry.t-pen.org/)* and *[Italian Paleography](https://italian.newberry.t-pen.org/)*, supported by a grant from The Andrew W. Mellon Foundation and completed in partnership with the Newberry Library and the Walter J. Ong Centre for Digital Humanities at Saint Louis University
-* Pamela Klassen's *[Story Nations](https://storynations.utoronto.ca/index.php/the-diary/the-digital-edition/manuscript-and-transcription/)*
+* Pamela Klassen's *[Story Nations](https://storynations.utoronto.ca/)*
 
 
 ## What is Collections U of T IIIF?
