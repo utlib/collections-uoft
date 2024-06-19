@@ -15,7 +15,7 @@ permalink: /documentation/2024-migration-guide
 * [2024 Migration Timeline](#migration-timeline)
 
   
-**This guide provides UTL staff with instructions and FAQs about the Collections U of T migration from Islandora 7 to the new UTL-homegrown "New Collections U of T Platform" in Spring 2024. Want to know more about the Collections U of T service? Go to the _[About](https://utlib.github.io/collections-uoft/)_ page. **
+**This guide provides UTL staff with instructions and FAQs about the Collections U of T migration from Islandora 7 to the new UTL-homegrown "New Collections U of T Platform" in Spring 2024. Want to know more about the Collections U of T service? Go to the _[About](https://utlib.github.io/collections-uoft/)_ page.**
 
 
 It is with much excitement that the University of Toronto Libraries Information Technology Services announces the May 2024 soft launch of the New Collections U of T Platform for the Collections U of T Service. This migration is the result of a multi-year project by ITS staff to move the Collections U of T Service off of Islandora 7 (Drupal 7) as Drupal 7 reaches [end of support on January 5, 2025](https://www.drupal.org/about/drupal-7/d7eol/partners?gad_source=1&gclid=CjwKCAiA_tuuBhAUEiwAvxkgTpcqWPPQRldzo2woWqXjQGdC9r5TTSbAuycGH45nlNF-2FpSv2Iv9xoCsB8QAvD_BwE).
