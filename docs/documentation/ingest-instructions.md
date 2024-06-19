@@ -33,7 +33,7 @@ permalink: /documentation/ingest-instructions
 3. PID of collection
 4. Related catalog record catkey, permalink, or any “Part of” links - i.e. corresponding Discover Archives finding aid or link to external collection website
 5. Call number, if any
-6. Path to the completed and validated [metadata spreadsheet](https://utlib.github.io/collections-uoft/documentation/metadata) for the collection's metadata and any child items
+6. Path to the completed and validated [metadata spreadsheet](https://utlib.github.io/collections-uoft/documentation/metadata) for the collection's metadata and any child items (if you are including child items, indicate whether the viewing direction of the images should be right to left)
 7. Path to the directory where the images are stored (you must ensure image filenames match metadata spreadsheet filenames)
 8. Deadline for ingest to help ITS prioritize and schedule the work
 
@@ -45,19 +45,19 @@ permalink: /documentation/ingest-instructions
 2. Path to the completed and validated [metadata spreadsheet](https://utlib.github.io/collections-uoft/documentation/metadata) for the items' metadata
 3. Whether the viewing direction of the images should be right to left
 4. Path to the directory where the images are stored (you must ensure image filenames match metadata spreadsheet filenames)
-5. Deadline for ingest to help us prioritize and schedule the work
+5. Deadline for ingest to help ITS prioritize and schedule the work
 
 Consult with the Collections U of T team if you need to ingest OCR text for your image files. Instructions for using transcription tools with Collections U of T IIIF manifests can also be found [here](https://utlib.github.io/collections-uoft/documentation/transcriptions-with-iiif).
 
-### Beware updating image files within an item published in Collections U of T
+### Once items are published please avoid updating image files
 
-Remember that Collections U of T publishes images as _data_ - this data is represented as a [IIIF Manifest](https://iiif.io/guides/using_iiif_resources/). If you update an image in your digital object, the IIIF Manifest is *also* altered. Therefore, updating image files in an item published in Collections U of T may cause unintentional issues for end users making use of the item's IIIF Manifest. 
+Remember that Collections U of T publishes images as _data_ - this data is represented as a [IIIF Manifest](https://iiif.io/guides/using_iiif_resources/). If you update an image in an item published to Collections U of T, the item's IIIF Manifest will *also* be altered. Therefore, updating image files in an item published in Collections U of T may cause unintentional broken links or corrupted data for end users who make use of the item's IIIF Manifest. 
 
-Be aware that changing the images in your digital objects after they have been published for an extended period of time may impact a user's research output. Please only update images after you have published them with extreme caution. Ideally, please only publish final, edited copies of digital images to Collections U of T. 
+Try to avoid ingesting image files and then deleting and replacing them after the item is published and be aware that if you must change or delete any images in your digital objects after they have been published for an extended period of time then you may impact a user's IIIF research output. Ideally, please only publish final, edited copies of digital images to Collections U of T. 
 
 
 ### Can I ingest A/V file formats into Collections U of T?
 
-No, you cannot ingest A/V file formats into Collections U of T. At this time, A/V file formats can be stored in UTL's [MyMedia service](https://mymedia.library.utoronto.ca/). Once stored in MyMedia, you can use the MyMedia embed link to add the videos to basic pages for your collection. You can also ingest metadata for these files to surface in Collections U of T search. For more information about how to handle A/V digital collections, [contact us](mailto:digitalinitiatives@library.utoronto.ca).
+No, you cannot ingest A/V file formats into Collections U of T. At this time, A/V file formats can be stored in UTL's [MyMedia service](https://mymedia.library.utoronto.ca/). Once stored in MyMedia, you can use the MyMedia embed link to add the videos to basic pages for your collection. You can also ingest metadata for these files to surface in Collections U of T search. For more information about how to handle A/V digital collections, [contact us](mailto:digitalinitiatives@library.utoronto.ca). See other format support information [here](https://utlib.github.io/collections-uoft/#format-support). 
 
 **This page will be updated with self-ingest instructions when the new Collections U of T administrator user interface is launched in Fall 2025.**
