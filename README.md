@@ -6,4 +6,4 @@
 
 Collections U of T staff policy & procedures documentation is published online using [Just the Docs](https://just-the-docs.com/) and GitHub Pages.
 
-If you are looking for documentation and help for browsing and searching in Collections U of T visit the [public help page](https://collections-beta.library.utoronto.ca/explore/help).
+If you are looking for documentation and help for browsing and searching in Collections U of T visit the [public help page](https://collections.library.utoronto.ca/explore/help).
