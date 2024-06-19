@@ -27,7 +27,7 @@ The [Collections U of T Metadata Spreadsheet Template](https://docs.google.com/s
 
 ## Getting Started with Collections U of T Metadata
 
-First, if you have existing MARC records to work with you can scroll to [MARCEdit Tips](metadata_template_ins)tructions.md#marcedit-tips) to read more about converting MARC records into a Collections U of T spreadsheet.
+First, if you have existing MARC records to work with you can scroll to [MARCEdit Tips](metadata_template_instructions.md#marcedit-tips) to read more about converting MARC records into a Collections U of T spreadsheet.
 
 If you have an existing database of metadata and would like help exporting it, email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca).
 
