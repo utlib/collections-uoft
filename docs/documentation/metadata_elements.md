@@ -18,15 +18,22 @@ The [Collections U of T Metadata Spreadsheet Template](https://docs.google.com/s
 
 ## alma_record
 
-*Data Type:* URL
-*Input Guidelines:* Enter the full URL for the Alma MMS ID permalink. When converting from MARC, you will need to manually enter the Alma Record's Permalink URL.
-*MODS Input Guidelines:* https://www.loc.gov/standards/mods/userguide/location.html#url - with displayLabel="Alma Record" attribute
-*Controlled Vocabulary:* none
-*Obligation:* Optional
-*Repeatable?:* No
+* **Data Type:** URL
+* **Input Guidelines:** Enter the full URL for the Alma MMS ID permalink. When converting from MARC, you will need to manually enter the Alma Record's Permalink URL.
+* **MODS Input Guidelines:** https://www.loc.gov/standards/mods/userguide/location.html#url - with displayLabel="Alma Record" attribute
+* **Controlled Vocabulary:** none
+* **Obligation:** Optional
+* **Repeatable?:** No
 
 ## alternate_identifier
 _Draft - still working on this page._
+
+* **Data Type:**
+* **Input Guidelines:** 
+* **MODS Input Guidelines:** 
+* **Controlled Vocabulary:** 
+* **Obligation:** 
+* **Repeatable?:** 
 
 
 
