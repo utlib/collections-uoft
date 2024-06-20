@@ -107,4 +107,4 @@ For values in the Creator / Contributor field the role term you select in the *c
 
 ![Creator or Contributor role terms become labels per name](../img/creator_contributor_role_terms.jpg)
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/app7wnYFlIDcxwXka/shrSpVr5tTRyMSaTo" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
