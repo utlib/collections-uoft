@@ -2,7 +2,7 @@
 layout: default
 title: Metadata Elements
 nav_order: 20
-parent: Metadata Instructions
+parent: Documentation
 description: "Collections U of T Metadata Elements"
 permalink: /documentation/metadata_elements
 ---
