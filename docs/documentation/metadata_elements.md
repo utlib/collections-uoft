@@ -127,7 +127,8 @@ If adding translations for names, separate by pipe. Indicate language per name v
 
 ## description
 * **Data Type:** string
-* **Input Guidelines:** A summary of the content of the resource - i.e. the abstract, description, or scope and content. Use plain text if possible. If necessary, available HTML tags: <a>; <em>; <strong>. If <p> is needed use | as a separator. Do not use <p> or <br /> tags. 
+* **Input Guidelines:** A summary of the content of the resource - i.e. the abstract, description, or scope and content. Use plain text if possible. If necessary, available HTML tags: < a > ; < em > ; < strong >
+  * If <p> is needed use | as a separator. Do not use <p> or <br /> tags. 
 * **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/abstract.html](https://www.loc.gov/standards/mods/userguide/abstract.html)
 * **Controlled Vocabulary:** none
 * **Obligation:** optional
@@ -197,6 +198,80 @@ If adding translations for names, separate by pipe. Indicate language per name v
 * **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/location.html#physicallocation](https://www.loc.gov/standards/mods/userguide/location.html#physicallocation)
 * **Controlled Vocabulary:** none
 * **Obligation:** Required
+* **Repeatable?:** yes
+
+## image
+* **Data Type:** filepath
+* **Input Guidelines:** Enter the file path to the image(s) for the digital object. (.tiff; .tif; .jpg extension). Book objects should be a directory (i.e. a folder) of images.
+* **MODS Input Guidelines:** does not map
+* **Controlled Vocabulary:** N/A
+* **Obligation:** required
+* **Repeatable?:** no
+
+## issuance
+* **Data Type:** string
+* **Input Guidelines:** Mostly used when converting from MARC records. Do not use if data does not exist - controlled term that designates how the resource is issued.
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/origininfo.html#issuance](https://www.loc.gov/standards/mods/userguide/origininfo.html#issuance)
+* **Controlled Vocabulary:**
+  - monographic
+  - single unit 
+  - multipart monograph
+  - continuing 
+  - serial
+_See MODS Guidelines for explanation of each term._
+* **Obligation:** optional
+* **Repeatable?:** no
+
+## issue
+* **Data Type:** string
+* **Input Guidelines:** Use to indicate the issue number. Suggestion is to enter as numerical value, but just be consistent across collection.
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/part.html#number](https://www.loc.gov/standards/mods/userguide/part.html#number - with detail type="issue") - with detail type="issue"
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** no
+
+## language_code
+* **Data Type:** string
+* **Input Guidelines:** Enter the 3 character ISO 639-2 code for the language of the resource. If the resource contains multiple languages, enter language code within pipes in the same order that language text appears. Default value is none."
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/language.html#languageterm](https://www.loc.gov/standards/mods/userguide/language.html#languageterm)
+* **Controlled Vocabulary:** [https://www.loc.gov/standards/iso639-2/php/code_list.php](https://www.loc.gov/standards/iso639-2/php/code_list.php) - use 3 character code
+* **Obligation:** optional
+* **Repeatable?:** yes
+
+## pages
+* **Data Type:** string
+* **Input Guidelines:** "Enter the page range - i.e. #-#
+  * Examples:10-35
+  * Use to indicate the page numbers. Suggestion is to enter as numerical value, but just be consistent across collection.
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/part.html#extent with unit="pages](https://www.loc.gov/standards/mods/userguide/part.html#extent with unit="pages")
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** no
+
+## language_text
+* **Data Type:** string
+* **Input Guidelines:** [Enter the text for the language of the resource from the ISO 639-2 list](https://www.loc.gov/standards/iso639-2/php/code_list.php)
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/language.html#languageterm](https://www.loc.gov/standards/mods/userguide/language.html#languageterm)
+* **Controlled Vocabulary:** [https://www.loc.gov/standards/iso639-2/php/code_list.php](https://www.loc.gov/standards/iso639-2/php/code_list.php) - use text that matches code
+* **Obligation:** optional
+* **Repeatable?:** yes
+
+## lccn_identifier
+* **Data Type:** string
+* **Input Guidelines:** LCCN Identifier - usually present when converting metadata from MARC records
+* **MODS Input Guidelines:** none
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** no
+
+## member_of
+* **Data Type:** string
+* **Input Guidelines:** "Enter the PID of the collection (or book - for page objects) that the object belongs to. 
+  * An object can only belong to one parent collection. 
+  * Ingest error will result if collection does not yet exist - you must create the collection/book object before adding items/pages to a collection/book. "
+* **MODS Input Guidelines:** N/A
+* **Controlled Vocabulary:** N/A
+* **Obligation:** required
 * **Repeatable?:** yes
 
 ## element
