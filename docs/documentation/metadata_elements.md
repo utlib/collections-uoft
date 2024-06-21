@@ -490,6 +490,115 @@ _See MODS Guidelines for explanation of each term._
 * **Obligation:** optional
 * **Repeatable?:** no
 
+## thumbnail
+* **Data Type:** filepath
+* **Input Guidelines:** Enter the file path to the image that should be used as the thumbnail of the digital object. If left blank, default is to make the first image the thumbnail. 
+* **MODS Input Guidelines:** does not map
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** no
+
+## title
+* **Data Type:** string
+* **Input Guidelines:** "Enter the title of the object. Title will also become the IIIF label.For display purposes try to keep title values limited to under 256 characters."
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/titleinfo.html](https://www.loc.gov/standards/mods/userguide/titleinfo.html)
+* **Controlled Vocabulary:** N/A
+* **Obligation:** required
+* **Repeatable?:** no
+
+## title_alternative
+* **Data Type:** string
+* **Input Guidelines:** Enter the alternative title of the object, if one exists (varying form of the title if it contributes to the further identification of the item).
+  * For titles with multiple languages in different character sets, use the Title_Alternative tag for the romanized titles in the ASCII character set and use Title_Translated for other translations. For an example, see the rclc-hkl:xhrb collection
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/titleinfo.html](https://www.loc.gov/standards/mods/userguide/titleinfo.html) - with type="alternative"
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** yes
+
+## title_alternative_lang
+* **Data Type:** string
+* **Input Guidelines:** Enter the 2 character ISO 639-2 code for the language of the Title_Alternative value.
+  * Note: this is not the language of the resource - it is the language of the Title_Alternative value.  This field is included in our metadata for accessibility purposes - it helps screenreaders understand the language of the value in the title field. See [https://connect.library.utoronto.ca/display/DP/How+to+represent+languages+and+scripts+across+MODS+fields](https://connect.library.utoronto.ca/display/DP/How+to+represent+languages+and+scripts+across+MODS+fields) for background documentation. 
+  * If multiple Title_Alternative values, enter language code within pipes in the same order that alternative titles appear in Title_Alternative. 
+  * If the value(s) is(are) multiple languages do not enter any value, leave blank. Default value is none.
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/titleinfo.html](https://www.loc.gov/standards/mods/userguide/titleinfo.html) - with type="alternative" and value contained in lang="" attribute
+* **Controlled Vocabulary:** [https://www.loc.gov/standards/iso639-2/php/code_list.php](https://www.loc.gov/standards/iso639-2/php/code_list.php)
+  * Look into internationalization use cases: [https://www.w3.org/2013/dwbp/wiki/RDF_AND_JSON-LD_UseCases](https://www.w3.org/2013/dwbp/wiki/RDF_AND_JSON-LD_UseCases)
+  * See also [https://www.w3.org/International/questions/qa-choosing-language-tags](https://www.w3.org/International/questions/qa-choosing-language-tags)
+* **Obligation:** optional
+* **Repeatable?:** yes
+
+## title_lang
+* **Data Type:** string
+* **Input Guidelines:** "Enter the 2 character ISO 639-2 code for the language of the Title value.
+  * Note: this is not the language of the resource - it is the language of the Title value. This field is included in our metadata for accessibility purposes - it helps screenreaders understand the language of the value in the title field. See https://connect.library.utoronto.ca/display/DP/How+to+represent+languages+and+scripts+across+MODS+fields for background documentation. 
+  * If the title value is multiple languages do not enter any value, leave blank. Default value is none. 
+  * See further instructions to add to Collections U of T documentation at https://connect.library.utoronto.ca/display/DP/How+to+represent+languages+and+scripts+across+MODS+fields
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/titleinfo.html](https://www.loc.gov/standards/mods/userguide/titleinfo.html) - value contained in lang="" attribute
+* **Controlled Vocabulary:** [https://www.loc.gov/standards/iso639-2/php/code_list.php](https://www.loc.gov/standards/iso639-2/php/code_list.php)
+  * Look into internationalization use cases: https://www.w3.org/2013/dwbp/wiki/RDF_AND_JSON-LD_UseCases
+  * See also https://www.w3.org/International/questions/qa-choosing-language-tags
+* **Obligation:** optional
+* **Repeatable?:** no
+
+## title_translated
+* **Data Type:** string
+* **Input Guidelines:** Enter the translated title of the object, if one exists (translation or transcription of the main title).
+  * For titles with multiple languages in different character sets, use the Title_Alternative tag for the romanized titles in the ASCII character set and use Title_Translated for other translations. For an example, see the rclc-hkl:xhrb collection
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/titleinfo.html](https://www.loc.gov/standards/mods/userguide/titleinfo.html) - with type="translated"
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** yes
+
+## title_translated_lang
+* **Data Type:** string
+* **Input Guidelines:** Enter the 2 character ISO 639-2 code for the language of the Title_Translated value.
+  * Note: this is not the language of the resource - it is the language of the Title_Translated value.  This field is included in our metadata for accessibility purposes - it helps screenreaders understand the language of the value in the title field. See https://connect.library.utoronto.ca/display/DP/How+to+represent+languages+and+scripts+across+MODS+fields for background documentation. 
+  * If multiple Title_Translated values, enter language code within pipes in the same order that uniform titles appear in Title_Translated. 
+  * There should not be multiple languages in this field. 
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/titleinfo.html](https://www.loc.gov/standards/mods/userguide/titleinfo.html) - with type="translated" and value contained in lang="" attribute
+* **Controlled Vocabulary:** [https://www.loc.gov/standards/iso639-2/php/code_list.php](https://www.loc.gov/standards/iso639-2/php/code_list.php)
+  * Look into internationalization use cases: https://www.w3.org/2013/dwbp/wiki/RDF_AND_JSON-LD_UseCases
+  * See also [https://www.w3.org/International/questions/qa-choosing-language-tags](https://www.w3.org/International/questions/qa-choosing-language-tags)
+* **Obligation:** optional
+* **Repeatable?:** yes
+
+## title_uniform
+* **Data Type:** string
+* **Input Guidelines:** This field is used most often when using MARC as the source of the metadata. The uniform title is used as a main entry in a bibliographic record. Used when a work has appeared under varying titles, necessitating that a particular title be chosen to represent the work.
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/titleinfo.html](https://www.loc.gov/standards/mods/userguide/titleinfo.html)  - with type="uniform"
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** yes
+
+## title_uniform_lang
+* **Data Type:** string
+* **Input Guidelines:** Enter the 2 character [ISO 639-2 code](https://www.loc.gov/standards/iso639-2/php/code_list.php) for the language of the Title_Uniform value.
+  * Note: this is not the language of the resource - it is the language of the Title_Uniform value.  This field is included in our metadata for accessibility purposes - it helps screenreaders understand the language of the value in the title field. See [https://connect.library.utoronto.ca/display/DP/How+to+represent+languages+and+scripts+across+MODS+fields]([https://www.loc.gov/standards/iso639-2/php/code_list.php](https://connect.library.utoronto.ca/display/DP/How+to+represent+languages+and+scripts+across+MODS+fields)) for background documentation.  
+  * If multiple Title_Uniform values, enter language code within pipes in the same order that uniform titles appear in Title_Uniform. 
+  * If the value(s) is(are) multiple languages do not enter any value, leave blank. Default value is none.
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/titleinfo.html](https://www.loc.gov/standards/mods/userguide/titleinfo.html) - with type="uniform" and value contained in lang="" attribute
+* **Controlled Vocabulary:** [https://www.loc.gov/standards/iso639-2/php/code_list.php](https://www.loc.gov/standards/iso639-2/php/code_list.php)
+  * Look into internationalization use cases: [https://www.w3.org/2013/dwbp/wiki/RDF_AND_JSON-LD_UseCases](https://www.w3.org/2013/dwbp/wiki/RDF_AND_JSON-LD_UseCases)
+  * See also [https://www.w3.org/International/questions/qa-choosing-language-tags](https://www.w3.org/International/questions/qa-choosing-language-tags)
+* **Obligation:** optional
+* **Repeatable?:** yes
+
+## type_of_resource
+* **Data Type:** string
+* **Input Guidelines:** See [https://www.loc.gov/standards/mods/userguide/typeofresource.html](https://www.loc.gov/standards/mods/userguide/typeofresource.html)
+  * Use only the selected following terms from [https://id.loc.gov/vocabulary/resourceTypes.html](https://id.loc.gov/vocabulary/resourceTypes.html) :
+    * artifact
+    * cartographic
+    * collection
+    * mixed material
+    * still image
+    * text
+* **MODS Input Guidelines:** 
+* **Controlled Vocabulary:** 
+* **Obligation:** 
+* **Repeatable?:** 
+
 _Draft - still working on this page._
 ## element
 * **Data Type:**
