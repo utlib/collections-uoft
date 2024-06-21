@@ -594,19 +594,81 @@ _See MODS Guidelines for explanation of each term._
     * mixed material
     * still image
     * text
-* **MODS Input Guidelines:** 
-* **Controlled Vocabulary:** 
-* **Obligation:** 
-* **Repeatable?:** 
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/typeofresource.html](https://www.loc.gov/standards/mods/userguide/typeofresource.html)
+* **Controlled Vocabulary:** Use only the selected following terms from https://id.loc.gov/vocabulary/resourceTypes.html : 
+    * artifact
+    * cartographic
+    * collection
+    * mixed material
+    * still image
+    * text
+_Use lower case_
+* **Obligation:** required
+* **Repeatable?:** no
 
-_Draft - still working on this page._
-## element
-* **Data Type:**
-* **Input Guidelines:** 
-* **MODS Input Guidelines:** 
-* **Controlled Vocabulary:** 
-* **Obligation:** 
-* **Repeatable?:** 
+## url_catkey
+* **Data Type:** URL
+* **Input Guidelines:** Enter the full URL of the old Sirsi Catkey. As of May, 2021 we will keep Sirsi permalinks as is for legacy purposes but always add Alma Record Permalinks going forward.
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/location.html#url](https://www.loc.gov/standards/mods/userguide/location.html#url) - with displayLabel="Catalog Record" attribute
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** no
+
+## url_permalink
+* **Data Type:** URL
+* **Input Guidelines:** Enter the Collections U of T permalink. Take from the PID of the object. 
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/attributes.html#usage](https://www.loc.gov/standards/mods/userguide/attributes.html#usage) - with usage="primary display" access="object in context" attributes
+* **Controlled Vocabulary:** none
+* **Obligation:** required
+* **Repeatable?:** no
+
+## utarms_digital_object_id
+* **Data Type:** string
+* **Input Guidelines:** Used only by UTARMS for the object's digital object ID.
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/identifier.html](https://www.loc.gov/standards/mods/userguide/identifier.html) with type="/search/utarms-online_display" displayLabel="digital item no" attributes
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** no
+
+## utarms_original_item_no
+* **Data Type:** string
+* **Input Guidelines:** Used only by UTARMS for the object's original ID.
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/identifier.html](https://www.loc.gov/standards/mods/userguide/identifier.html) with type="/search/utarms-online" displayLabel="original identifier" attributes
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** no
+
+## utarms_original_item_no
+* **Data Type:** string
+* **Input Guidelines:** Used only by UTARMS for the object's original ID.
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/identifier.html](https://www.loc.gov/standards/mods/userguide/identifier.html) with type="/search/utarms-online" displayLabel="original identifier" attributes
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** no
+
+## viaf_name_identifier
+* **Data Type:** URL
+* **Input Guidelines:** A unique standard URI that distinctively identifies a Creator_Contributor name via VIAF. If multiple names in Creator_Contributor then enter VIAF URIs in order of Creator_Contributor names appear. If no VIAF, leave blank but include pipe.
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/name.html#nameidentifier](https://www.loc.gov/standards/mods/userguide/name.html#nameidentifier) - with type="viaf"
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** yes
+
+## viewing_direction
+* **Data Type:** string
+* **Input Guidelines:** Enter either "l2r" or "r2l" for ingests where digital objects have different viewing directions (i.e. fisher:root)
+* **MODS Input Guidelines:** does not map
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** no
+
+## volume
+* **Data Type:** string
+* **Input Guidelines:** Use to indicate the volume number. Suggestion is to enter as numerical value, but just be consistent across collection.
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/part.html#number](https://www.loc.gov/standards/mods/userguide/part.html#number) - with detail type="volume"
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** no
 
 
 
