@@ -15,7 +15,6 @@ This page provides information about Collections U of T metadata and element det
 The [Collections U of T Metadata Spreadsheet Template](https://docs.google.com/spreadsheets/d/1PMtZt5CzkidIXbTBUaoi8Qg7kBU-m9RzeM-lBMORPks/edit?usp=sharing) is currently stored in Google Drive for easiest access (U of T OneDrive all-staff links have an expiry date).
 
 # Collections U of T Metadata Profile - Element Details
-_Draft - still working on this page._
 
 ## alma_record
 
