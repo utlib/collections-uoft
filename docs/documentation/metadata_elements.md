@@ -274,9 +274,111 @@ _See MODS Guidelines for explanation of each term._
 * **Obligation:** required
 * **Repeatable?:** yes
 
-## element
-* **Data Type:**
-* **Input Guidelines:** 
+## note
+* **Data Type:** string
+* **Input Guidelines:** Separate multiple notes by pipes. Do not use for Description, Table_Of_Contents, Physical_Description_Note, or where text fits in other fields.
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/note.html](https://www.loc.gov/standards/mods/userguide/note.html)
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** yes
+
+## object_model
+* **Data Type:** string
+* **Input Guidelines:**
+  * Enter the Collections U of T object model for the object:
+    - Collection
+    - Image
+    - Book
+    - Page
+
+  * These terms are leftover from Islandora Object Models and represent the different types of objects Collections U of T contains and may be included in a metadata spreadsheet.
+    - Collections: can contain books or images
+    - Images: single image, can belong to one or more Collections
+    - Book: multiple images, can belong to one or more Collections - a ""Book"" is not always an actual digitized book. It is any object with multiple images.
+    - Page: single image, can belong to a Book
+* **MODS Input Guidelines:** N/A
+* **Controlled Vocabulary:**
+  - Collection
+  - Image
+  - Book
+  - Page
+* **Obligation:** required
+* **Repeatable?:** no
+
+## ocr
+* **Data Type:** string
+* **Input Guidelines:** Enter the file path to the OCR .txt file for the digital object. 
+* **MODS Input Guidelines:** does not map
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** no
+
+## digitized?
+* **Data Type:** string
+* **Input Guidelines:** Controlled field to indicate if digital object is metadata-only. 
+* **MODS Input Guidelines:** does not map
+* **Controlled Vocabulary:**
+  * Digitized
+  * Not yet digitized"
+* **Obligation:** optional, default should be Digitized
+* **Repeatable?:** no
+
+## part_of
+* **Data Type:** string
+* **Input Guidelines:** Used if item is part of bigger archival collection; commonly used for linking to archival collections or fonds in Discover Archives.
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/relateditem.html](https://www.loc.gov/standards/mods/userguide/relateditem.html) - with type="host" + displayLabel="Part Of" attributes and title information for the archival fonds/collection. 
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** yes
+
+## part_of_constituent
+* **Data Type:** string
+* **Input Guidelines:** Often used when converting from MARC. A title of a constituent unit of the resource.
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/relateditem.html](https://www.loc.gov/standards/mods/userguide/relateditem.html) - with type="constituent" + attribute and title information for the constituent unit.
+* **Controlled Vocabulary:** none
+* **Obligation:** optional 
+* **Repeatable?:** yes
+
+## part_of_constituent_creator
+* **Data Type:** string
+* **Input Guidelines:** Often used when converting from MARC. A name related to the constituent unit of the resource.
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/relateditem.html](https://www.loc.gov/standards/mods/userguide/relateditem.html) - with type="constituent" + attribute and name information for the constituent unit.
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** yes
+
+## part_of_series
+* **Data Type:** string
+* **Input Guidelines:** Used for series information if specified by collection owner/archives.
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/relateditem.html](https://www.loc.gov/standards/mods/userguide/relateditem.html) - with type="series" + attribute and title information for the archival fonds/collection's series. 
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** yes
+
+## physical_description_note
+* **Data Type:** string
+* **Input Guidelines:** Use for information relating to the physical description of a resource that does not fit in one of the other available subelements. Documentation on material and technique used for works of art and similar materials may be recorded here.
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/physicaldescription.html#note[(https://www.loc.gov/standards/mods/userguide/physicaldescription.html#note)
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** yes
+
+## pid
+* **Data Type:** string
+* **Input Guidelines:** Enter the Collections U of T identifier for the object. PID will also become the end portion of the URL to the object (it helps to have meaningful PIDs - names or titles in the URL can help with Search Engine Optimization)
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/identifier.html](https://www.loc.gov/standards/mods/userguide/identifier.html with type="local") with type="local"
+* **Controlled Vocabulary:** No. Where possible, use the call number, accession number, catkey, or meaningful identifier. 
+* **Obligation:** required
+* **Repeatable?:** no
+
+## placeterm_code
+* **Data Type:** string
+* **Input Guidelines:**
+  * Enter the code that best fits the place associated with the resource. Select most appropriate code from https://www.loc.gov/marc/countries/countries_code.html - DO NOT USE VALUES THAT BEGIN WITH ""-"" - for example ""-cn"" for Canada. These values are deprecated.
+  * If multiple place names, enter a corresponding code per place. Separate codes with pipes and order them in the same order that place names appear in PlaceTerm_Text, ideally, but any code will also generate an internal MarkLogic placeTermTextFacet field which will automatically store the https://www.loc.gov/marc/countries/countries_code.html value and display it as a facet
+  * Codes are managed in https://git.library.utoronto.ca/utl-its/digital-collections/collections-lookup/-/blob/main/src/__generated__/countryCodes.js
+  * Invalid placeterm_code will result in an ingest validation error.
+
 * **MODS Input Guidelines:** 
 * **Controlled Vocabulary:** 
 * **Obligation:** 
