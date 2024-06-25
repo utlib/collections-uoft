@@ -401,14 +401,6 @@ _See MODS Guidelines for explanation of each term._
 * **Obligation:** optional
 * **Repeatable?:** no
 
-## provenance
-* **Data Type:** string
-* **Input Guidelines:** none
-* **MODS Input Guidelines:** none
-* **Controlled Vocabulary:** none
-* **Obligation:** optional
-* **Repeatable?:** no
-
 ## publication_note
 * **Data Type:** string
 * **Input Guidelines:** Used by UTARMS for "More Information" to indicate publications related to the resource.
