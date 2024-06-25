@@ -401,6 +401,14 @@ _See MODS Guidelines for explanation of each term._
 * **Obligation:** optional
 * **Repeatable?:** no
 
+## provenance
+* **Data Type:** string
+* **Input Guidelines:** Used when converting from MARC. Not suggested for use if you are not starting with MARC data.
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/note.html](https://www.loc.gov/standards/mods/userguide/note.html) - with type="ownership" attribute
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** no
+
 ## publication_note
 * **Data Type:** string
 * **Input Guidelines:** Used by UTARMS for "More Information" to indicate publications related to the resource.
