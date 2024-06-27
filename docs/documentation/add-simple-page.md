@@ -9,6 +9,12 @@ permalink: /documentation/add-simple-page
 
 # Adding & Editing Basic Pages
 
+<br/>  
+* [About /explore/ Basic Pages](#about-explore-basic-pages)
+* [About the /explore/ Omeka Classic tool](#about-the-explore-omeka-classic-tool)
+* [IIIF in the /explore/ instance](#iiif-in-the-explore-instance)
+* [Get started with /explore/ Basic Pages](#get-started-with-explore-basic-pages)
+
 ## About /explore/ Basic Pages
 Simple Pages or **Basic Pages** are the _about_ pages for your repository's digital collections. These are just HTML pages with any about text or instructional text to supplement your digital collections and your metadata in Collections U of T. You are not required to add Basic Pages for your digital collections but they are an option available to each repository. 
 
