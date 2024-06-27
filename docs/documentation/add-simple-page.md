@@ -69,9 +69,9 @@ Follow the instructions below to learn how to use the /explore/ Omeka instance f
 ## IIIF in the /explore/ instance
 
 The /explore/ Omeka instance has a number of IIIF features enabled to connect your IIIF Collections U of T digital objects with any Basic Pages you create. This includes: 
-*  [Collections U of T IIIF Embed](https://scribehow.com/shared/Add_and_edit_a_basic_page_for_your_collection__mGEb-jYgTAKCUGsj2ixvxQ#2012cb1e)
-*  [Link Gallery and Link Carousel](https://scribehow.com/shared/Add_and_edit_a_basic_page_for_your_collection__mGEb-jYgTAKCUGsj2ixvxQ#ef14f5a7) - use these blocks instead of the Gallery and Carousel blocks
-*  [Responsive Images](https://scribehow.com/shared/Add_and_edit_a_basic_page_for_your_collection__mGEb-jYgTAKCUGsj2ixvxQ#efc29b26)
+*  [Collections U of T IIIF Embed](https://scribehow.com/shared/Add_and_edit_a_basic_page_for_your_collection__mGEb-jYgTAKCUGsj2ixvxQ#1d20dcb0)
+*  [Link Gallery and Link Carousel](https://scribehow.com/shared/Add_and_edit_a_basic_page_for_your_collection__mGEb-jYgTAKCUGsj2ixvxQ#ef14f5a7) - **use these blocks instead of the Gallery and Carousel blocks - the default Gallery and Carousel blocks do not function as links to collection items**
+*  [Responsive Images](https://scribehow.com/shared/Add_and_edit_a_basic_page_for_your_collection__mGEb-jYgTAKCUGsj2ixvxQ?referrer=workspace)
 *  [Meta Redirects](https://scribehow.com/shared/Add_and_edit_a_basic_page_for_your_collection__mGEb-jYgTAKCUGsj2ixvxQ#d2de0f0e)
 
 {: .note }
