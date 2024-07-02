@@ -58,9 +58,9 @@ _Due to service capacity from July 1, 2024 to Summer 2025 we will not be adding 
 
 _The `collections.library.utoronto.ca/view/PID` URL is still the correct permalink to use when referencing collections and images. All old Islandora URLs will redirect to these permalinks by end of June 2024._
 
-**7) When will Islandora 7 websites be taken offline?**
+**7) When were Islandora 7 websites taken offline?**
 
-_By end June 2024 - copies of the Islandora 7 sites are captured in UTL's [Archive-It account](https://archive-it.org/collections/6473)._
+_At the end of June 2024 the Islandora 7 websites were redirected to the New Collections U of T Platform. Copies of the Islandora 7 sites are captured in UTL's [Archive-It account](https://archive-it.org/collections/6473)._
 
 **8) Will my Islandora site's page URLs be preserved in New Collections?**
 
@@ -90,7 +90,7 @@ Have more questions? [Email us!](mailto:digitalinitiatives@library.utoronto.ca) 
   * Islandora site URLs will be re-directed to the relevant collection URL on New Collections
   * Existing collections.library permalinks will remain the same - but the display will change. Example permalink: [https://collections.library.utoronto.ca/view/utarmsIB:2006-23-38MS](https://collections.library.utoronto.ca/view/utarmsIB:2006-23-38MS)
 * **Throughout 2024-2025:**
-  * Collection owners can ingest new content with support from ITS into the New Collections U of T Platform
+  * Collection owners can [ingest new content](https://utlib.github.io/collections-uoft/documentation/ingest-instructions) with support from ITS into the New Collections U of T Platform
   * New Collections will be monitored for ingest, performance, and indexing bugs
   * Ongoing web accessibility improvements
   * The Collections U of T Service will run in maintenance mode due to staff leaves
