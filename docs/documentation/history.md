@@ -11,7 +11,7 @@ permalink: /documentation/history
 
 
 
-Collections U of T began as a project in the University of Toronto Libraries Information Technology Services department in 2013 in response to staff requests to make digitized special collections available online within a repository (presentation, search, preservation) ecosystem. The history of how the Collections U of T service evolved can be found in the _Introduction_ of ["Where Do We Go From Here: A Review of Technology Solutions for Providing Access to Digital Collections"](https://journal.code4lib.org/articles/15000), an article in _Code4Lib Journal_ issue 47 from 2020.
+Collections U of T began as a project in the University of Toronto Libraries Information Technology Services department in 2013 in response to staff requests to make digitized special collections available online within a repository (presentation, search, preservation) ecosystem. The history of how the Collections U of T service evolved can be found in the _Introduction_ of ["Where Do We Go From Here: A Review of Technology Solutions for Providing Access to Digital Collections"](https://journal.code4lib.org/articles/15000) in _Code4Lib Journal_ issue 47 from 2020.
 
 This article was published by the ITS team in anticipation of Islandora 7/Drupal 7 end of support, which was  originally scheduled for November 2021. In advance of this date, ITS initiated a technology review in 2019 to look at technology platform and infrastructure options to support the Collections U of T service, improve its efficiency and scalability, and also simplify its usability, maintenance, and work flows. 
 
