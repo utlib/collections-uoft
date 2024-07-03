@@ -60,7 +60,7 @@ _The `collections.library.utoronto.ca/view/PID` URL is still the correct permali
 
 **7) When were Islandora 7 websites taken offline?**
 
-_At the end of June 2024 the Islandora 7 websites were redirected to the New Collections U of T Platform. Copies of the Islandora 7 sites are captured in UTL's [Archive-It account](https://archive-it.org/collections/6473)._
+_At the end of June 2024 the Islandora 7 websites were redirected to the New Collections U of T Platform. Copies of the Islandora 7 sites are captured in UTL's [Archive-It account](https://archive-it.org/collections/6473?fc=websiteGroup%3ACollections+U+of+T)._
 
 **8) Will my Islandora site's page URLs be preserved in New Collections?**
 
