@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Editing Basic Pages
-nav_order: 5
+nav_order: 11
 parent: Documentation
 description: "Editing your collection's basic pages"
 permalink: /documentation/add-simple-page
