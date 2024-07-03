@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What is IIIF? (for staff)
-nav_order: 6
+nav_order: 7
 parent: Documentation
 description: "What is IIIF? (for staff)"
 permalink: /documentation/iiif-collections
