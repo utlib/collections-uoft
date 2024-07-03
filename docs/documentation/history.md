@@ -13,27 +13,27 @@ permalink: /documentation/history
 
 Collections U of T began as a project in the University of Toronto Libraries Information Technology Services department in 2013 in response to staff requests to make digitized special collections available online within a repository (presentation, search, preservation) ecosystem. The history of how the Collections U of T service evolved can be found in the _Introduction_ of ["Where Do We Go From Here: A Review of Technology Solutions for Providing Access to Digital Collections"](https://journal.code4lib.org/articles/15000) in _Code4Lib Journal_ issue 47 from 2020.
 
-This article was published by the ITS team in anticipation of Islandora 7/Drupal 7 end of support, which was  originally scheduled for November 2021. In advance of this date, ITS initiated a technology review in 2019 to look at technology platform and infrastructure options to support the Collections U of T service, improve its efficiency and scalability, and also simplify its usability, maintenance, and work flows. 
+This article was published by the ITS team in anticipation of [Islandora 7](https://wiki.lyrasis.org/display/ISLANDORA/Start) / Drupal 7 end of support, which was originally scheduled for November 2021. In advance of this date, ITS initiated a technology review in 2019 to look at technology platform and infrastructure options to support the Collections U of T service, improve its efficiency and scalability, and also simplify its usability, maintenance, and workflows. 
 
 Other internal migration goals for the service included:
-* enable end user ability to navigate and search _across_ U of T digitized special collections
-* improve end user's ability to quickly browse digitized images in any collection 
-* re-implement self ingest for collection owners 
-* normalize metadata across collections
-* reduce Collections U of T maintenance hours for UTL ITS staff
-* simplify Collections U of T technology infrastructure (where possible: share infrastructure with other existing ITS, and Scholars Portal, services)
-* avoid replicating the web content creation/editing functionality available to staff through other web services
-* enhance SEO for digital collections
-* remain standards-based for relevant digital image and digitized special collections metadata standards
-* improve UTL public documentation of the standards used in Collections U of T and our local practices
-* incorporate web accessibility considerations into every design decision
-* remain flexible
-* consider Linked Open Usable Data (LOUD) principles when relevant to infrastructure decisions. Note: though linked data functionality was explicity out of scope for the migration project, it remains a future priority. The indexing tool used by Collections U of T, MarkLogic, is [linked data ready](https://www.progress.com/resources/papers/marklogic-semantics-whitepaper).
-* consider integration with external tools such as hosted transcriptions via From The Page
+* Enable end user ability to navigate and search _across_ U of T digitized special collections
+* Improve end user's ability to quickly browse digitized images in any collection 
+* Re-implement self-ingest for collection owners 
+* Normalize metadata across collections
+* Reduce Collections U of T maintenance hours for UTL ITS staff
+* Simplify Collections U of T technology infrastructure (where possible: share infrastructure with other existing ITS, and Scholars Portal, services)
+* Avoid replicating the web content creation/editing functionality available to staff through other web services
+* Enhance search engine optimization (SEO) for digital collections
+* Remain standards-based for relevant digital image and digitized special collections metadata standards
+* Improve UTL public documentation of the standards used in Collections U of T and our local practices
+* Incorporate web accessibility considerations into every design decision
+* Remain flexible
+* Consider [Linked Open Usable Data (LOUD) principles](https://www.slideshare.net/slideshow/publishing-linked-open-usable-data/89234543) when relevant to service policy and infrastructure decisions. Note: though linked data functionality was explicitly out of scope for the migration project, it remains of interest for future. The indexing tool used by the New Collections U of T Platform, MarkLogic, is [linked data ready](https://www.progress.com/resources/papers/marklogic-semantics-whitepaper).
+* Consider integration with external tools such as hosted transcriptions via From The Page or external IIIF manifests from the Internet Archive
 
-The research process and migration pathway decision to move the service away from Islandora is documented in the [2020 Code4Lib article](https://journal.code4lib.org/articles/15000). However, Drupal 7 end of life was extended multiples times from 2020 to 2023. The final end of life date for Drupal 7 was finally communicated in June of 2023 - Drupal would reach its final end of support date on [January 5th of 2025](https://www.drupal.org/psa-2023-06-07). 
+The research process and migration pathway decision to move the service away from the Islandora platform is documented in the [2020 Code4Lib article](https://journal.code4lib.org/articles/15000). However, Drupal 7 end of life was extended multiple times from 2020 to 2023. The final end of life date for Drupal 7 was finally communicated in June of 2023 - Drupal would reach its final end of support date on [January 5th of 2025](https://www.drupal.org/psa-2023-06-07). 
 
-On May 21st, 2024, ITS soft launched its new homegrown New Collections U of T Platform comprised of "pluggable pieces" - reusing technology ingrastructure and design from other UTL ITS services as well as infrastructure provided by [Scholars Portal](https://ocul.on.ca/scholars-portal) - to deliver the Collections U of T service. The New Collections U of T Platform's infrastructure diagram is embedded below. It is also viewable in the UTL ITS [Miro](https://miro.com/app/board/uXjVM_vBtBc=/?share_link_id=757884216988). 
+On May 21st, 2024, ITS soft launched its new homegrown New Collections U of T Platform comprised of "pluggable pieces" - reusing technology infrastructure from other UTL ITS services as well as infrastructure provided by [Scholars Portal](https://ocul.on.ca/scholars-portal) - to deliver the Collections U of T service. The New Collections U of T Platform's infrastructure diagram is embedded below. It is also viewable in the UTL ITS [Miro](https://miro.com/app/board/uXjVM_vBtBc=/?share_link_id=757884216988). 
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVM_vBtBc=/?moveToViewport=-1663,2087,2432,1227&embedId=718971289571" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
