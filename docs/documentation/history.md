@@ -37,10 +37,96 @@ On May 21st, 2024, ITS soft launched its new homegrown New Collections U of T Pl
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVM_vBtBc=/?moveToViewport=-1663,2087,2432,1227&embedId=718971289571" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
-The Islandora 7 multi-sites were redirected to the New Collections U of T Platform at the end of June 2024. All permalinks per digital object redirect to the New Platform. The initial migration work is now complete but 2024 only marks the soft launch of New Collections. ITS will continue to work on the Platform and gather staff and user feedback while also making iterative improvements, guided by our initial migration goals.
+The Islandora 7 multi-sites were redirected to the New Collections U of T Platform at the end of June 2024. All permalinks per digital object redirect to the New Platform. The old Islandora 7 multi-sites are each web archived on UTL's [Archive-It account](https://archive-it.org/collections/6473). The initial migration work is now complete, however, 2024 only marks the soft launch of New Collections U of T. ITS will continue to work on the Platform, gather staff and user feedback, and make iterative improvements, guided by our initial migration goals as well as the evolving requirements of service users and changes in technology. We are excited for this next phase of Collections U of T!
 
 You can view the [2024 Migration Guide](https://utlib.github.io/collections-uoft/documentation/2024-migration-guide) for more information about changes from Islandora 7 to the new homegrown Collections U of T Platform. You can also visit the Collections U of T [help pages](https://collections.library.utoronto.ca/explore/help) to learn how to search and reuse digital objects in new platform. 
 
 If you have any questions, please email [Collections U of T support staff](mailto:digitalinitiatives@library.utoronto.ca). 
 
-More details about the New Collections U of T Platform will be published on this page in the year ahead, as well as detailed credit to all of the amazing staff who have contributed so much time and work into the Collections U of T service for over a decade! Thank you all!
+More details about the New Collections U of T Platform will be published on this page in the year ahead.
+
+Thank you to the amazing staff who have contributed so much time and work into the Collections U of T service for over a decade, some of whom are named below. Thank you all!
+
+**Primary Collections U of T ITS Service Staff:**
+* Service contact: [digitalinitiatives@library.utoronto.ca](digitalinitiatives@library.utoronto.ca)
+* Kelli Babcock, service manager
+* Sunny Lee, lead developer
+
+**Thank you to the amazing 2023-2024 ITS development team:**
+* Andy Foster
+* Bilal Khalid
+* Dickson Law
+* Jana Rajakumar
+* Jarvis Tse
+* Andy Wagner
+
+**Thank you OLRC and MarkLogic Scholars Portal staff for the development support:**
+* Bikramjit Singh Channa
+* Jayanthy Chengan
+* Julie Shi
+* Harpinder Singh
+
+**Thank you to ITS and Scholars Portal staff, past and present, for planning and development input on the New Collections Platform:**
+* Imran Asghar
+* Leslie Barnes
+* Steve Baroti
+* Gordon Belray
+* Chris Crebolder
+* Kate Davis
+* Rachel Di Cresce
+* Marcel Fortin
+* Julia Gilmore
+* Lillian Hogendoorn
+* Grant Hurley
+* Shibo Liu
+* Steve Marks
+* Sian Meikle
+* Hitesh Prabhakar
+* Graham Stewart
+* Amaz Taufique
+* Monica Ung
+* Jess Whyte
+
+**Thank you to current and past ITS students for helping with metadata normalization, conducting research, assisting in migrating content, creating documentation, and providing other migration support over the years:**
+* Isobel Carnegie
+* Adam Cavanaugh
+* Jasmine Lefresne
+* Fahma Mohamed
+* Alexandra Wong
+
+**Thank you to all of the U of T Collection Owners plus other U of T staff, past and present, for your advice, support, championing, and eventual testing for the New Collections soft launch:**
+* Larry Alford
+* Daniela Ansovini
+* Jessica Barr
+* Susan Bond
+* May Chan
+* David Fernandez
+* Nick Field
+* Tanis Franco
+* Marnee Gamble
+* Kyla Jemison
+* Hana Kim
+* Tys Klumpenhouwer
+* Maria Lau
+* Loryl MacDonald
+* Mariya Maistrovskaya
+* James Mason
+* Jordan Pedersen
+* Tim Perry
+* Kim Pham
+* Natalya Rattan
+* Liz Ridolfo
+* Simon Rogers
+* Nadav Sharon
+* Becky Shaw
+* John Shoesmith
+* Emily Sommers - additional thank you for setting up these Github pages
+* Karen Suurtamm
+* Leanne Trimble
+* Helen Tang
+* Teresa Wong
+* Nich Worby - additional thank you for your wealth of Archive-It knowledge and assistance
+* Nicole Yang
+
+Lastly, thanks to many folks from the Canadian, U.S., and international archives, digital collections, IIIF, Islandora, and open technology communities for sharing your work, publishing your documentation, and answering questions.
+
