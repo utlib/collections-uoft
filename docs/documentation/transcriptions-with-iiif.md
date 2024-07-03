@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Transcriptions With IIIF
-nav_order: 7
+nav_order: 8
 parent: Documentation
 description: "For Collections Owners - Transcribing and Annotating Collections U of T Images"
 permalink: /documentation/transcriptions-with-iiif
