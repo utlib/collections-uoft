@@ -356,7 +356,7 @@ _See MODS Guidelines for explanation of each term._
 ## physical_description_note
 * **Data Type:** string
 * **Input Guidelines:** Use for information relating to the physical description of a resource that does not fit in one of the other available subelements. Documentation on material and technique used for works of art and similar materials may be recorded here.
-* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/physicaldescription.html#note[(https://www.loc.gov/standards/mods/userguide/physicaldescription.html#note)
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/physicaldescription.html#note](https://www.loc.gov/standards/mods/userguide/physicaldescription.html#note)
 * **Controlled Vocabulary:** none
 * **Obligation:** optional
 * **Repeatable?:** yes
