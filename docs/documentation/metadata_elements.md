@@ -126,8 +126,7 @@ If adding translations for names, separate by pipe. Indicate language per name v
 
 ## description
 * **Data Type:** string
-* **Input Guidelines:** A summary of the content of the resource - i.e. the abstract, description, or scope and content. Use plain text if possible. If necessary, available HTML tags: < a > ; < em > ; < strong >
-  * If <p> is needed use | as a separator. Do not use <p> or <br /> tags. 
+* **Input Guidelines:** A summary of the content of the resource - i.e. the abstract, description, or scope and content. Use plain text if possible. If necessary, available HTML tags: < a > ; < em > ; < strong >. If <p> is needed use | as a separator. Do not use <p> or <br /> tags. 
 * **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/abstract.html](https://www.loc.gov/standards/mods/userguide/abstract.html)
 * **Controlled Vocabulary:** none
 * **Obligation:** optional
