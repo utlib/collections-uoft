@@ -8,8 +8,6 @@ permalink: /documentation/metadata_elements
 ---
 # Collections U of T Metadata Elements
 
- > **DRAFT: further edits and instructions forthcoming.**
-
 This page provides information about Collections U of T metadata and element details.
 
 The [Collections U of T Metadata Spreadsheet Template](https://docs.google.com/spreadsheets/d/1PMtZt5CzkidIXbTBUaoi8Qg7kBU-m9RzeM-lBMORPks/edit?usp=sharing) is currently stored in Google Drive for easiest access (U of T OneDrive all-staff links have an expiry date).
@@ -126,7 +124,7 @@ If adding translations for names, separate by pipe. Indicate language per name v
 
 ## description
 * **Data Type:** string
-* **Input Guidelines:** A summary of the content of the resource - i.e. the abstract, description, or scope and content. Use plain text if possible. If necessary, available HTML tags: < a > ; < em > ; < strong >. If <p> is needed use | as a separator. Do not use <p> or <br /> tags. 
+* **Input Guidelines:** A summary of the content of the resource - i.e. the abstract, description, or scope and content. Use plain text if possible. If necessary, available HTML tags include: "< a >" ; "< em >" ; "< strong >". If "<p>" is needed use | as a separator. Do not use "<p>" or "<br />" tags. 
 * **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/abstract.html](https://www.loc.gov/standards/mods/userguide/abstract.html)
 * **Controlled Vocabulary:** none
 * **Obligation:** optional
