@@ -533,7 +533,7 @@ _See MODS Guidelines for explanation of each term._
 * **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/titleinfo.html](https://www.loc.gov/standards/mods/userguide/titleinfo.html) - value contained in lang="" attribute
 * **Controlled Vocabulary:** [https://www.loc.gov/standards/iso639-2/php/code_list.php](https://www.loc.gov/standards/iso639-2/php/code_list.php)
   * Look into internationalization use cases: https://www.w3.org/2013/dwbp/wiki/RDF_AND_JSON-LD_UseCases
-  * See also https://www.w3.org/International/questions/qa-choosing-language-tags
+  * See also [https://www.w3.org/International/questions/qa-choosing-language-tags](https://www.w3.org/International/questions/qa-choosing-language-tags)
 * **Obligation:** optional
 * **Repeatable?:** no
 
@@ -554,7 +554,7 @@ _See MODS Guidelines for explanation of each term._
   * There should not be multiple languages in this field. 
 * **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/titleinfo.html](https://www.loc.gov/standards/mods/userguide/titleinfo.html) - with type="translated" and value contained in lang="" attribute
 * **Controlled Vocabulary:** [https://www.loc.gov/standards/iso639-2/php/code_list.php](https://www.loc.gov/standards/iso639-2/php/code_list.php)
-  * Look into internationalization use cases: https://www.w3.org/2013/dwbp/wiki/RDF_AND_JSON-LD_UseCases
+  * Look into internationalization use cases: [https://www.w3.org/2013/dwbp/wiki/RDF_AND_JSON-LD_UseCases](https://www.w3.org/2013/dwbp/wiki/RDF_AND_JSON-LD_UseCases)
   * See also [https://www.w3.org/International/questions/qa-choosing-language-tags](https://www.w3.org/International/questions/qa-choosing-language-tags)
 * **Obligation:** optional
 * **Repeatable?:** yes
