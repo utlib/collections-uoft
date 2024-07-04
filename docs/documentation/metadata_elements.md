@@ -527,7 +527,7 @@ _See MODS Guidelines for explanation of each term._
 ## title_lang
 * **Data Type:** string
 * **Input Guidelines:** "Enter the 2 character ISO 639-2 code for the language of the Title value.
-  * Note: this is not the language of the resource - it is the language of the Title value. This field is included in our metadata for accessibility purposes - it helps screen readers understand the language of the value in the title field. See https://connect.library.utoronto.ca/display/DP/How+to+represent+languages+and+scripts+across+MODS+fields for background documentation. 
+  * Note: this is not the language of the resource - it is the language of the Title value. This field is included in our metadata for accessibility purposes - it helps screen readers understand the language of the value in the title field. See [https://connect.library.utoronto.ca/display/DP/How+to+represent+languages+and+scripts+across+MODS+fields](https://connect.library.utoronto.ca/display/DP/How+to+represent+languages+and+scripts+across+MODS+fields ) for background documentation. 
   * If the title value is multiple languages do not enter any value, leave blank. Default value is none. 
   * See further instructions to add to Collections U of T documentation at https://connect.library.utoronto.ca/display/DP/How+to+represent+languages+and+scripts+across+MODS+fields
 * **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/titleinfo.html](https://www.loc.gov/standards/mods/userguide/titleinfo.html) - value contained in lang="" attribute
