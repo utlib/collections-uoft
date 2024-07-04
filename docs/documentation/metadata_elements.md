@@ -432,7 +432,7 @@ _See MODS Guidelines for explanation of each term._
 
 ## rights_facet
 * **Data Type:** string
-* **Input Guidelines:** Enter the rights facet. We need to define these across collections - should also map to [https://iiif.io/api/cookbook/recipe/0008-rights/](IIIF Rights info - https://iiif.io/api/cookbook/recipe/0008-rights/)
+* **Input Guidelines:** Enter the rights facet. We need to define these across collections - should also map to IIIF Rights info - [https://iiif.io/api/cookbook/recipe/0008-rights/](https://iiif.io/api/cookbook/recipe/0008-rights/)
 * **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/accesscondition.html](https://www.loc.gov/standards/mods/userguide/accesscondition.html) with type="restriction on access" attribute
 * **Controlled Vocabulary:** none
 * **Obligation:** optional
@@ -570,7 +570,7 @@ _See MODS Guidelines for explanation of each term._
 ## title_uniform_lang
 * **Data Type:** string
 * **Input Guidelines:** Enter the 2 character [ISO 639-2 code](https://www.loc.gov/standards/iso639-2/php/code_list.php) for the language of the Title_Uniform value.
-  * Note: this is not the language of the resource - it is the language of the Title_Uniform value.  This field is included in our metadata for accessibility purposes - it helps screen readers understand the language of the value in the title field. See [https://connect.library.utoronto.ca/display/DP/How+to+represent+languages+and+scripts+across+MODS+fields]([https://www.loc.gov/standards/iso639-2/php/code_list.php](https://connect.library.utoronto.ca/display/DP/How+to+represent+languages+and+scripts+across+MODS+fields)) for background documentation.  
+  * Note: this is not the language of the resource - it is the language of the Title_Uniform value.  This field is included in our metadata for accessibility purposes - it helps screen readers understand the language of the value in the title field. See [https://connect.library.utoronto.ca/display/DP/How+to+represent+languages+and+scripts+across+MODS+fields](https://connect.library.utoronto.ca/display/DP/How+to+represent+languages+and+scripts+across+MODS+fields) for background documentation.  
   * If multiple Title_Uniform values, enter language code within pipes in the same order that uniform titles appear in Title_Uniform. 
   * If the value(s) is(are) multiple languages do not enter any value, leave blank. Default value is none.
 * **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/titleinfo.html](https://www.loc.gov/standards/mods/userguide/titleinfo.html) - with type="uniform" and value contained in lang="" attribute
