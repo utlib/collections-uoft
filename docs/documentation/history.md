@@ -94,11 +94,13 @@ Thank you to the amazing staff who have contributed so much time and work into t
 * Fahma Mohamed
 * Alexandra Wong
 
-**Thank you to all of the U of T Collection Owners plus other U of T staff, past and present, for your advice, support, championing, and eventual testing for the New Collections soft launch:**
+**Thank you to all of the U of T Collection Owners plus other U of T staff, past and present, for your advice, support, championing, feedback, and eventual testing for the New Collections soft launch:**
 * Larry Alford
 * Daniela Ansovini
 * Jessica Barr
 * Susan Bond
+* Liz Carroll
+* Alexandra Carter
 * May Chan
 * David Fernandez
 * Nick Field
@@ -111,6 +113,7 @@ Thank you to the amazing staff who have contributed so much time and work into t
 * Loryl MacDonald
 * Mariya Maistrovskaya
 * James Mason
+* Kaitlin Newson
 * Jordan Pedersen
 * Tim Perry
 * Kim Pham
