@@ -45,7 +45,7 @@ The [Collections U of T Metadata Spreadsheet Template](https://docs.google.com/s
 ## coordinates
 * **Data Type:** string
 * **Input Guidelines:** Enter coordinates information.
-* **MODS Input Guidelines:** [[https://www.loc.gov/standards/mods/userguide/identifier.html](https://www.loc.gov/standards/mods/userguide/identifier.html) with type="callnumber" attribute](https://www.loc.gov/standards/mods/userguide/subject.html#coordinates)
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/identifier.html](https://www.loc.gov/standards/mods/userguide/identifier.html) with type="callnumber" attribute](https://www.loc.gov/standards/mods/userguide/subject.html#coordinates)
 * **Controlled Vocabulary:** none
 * **Obligation:** optional
 * **Repeatable?:** no
