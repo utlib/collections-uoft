@@ -16,7 +16,7 @@ permalink: /documentation/add-simple-page
 * [Get started with /explore/ Basic Pages](#get-started-with-explore-basic-pages)
 
 ## About /explore/ Basic Pages
-Simple Pages or **Basic Pages** are the _about_ pages for your repository's digital collections. These are just HTML pages with any about text or instructional text to supplement your digital collections and your metadata in Collections U of T. You are not required to add Basic Pages for your digital collections but they are an option available to each repository. 
+Simple Pages or **Basic Pages** are the _about_ pages for your repository's digital collections. These are just HTML pages with any "about" text or instructional text to supplement your digital collections and your metadata in Collections U of T. You are not required to add Basic Pages for your digital collections but they are an option available to each repository. 
 
 Collections U of T currently uses the Omeka platform to enable you to add Basic Pages. Please note that this Omeka instance is a separate application from the rest of the Collections U of T platform and **only** serves the function of providing a web user interface for you to add and edit Basic Pages for your collection. 
 
@@ -45,9 +45,14 @@ You can also make a single /explore/ Exhibit if you'd like to create information
 * [https://collections.library.utoronto.ca/explore/utarms-ohcsa/home](https://collections.library.utoronto.ca/explore/utarms-ohcsa/home) (UTARMS)
 
 {: .note }
-> Email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) to request a login account to edit your Basic Pages in the Omeka /explore/ instance. You will need a login if you want to modify any content with /explore/ in the URL. Your login will enable you to edit and create [Omeka Exhibits](https://omeka.org/classic/docs/Plugins/ExhibitBuilder/#getting-started) and [Basic Pages](https://omeka.org/classic/docs/Plugins/ExhibitBuilder/#pages) within an Exhibit. You will not have permission to delete any Exhibit that is not your own. You will have permission to delete pages in your own Exhibits - please avoid accidentally deleting a page. The Omeka /explore/ permissions are managed through the [Omeka Course Tools Plugin](https://omeka.org/classic/plugins/CourseTools/). Let [ITS](mailto:digitalinitiatives@library.utoronto.ca) know if you have any permissions questions.
+> To edit your Basic Pages in the Omeka /explore/ instance you must first request an /explore/ login:
+1. Email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) to request a login. Remember to include the email you want to use in your request.
+2. ITS will create an account for you. You will receive an auto-generated email confirmation with login details.
+3. After you receive the email, you will be ready to login. A reminder that your login will be your assigned /explore/ _username_ and not your email.
 
-Please note that you must login to /explore/ using your assigned /explore/ username (not email). You can set up a generic login for your repository or logins per staff person. 
+You will need a login if you want to modify any content with /explore/ in the URL. Your login will enable you to edit and create [Omeka Exhibits](https://omeka.org/classic/docs/Plugins/ExhibitBuilder/#getting-started) and [Basic Pages](https://omeka.org/classic/docs/Plugins/ExhibitBuilder/#pages) within an Exhibit.
+
+You will not have permission to delete any Exhibit that is not your own. You will have permission to delete pages in your own Exhibits - please avoid accidentally deleting a page. The Omeka /explore/ permissions are managed through the [Omeka Course Tools Plugin](https://omeka.org/classic/plugins/CourseTools/). Let [ITS](mailto:digitalinitiatives@library.utoronto.ca) know if you have any permissions questions.
 
 Basic Pages in the /explore/ Omeka instance are **different** from your **/repository/** page. Your /repository/ page is your digital collection's **homepage** - it replaces every collection owner's former Islandora website. The /repository/ pages are currently only edit-able by ITS. Email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) if you need to make a change to your /repository/ page. If you need to adjust the sidebar menu on your /repository/ page in Collections U of T after editing your /explore/ pages you will need to email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca). 
 
