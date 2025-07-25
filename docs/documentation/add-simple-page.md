@@ -30,9 +30,7 @@ Your Basic Pages can be found at the URL pattern of _https://collections.library
 * [https://collections.library.utoronto.ca/explore/musiclibrary](https://collections.library.utoronto.ca/explore/musiclibrary)
 * [https://collections.library.utoronto.ca/explore/rclc-hkl](https://collections.library.utoronto.ca/explore/rclc-hkl)
 * [https://collections.library.utoronto.ca/explore/usmc](https://collections.library.utoronto.ca/explore/usmc)
-* [https://collections.library.utoronto.ca/explore/usmc-archives](https://collections.library.utoronto.ca/explore/usmc-archives)
-* [https://collections.library.utoronto.ca/explore/kcha](https://collections.library.utoronto.ca/explore/kcha)
-  
+* [https://collections.library.utoronto.ca/explore/usmc-archives](https://collections.library.utoronto.ca/explore/usmc-archives)  
 
 You can also make a single /explore/ Exhibit if you'd like to create information about a specific collection, such as: 
 * [https://collections.library.utoronto.ca/explore/anatomia](https://collections.library.utoronto.ca/explore/anatomia) (Fisher)
@@ -42,11 +40,14 @@ You can also make a single /explore/ Exhibit if you'd like to create information
 * [https://collections.library.utoronto.ca/explore/insulin](https://collections.library.utoronto.ca/explore/insulin) (Fisher)
 * [https://collections.library.utoronto.ca/explore/heritage](https://collections.library.utoronto.ca/explore/heritage)
 * [https://collections.library.utoronto.ca/explore/hollar](https://collections.library.utoronto.ca/explore/hollar) (Fisher)
+* [https://collections.library.utoronto.ca/explore/kcha](https://collections.library.utoronto.ca/explore/kcha) (EAL)
 * [https://collections.library.utoronto.ca/explore/patent](https://collections.library.utoronto.ca/explore/patent) (Fisher)
 * [https://collections.library.utoronto.ca/explore/utarms-ohcsa/home](https://collections.library.utoronto.ca/explore/utarms-ohcsa/home) (UTARMS)
 
 {: .note }
-> Email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) to request a login account to edit your Basic Pages in the Omeka /explore/ instance. You will need a login if you want to modify any content with /explore/ in the URL. Your login will enable you to edit and create [Omeka Exhibits](https://omeka.org/classic/docs/Plugins/ExhibitBuilder/#getting-started) and [Basic Pages](https://omeka.org/classic/docs/Plugins/ExhibitBuilder/#pages) within an Exhibit. You will not have permission to delete any Exhibit that is not your own. You will have permission to delete pages in your own Exhibits - please avoid accidentally deleting a page. The Omeka /explore/ permissions are managed through the [Omeka Course Tools Plugin](https://omeka.org/classic/plugins/CourseTools/). Let [ITS](mailto:digitalinitiatives@library.utoronto.ca) know if you have any permissions questions. 
+> Email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) to request a login account to edit your Basic Pages in the Omeka /explore/ instance. You will need a login if you want to modify any content with /explore/ in the URL. Your login will enable you to edit and create [Omeka Exhibits](https://omeka.org/classic/docs/Plugins/ExhibitBuilder/#getting-started) and [Basic Pages](https://omeka.org/classic/docs/Plugins/ExhibitBuilder/#pages) within an Exhibit. You will not have permission to delete any Exhibit that is not your own. You will have permission to delete pages in your own Exhibits - please avoid accidentally deleting a page. The Omeka /explore/ permissions are managed through the [Omeka Course Tools Plugin](https://omeka.org/classic/plugins/CourseTools/). Let [ITS](mailto:digitalinitiatives@library.utoronto.ca) know if you have any permissions questions.
+
+Please note that you must login to /explore/ using your assigned /explore/ username (not email). You can set up a generic login for your repository or logins per staff person. 
 
 Basic Pages in the /explore/ Omeka instance are **different** from your **/repository/** page. Your /repository/ page is your digital collection's **homepage** - it replaces every collection owner's former Islandora website. The /repository/ pages are currently only edit-able by ITS. Email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) if you need to make a change to your /repository/ page. If you need to adjust the sidebar menu on your /repository/ page in Collections U of T after editing your /explore/ pages you will need to email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca). 
 
@@ -75,7 +76,7 @@ The /explore/ Omeka instance has a number of IIIF features enabled to connect yo
 *  [Meta Redirects](https://scribehow.com/shared/Add_and_edit_a_basic_page_for_your_collection__mGEb-jYgTAKCUGsj2ixvxQ#d2de0f0e)
 
 {: .note }
-> Caution: consider usability when building your Basic Pages and adding IIIF images onto your page. ITS recommends that you do not exceed more than 15 IIIF embeds on one page. Do not add excessive pages. Always test your Exhibit on mobile any time you edit a Basic Page. 
+> Caution: consider usability when building your Basic Pages and adding IIIF images onto your page. ITS recommends that you do not exceed more than 15 IIIF embeds on one page. Do not add excessive pages. Always test your Exhibit on mobile any time you edit a Basic Page. You must also test your content for web accessibility and follow UTL web accessibility best practices.
 
 ## Get started with /explore/ Basic Pages
 <iframe src="https://scribehow.com/embed/Add_a_page_to_your_collection__mGEb-jYgTAKCUGsj2ixvxQ?as=scrollable&removeLogo=true" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
