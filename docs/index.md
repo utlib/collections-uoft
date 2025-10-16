@@ -82,7 +82,7 @@ Digital projects making use of Collections U of T include:
 
 IIIF (International Image Interoperability Framework) is a set of APIs and related tools created by an international community of leading cultural institutions. The IIIF community has created [a guide](https://iiif.io/guides/using_iiif_resources/) to help you get started in learning about IIIF and how to make use of it.
 
-Our ["What is IIIF?"](https://utlib.github.io/collections-uoft/documentation/iiif-collections) page also includes IIIF documentation specific to Collections U of T for staff and the [Reusing Collections U of T Items with IIIF](https://collections.library.utoronto.ca/explore/getting_started) help page has instructions for users.  
+Our ["What is IIIF?"](https://utlib.github.io/collections-uoft/documentation/iiif-collections) page also includes IIIF documentation specific to Collections U of T for staff and the [Reusing Collections U of T Items with IIIF](https://collections.library.utoronto.ca/explore/faq/getting_started) help page has instructions for users.  
 
 ## Metadata and Data Model
 
