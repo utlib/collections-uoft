@@ -18,7 +18,7 @@ has_children: false
 If you are looking for documentation and help for browsing and searching in *Collections U of T* visit the public help pages at [https://collections.library.utoronto.ca/explore/help](https://collections.library.utoronto.ca/explore/help).
 
 {: .note }
-> ***The New Collections U of T Platform launched in May 2024. Go to the [2024 Migration Guide](https://utlib.github.io/collections-uoft/documentation/2024-migration-guide) for more information. From July 2025 - April 2026 the New Collections U of T service will undergo its next phase of development to create and launch an administrator user interface ("admin UI") for collection owners to modify and ingest content independently from ITS. Until the admin UI is launched, collection owners can contact ITS for support to modify or ingest collections. More details and timelines about the admin UI will be available after December 2025.***
+> ***The New Collections U of T Platform launched in May 2024. Go to the [2024 Migration Guide](https://utlib.github.io/collections-uoft/documentation/2024-migration-guide) for more information. From July 2025 to April 2026 the New Collections U of T Platform will undergo its next phase of development to create and launch an administrator user interface ("admin UI"). The admin UI will enable collection owners to modify and ingest content independently (without ITS support). Until the admin UI is launched, collection owners can contact ITS for support to modify or ingest collections. More details and timelines about the admin UI will be available after December 2025.***
 
 **Skip to:**
 * [About Collections U of T](index.md#about-collections-u-of-t)
