@@ -27,7 +27,7 @@ It is with much excitement that the University of Toronto Libraries Information 
 # New Collections U of T Platform Training Kit
 --------
 
-<iframe src="https://scribehow.com/embed/New_Collections_U_of_T_Training_Kit__KUE0zz27QsWojLN6cdfs7g?as=scrollable&skipIntro=true&removeLogo=true" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://scribehow.com/embed/New_Collections_U_of_T_Platform_Training_Kit__KUE0zz27QsWojLN6cdfs7g?removeLogo=true&as=scrollable" width="100%" height="800" allow="fullscreen" style="border: 0; min-height: 640px"></iframe>
 
 # Migration FAQ for UTL staff
 --------
