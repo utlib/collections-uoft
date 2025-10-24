@@ -23,7 +23,7 @@ The [Collections U of T Metadata Spreadsheet Template](https://docs.google.com/s
 * [PID/Filename/Identifier Tips](https://utlib.github.io/collections-uoft/documentation/metadata#pidfilenameidentifier-tips)
 * [Pre-Ingest Checklist](https://utlib.github.io/collections-uoft/documentation/metadata#pre-ingest-checklist)
 * [Google Sheets Tips](https://utlib.github.io/collections-uoft/documentation/metadata#google-sheets-tips)
-* [MARCEdit Tips](https://utlib.github.io/collections-uoft/documentation/metadata#marcedit-tips)
+* [MARC > CSV - MARCEdit Tips](https://utlib.github.io/collections-uoft/documentation/metadata#marcedit-tips)
 * [OpenRefine Tips](https://utlib.github.io/collections-uoft/documentation/metadata#openrefine-tips)
 * [How do I update Metadata Labels on Collections U of T for my collection?](https://utlib.github.io/collections-uoft/documentation/metadata#how-do-i-alter-the-metadata-labels-that-publicly-display-for-my-collection-on-collections-u-of-t)
 
@@ -89,7 +89,26 @@ Double click the blue box in the bottom right of the cell to fill a value down.
 
 ## MARCEdit Tips
 
-*To be added.*
+_This section is a work in progress as of October 2025. It details how to convert MARC metadata into a spreadsheet for ingest into Collections U of T._
+
+For items that have existing MARC records, [MARCEdit](https://marcedit.reeset.net/) can be used to create metadata spreadsheets for ingest into Collections U of T. MARCEdit is an external, open source tool used to interact with MARC metadata. In addition to the steps below that are specific to Collections U of T, you can read more tips about using it within [UTL staff documentation](https://connect.library.utoronto.ca/ERM/Documentation%20%26%20General%20Procedures/MarcEdit/) (external link - requires VPN + UTORid to access). 
+
+Benefits of using this method: if MARC metadata already exists for digitized items, the MARCEdit work flow reduces human error in copying and pasting metadata into a spreadsheet. It can also help you batch extract MARC metadata into a spreadsheet, saving time if you have a significant number of MARC records that you want to convert into a spreadsheet for ingest into Collections U of T.
+
+Drawbacks: this work flow may introduce human error in mapping the resulting spreadsheet columns to the Collections U of T metadata spreadsheet. You will also need to ensure you tidy up any formatting specific to MARC from the spreadsheet prior to ingest. Read on to understand more. 
+
+*Step 1:* Get access to MARCEdit on your UTL workstation or download MARCEdit to your laptop from [https://marcedit.reeset.net/downloads](https://marcedit.reeset.net/downloads). Once you have access, follow the set up prompts (you can just use the default settings). Requesting this on your UTL workstation may take some time - plan ahead and request it well in advance of when you need to complete your metadata work.
+
+*Step 2:* Once installed, set up MARCEdit and access to the UTL Catalog. Set up may take some time - reach out if you need support. Remember: once everything is set up, you won't have to repeat Steps 1 and 2.
+
+Once MARCEdit is installed and set up, you will need to add the University of Toronto Libraries Catalog information. To do this, follow the [internal UTL staff documentation from Metadata Services](https://connect.library.utoronto.ca/ERM/Documentation%20%26%20General%20Procedures/MarcEdit/Z39.50%20Queries/Setting%20up%20UTL%20in%20MarcEdit%20Z39.50/) (external link - requires VPN + UTORid to access) to set up the Z.39.50/SRU Client.
+
+Note, also, that you may need to install Homebrew and Yaz via Terminal if you are setting up MARCEdit on a Mac and not a PC workstation. If you get an error message when clicking on Z39.50 - follow these steps: [https://marcedit.reeset.net/marcedit-mac-enabling-z39-50-support](https://marcedit.reeset.net/marcedit-mac-enabling-z39-50-support). Ask for help from your supervisor or ITS if you get stuck at this step.
+
+**Step 3:* Once set up, click "Z.39.50/SRU Client" to access the UTL catalog (this is where you will download MARC files from).
+
+_(more documentation forthcoming)_
+
 
 ## OpenRefine Tips
 
