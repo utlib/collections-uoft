@@ -10,14 +10,16 @@ permalink: /documentation/metadata_elements
 
 This page provides information about Collections U of T metadata and element details.
 
-The [Collections U of T Metadata Spreadsheet Template](https://docs.google.com/spreadsheets/d/1PMtZt5CzkidIXbTBUaoi8Qg7kBU-m9RzeM-lBMORPks/edit?usp=sharing) is currently stored in Google Drive for easiest access (U of T OneDrive all-staff links have an expiry date).
+Please contact [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) for your repository's Collections U of T metadata spreadsheet template if you do not have one. 
+
+If you are not included in the list of [Collections U of T repositories](https://collections.library.utoronto.ca/repositories), you must first follow the steps to [request a new repository](https://utlib.github.io/collections-uoft/documentation/adding-new-collections) before getting set up with a metadata spreadsheet template.
 
 # Collections U of T Metadata Profile - Element Details
 
 ## alma_record
 
 * **Data Type:** URL
-* **Input Guidelines:** Enter the full URL for the Alma MMS ID permalink. When converting from MARC, you will need to manually enter the Alma Record's Permalink URL.
+* **Input Guidelines:** Enter the full URL for the Alma MMS ID permalink. When converting from MARC, you will need to manually enter the Alma Record's Permalink URL. If you are describing an _item_ within a _collection_ but only the _collection_ has an Alma Record, you can include the Permalink to the collection in this field for all items. If the item you are describing does not have an Alma Record, do not use this field. 
 * **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/location.html#url](https://www.loc.gov/standards/mods/userguide/location.html#url) - with displayLabel="Alma Record" attribute
 * **Controlled Vocabulary:** none
 * **Obligation:** Optional
@@ -86,7 +88,7 @@ If adding translations for names, separate by pipe. Indicate language per name v
     * bookstamp (not in MODS role term)
     * stenographer (not in MODS role terms)
 
-  * Track additional _role terms in https://git.library.utoronto.ca/utl-its/digital-collections/collections-mods-generator/-/blob/main/src/config/roleCodes.js and https://git.library.utoronto.ca/utl-its/digital-collections/collections-lookup/-/blob/main/src/__generated__/relators.js"
+  * You must submit a request if you want ITS track additional _role terms in the Collections U of T app
 * **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/name.html#role](https://www.loc.gov/standards/mods/userguide/name.html#role )
 * **Controlled Vocabulary:** Selected term values taken from [https://www.loc.gov/marc/relators/relaterm.html](https://www.loc.gov/marc/relators/relaterm.html)
 * **Obligation:** optional
@@ -102,7 +104,7 @@ If adding translations for names, separate by pipe. Indicate language per name v
 
 ## date_facet
 * **Data Type:** string
-* **Input Guidelines:** "Date used for facets. For the <dateOther> tag, when converting from MARC, you will likely need to manually enter the dateOther tag. This field is used to record the decade of the date for simple facets by either:
+* **Input Guidelines:** "Date used for facets. When converting from MARC, you will need to manually enter this value. This field is used to record the decade of the date for simple facets by either:
 
   * a) decade - i.e. 1900s, 1910s, 1950s
 
@@ -254,7 +256,7 @@ _See MODS Guidelines for explanation of each term._
 
 ## lccn_identifier
 * **Data Type:** string
-* **Input Guidelines:** LCCN Identifier - usually present when converting metadata from MARC records
+* **Input Guidelines:** LCCN Identifier - usually present when converting metadata from MARC records.
 * **MODS Input Guidelines:** none
 * **Controlled Vocabulary:** none
 * **Obligation:** optional
@@ -370,8 +372,8 @@ _See MODS Guidelines for explanation of each term._
 ## placeterm_code
 * **Data Type:** string
 * **Input Guidelines:**
-  * Enter the code that best fits the place associated with the resource. Select most appropriate code from https://www.loc.gov/marc/countries/countries_code.html - DO NOT USE VALUES THAT BEGIN WITH ""-"" - for example ""-cn"" for Canada. These values are deprecated.
-  * If multiple place names, enter a corresponding code per place. Separate codes with pipes and order them in the same order that place names appear in PlaceTerm_Text, ideally, but any code will also generate an internal MarkLogic placeTermTextFacet field which will automatically store the https://www.loc.gov/marc/countries/countries_code.html value and display it as a facet
+  * Enter the code that best fits the place associated with the resource. Select most appropriate code from [https://www.loc.gov/marc/countries/countries_code.html](https://www.loc.gov/marc/countries/countries_code.html) - DO NOT USE VALUES THAT BEGIN WITH ""-"" - for example ""-cn"" for Canada. These values are deprecated.
+  * If multiple place names, enter a corresponding code per place. Separate codes with pipes and order them in the same order that place names appear in PlaceTerm_Text, ideally, but any code will also generate an internal MarkLogic placeTermTextFacet field which will automatically store the [https://www.loc.gov/marc/countries/countries_code.html](https://www.loc.gov/marc/countries/countries_code.html) value and display it as a facet
   * Codes are managed in https://git.library.utoronto.ca/utl-its/digital-collections/collections-lookup/-/blob/main/src/__generated__/countryCodes.js
   * Invalid placeterm_code will result in an ingest validation error.
 
