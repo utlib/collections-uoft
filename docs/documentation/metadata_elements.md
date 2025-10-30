@@ -361,7 +361,7 @@ _See MODS Guidelines for explanation of each term._
 
 ## pid
 * **Data Type:** string
-* **Input Guidelines:** Enter the Collections U of T identifier for the object. PID will also become the end portion of the URL to the object (it helps to have meaningful PIDs - names or titles in the URL can help with Search Engine Optimization)
+* **Input Guidelines:** Enter the Collections U of T identifier for the object. PID will also become the end portion of the URL to the object (it helps to have meaningful PIDs - names or titles in the URL can help with Search Engine Optimization). See [slide deck](https://docs.google.com/presentation/d/1W2PWTBE22rj15h7FbVDgAv5DIfg33rnn-1vLQZ_qgDw/edit?usp=sharing) on PID/Filename/Identifier tips. 
 * **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/identifier.html](https://www.loc.gov/standards/mods/userguide/identifier.html) with type="local"
 * **Controlled Vocabulary:** No. Where possible, use the call number, accession number, catkey, or meaningful identifier. 
 * **Obligation:** required
