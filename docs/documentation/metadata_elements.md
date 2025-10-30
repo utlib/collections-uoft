@@ -236,16 +236,6 @@ _See MODS Guidelines for explanation of each term._
 * **Obligation:** optional
 * **Repeatable?:** yes
 
-## pages
-* **Data Type:** string
-* **Input Guidelines:** "Enter the page range - i.e. #-#
-  * Examples:10-35
-  * Use to indicate the page numbers. Suggestion is to enter as numerical value, but just be consistent across collection.
-* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/part.html#extent with unit="pages](https://www.loc.gov/standards/mods/userguide/part.html#extent with unit="pages")
-* **Controlled Vocabulary:** none
-* **Obligation:** optional
-* **Repeatable?:** no
-
 ## language_text
 * **Data Type:** string
 * **Input Guidelines:** [Enter the text for the language of the resource from the ISO 639-2 list](https://www.loc.gov/standards/iso639-2/php/code_list.php)
@@ -303,22 +293,14 @@ _See MODS Guidelines for explanation of each term._
 * **Obligation:** required
 * **Repeatable?:** no
 
-## ocr
+## pages
 * **Data Type:** string
-* **Input Guidelines:** Enter the file path to the OCR .txt file for the digital object. 
-* **MODS Input Guidelines:** does not map
+* **Input Guidelines:** "Enter the page range - i.e. #-#
+  * Examples:10-35
+  * Use to indicate the page numbers. Suggestion is to enter as numerical value, but just be consistent across collection.
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/part.html#extent with unit="pages](https://www.loc.gov/standards/mods/userguide/part.html#extent with unit="pages")
 * **Controlled Vocabulary:** none
 * **Obligation:** optional
-* **Repeatable?:** no
-
-## digitized?
-* **Data Type:** string
-* **Input Guidelines:** Controlled field to indicate if digital object is metadata-only. 
-* **MODS Input Guidelines:** does not map
-* **Controlled Vocabulary:**
-  * Digitized
-  * Not yet digitized"
-* **Obligation:** optional, default should be Digitized
 * **Repeatable?:** no
 
 ## part_of
@@ -658,6 +640,24 @@ _Use lower case_
 * **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/part.html#number](https://www.loc.gov/standards/mods/userguide/part.html#number) - with detail type="volume"
 * **Controlled Vocabulary:** none
 * **Obligation:** optional
+* **Repeatable?:** no
+
+## ocr
+* **Data Type:** string
+* **Input Guidelines:** Enter the file path to the OCR .txt file for the digital object. 
+* **MODS Input Guidelines:** does not map
+* **Controlled Vocabulary:** none
+* **Obligation:** optional
+* **Repeatable?:** no
+
+## digitized?
+* **Data Type:** string
+* **Input Guidelines:** Controlled field to indicate if digital object is metadata-only. 
+* **MODS Input Guidelines:** does not map
+* **Controlled Vocabulary:**
+  * Digitized
+  * Not yet digitized"
+* **Obligation:** optional, default should be Digitized
 * **Repeatable?:** no
 
 
