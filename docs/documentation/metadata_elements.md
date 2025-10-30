@@ -502,6 +502,19 @@ _See MODS Guidelines for explanation of each term._
 * **Obligation:** required
 * **Repeatable?:** no
 
+## title_lang
+* **Data Type:** string
+* **Input Guidelines:** "Enter the 2 character ISO 639-2 code for the language of the Title value.
+  * Note: this is not the language of the resource - it is the language of the Title value. This field is included in our metadata for accessibility purposes - it helps screen readers understand the language of the value in the title field. See [https://connect.library.utoronto.ca/display/DP/How+to+represent+languages+and+scripts+across+MODS+fields](https://connect.library.utoronto.ca/display/DP/How+to+represent+languages+and+scripts+across+MODS+fields ) for background documentation. 
+  * If the title value is multiple languages do not enter any value, leave blank. Default value is none. 
+  * See further instructions to add to Collections U of T documentation at https://connect.library.utoronto.ca/display/DP/How+to+represent+languages+and+scripts+across+MODS+fields
+* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/titleinfo.html](https://www.loc.gov/standards/mods/userguide/titleinfo.html) - value contained in lang="" attribute
+* **Controlled Vocabulary:** [https://www.loc.gov/standards/iso639-2/php/code_list.php](https://www.loc.gov/standards/iso639-2/php/code_list.php)
+  * Look into internationalization use cases: https://www.w3.org/2013/dwbp/wiki/RDF_AND_JSON-LD_UseCases
+  * See also [https://www.w3.org/International/questions/qa-choosing-language-tags](https://www.w3.org/International/questions/qa-choosing-language-tags)
+* **Obligation:** optional
+* **Repeatable?:** no
+
 ## title_alternative
 * **Data Type:** string
 * **Input Guidelines:** Enter the alternative title of the object, if one exists (varying form of the title if it contributes to the further identification of the item).
@@ -523,19 +536,6 @@ _See MODS Guidelines for explanation of each term._
   * See also [https://www.w3.org/International/questions/qa-choosing-language-tags](https://www.w3.org/International/questions/qa-choosing-language-tags)
 * **Obligation:** optional
 * **Repeatable?:** yes
-
-## title_lang
-* **Data Type:** string
-* **Input Guidelines:** "Enter the 2 character ISO 639-2 code for the language of the Title value.
-  * Note: this is not the language of the resource - it is the language of the Title value. This field is included in our metadata for accessibility purposes - it helps screen readers understand the language of the value in the title field. See [https://connect.library.utoronto.ca/display/DP/How+to+represent+languages+and+scripts+across+MODS+fields](https://connect.library.utoronto.ca/display/DP/How+to+represent+languages+and+scripts+across+MODS+fields ) for background documentation. 
-  * If the title value is multiple languages do not enter any value, leave blank. Default value is none. 
-  * See further instructions to add to Collections U of T documentation at https://connect.library.utoronto.ca/display/DP/How+to+represent+languages+and+scripts+across+MODS+fields
-* **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/titleinfo.html](https://www.loc.gov/standards/mods/userguide/titleinfo.html) - value contained in lang="" attribute
-* **Controlled Vocabulary:** [https://www.loc.gov/standards/iso639-2/php/code_list.php](https://www.loc.gov/standards/iso639-2/php/code_list.php)
-  * Look into internationalization use cases: https://www.w3.org/2013/dwbp/wiki/RDF_AND_JSON-LD_UseCases
-  * See also [https://www.w3.org/International/questions/qa-choosing-language-tags](https://www.w3.org/International/questions/qa-choosing-language-tags)
-* **Obligation:** optional
-* **Repeatable?:** no
 
 ## title_translated
 * **Data Type:** string
