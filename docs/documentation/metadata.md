@@ -15,7 +15,7 @@ Each Collections U of T repository is provided with a metadata spreadsheet templ
 
 Metadata can be created for collection, book, page, and image items.
 
-The [Collections U of T Metadata Spreadsheet Template](https://docs.google.com/spreadsheets/d/1PMtZt5CzkidIXbTBUaoi8Qg7kBU-m9RzeM-lBMORPks/edit?usp=sharing) is currently stored in Google Drive for easiest access (U of T OneDrive all-staff links have an expiry date).
+As of 2026, contact [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) for your repository's metadata spreadsheet template.
 
 **Skip to:**
 * [Getting Started](https://utlib.github.io/collections-uoft/documentation/metadata#getting-started-with-collections-u-of-t-metadata)
@@ -33,15 +33,13 @@ First, if you have existing MARC records to work with you can scroll to [MARC > 
 
 If you have an existing database of metadata and would like help exporting it, email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca).
 
-If you are creating your metadata spreadsheet from scratch, start by downloading or making your own Google Drive copy of the [Collections U of T metadata spreadsheet template - all fields](https://docs.google.com/spreadsheets/d/1PMtZt5CzkidIXbTBUaoi8Qg7kBU-m9RzeM-lBMORPks/edit?usp=sharing).
+If you are creating your metadata spreadsheet from scratch, start by emailing [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) with a request for support.
 
-After copying or downloading, rename the spreadsheet with the PID or title of your collection. It can be helpful to have **one spreadsheet per collection**. 
-
-If you wish, you can store this new spreadsheet copy on your U of T staff OneDrive or continue working in Google Sheets.
+After copying or downloading, rename the spreadsheet with the PID or title of your collection. It can be helpful to have **one spreadsheet per top-level collection**. 
 
 ## Collections U of T Element Details
 
-After copying the spreadsheet, begin filling in the spreadsheet for your collection(s) based on the [Collections U of T Element Details](https://docs.google.com/spreadsheets/d/1EidYREGS521xZKoxBN3Fl-PzkJnNJAR_zftuXXwQsZg/edit#gid=0). If you have any questions about any of the elements, contact Collections U of T staff for support.
+After copying the spreadsheet, begin filling in the spreadsheet for your collection(s) based on the [Collections U of T Metadata Element Details](https://utlib.github.io/collections-uoft/documentation/metadata_elements). If you have any questions about any of the elements, contact Collections U of T staff for support.
 
 ### PID/Filename/Identifier Tips
 
@@ -51,14 +49,14 @@ See [slide deck](https://docs.google.com/presentation/d/1W2PWTBE22rj15h7FbVDgAv5
 
 * Check that PIDs are correctly formatted (see above)
 * Check for entity codes - i.e. *$amp;* in place of *&*. Note that you *are* able to represent the actual special character in the spreadsheet metadata - i.e. *&*. The ingest script accepts special characters - so long as spreadsheets are saved with UTF-8 encoding
-* Check each column you have filled in against the [Element Details](https://docs.google.com/spreadsheets/d/1EidYREGS521xZKoxBN3Fl-PzkJnNJAR_zftuXXwQsZg/edit#gid=0) Input Guidelines to ensure you are following Collections U of T metadata rules
+* Check each column you have filled in against the [Element Details](https://utlib.github.io/collections-uoft/documentation/metadata_elements) to ensure you are following Collections U of T metadata rules
 * Check for spelling errors
 * Check for duplicate words or terms
 * Check that the file paths to your digital images are correct
 
 ## Google Sheets Tips
 
-The Google Sheet template is formatted to assist you with entering data for ingest into Collections. The instructions below can help you if you would like to add additional formatting to the spreadsheet.
+If you are using Google Sheets, the instructions below can help you if you would like to add additional formatting to the spreadsheet.
 
 ### Fill down
 
@@ -89,7 +87,7 @@ Double click the blue box in the bottom right of the cell to fill a value down.
 
 ## MARCEdit Tips
 
-_This section is a work in progress as of October 2025. It details how to convert MARC metadata into a spreadsheet for ingest into Collections U of T._
+_This section is a work in progress as of January 2026. It details how to convert MARC metadata into a spreadsheet for ingest into Collections U of T._
 
 For digitized items that have existing MARC records, [MARCEdit](https://marcedit.reeset.net/) can be used to create metadata spreadsheets for ingest into Collections U of T. MARCEdit is an external, open source tool used to interact with MARC metadata. 
 
