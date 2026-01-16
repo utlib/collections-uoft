@@ -10,7 +10,7 @@ permalink: /documentation/ingest-instructions
 # Ingest instructions
 
 {: .note }
-> ***From July 2024 - Summer 2025 ingests must be facilitated by ITS. Follow the instructions below and email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) to ingest your content. Please also be aware that the Collections U of T service is operating in maintenance mode with reduced staff capacity in 2024-2025.***
+> ***From July 2024 - Spring 2026 ingests must be facilitated by ITS. Follow the instructions below and email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) to ingest your content.***
 
 
 ## Before ingesting collections and items into Collections U of T...
@@ -60,4 +60,4 @@ Try to avoid ingesting image files and then deleting and replacing them after th
 
 No, you cannot ingest A/V file formats into Collections U of T. At this time, A/V file formats can be stored in UTL's [MyMedia service](https://mymedia.library.utoronto.ca/). Once stored in MyMedia, you can use the MyMedia embed link to add the videos to basic pages for your collection. You can also ingest metadata for these files to surface in Collections U of T search. For more information about how to handle A/V digital collections, [contact us](mailto:digitalinitiatives@library.utoronto.ca). See other format support information [here](https://utlib.github.io/collections-uoft/#format-support). 
 
-**This page will be updated with self-ingest instructions when the new Collections U of T administrator user interface is launched in Fall 2025.**
+**This page will be updated with self-ingest instructions when the new Collections U of T administrator user interface is launched after Spring 2026.**
