@@ -416,9 +416,9 @@ _See MODS Guidelines for explanation of each term._
 
 ## rights_facet
 * **Data Type:** string
-* **Input Guidelines:** Enter the rights facet. We need to define these across collections - should also map to IIIF Rights info - [https://iiif.io/api/cookbook/recipe/0008-rights/](https://iiif.io/api/cookbook/recipe/0008-rights/)
+* **Input Guidelines:** Enter the rights facet. This field is currently under review and needs a defined controlled vocabulary these across collections - should also map to IIIF Rights info - [https://iiif.io/api/cookbook/recipe/0008-rights/](https://iiif.io/api/cookbook/recipe/0008-rights/). See [https://collections.library.utoronto.ca/search/utarms-online](https://collections.library.utoronto.ca/search/utarms-online) for example of use.
 * **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/accesscondition.html](https://www.loc.gov/standards/mods/userguide/accesscondition.html) with type="restriction on access" attribute
-* **Controlled Vocabulary:** none
+* **Controlled Vocabulary:** consult with ITS as controlled vocabulary is still under review. Current suggested terms include: Public Domain ; Fair use ; Rights uncertain. 
 * **Obligation:** optional
 * **Repeatable?:** no
 
