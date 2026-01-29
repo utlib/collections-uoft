@@ -37,15 +37,22 @@ On May 21st, 2024, ITS soft launched its new homegrown New Collections U of T Pl
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVM_vBtBc=/?moveToViewport=-1663,2087,2432,1227&embedId=718971289571" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
-The Islandora 7 multi-sites were redirected to the New Collections U of T Platform at the end of June 2024. All permalinks per digital object redirect to the New Platform. The old Islandora 7 multi-sites are each web archived on UTL's [Archive-It account](https://archive-it.org/collections/6473). The initial migration work is now complete, however, 2024 only marks the soft launch of New Collections U of T. ITS will continue to work on the Platform, gather staff and user feedback, and make iterative improvements, guided by our initial migration goals as well as the evolving requirements of service users and changes in technology. We are excited for this next phase of Collections U of T!
+The Islandora 7 multi-sites were redirected to the New Collections U of T Platform at the end of June 2024. All permalinks per digital object redirect to the New Platform. The old Islandora 7 multi-sites are each web archived on UTL's [Archive-It account](https://archive-it.org/collections/6473). The initial migration work completed in 2024 only marked the soft launch of New Collections U of T. Additional information about the 2024 soft launch can be found below. 
 
-You can view the [2024 Migration Guide](https://utlib.github.io/collections-uoft/documentation/2024-migration-guide) for more information about changes from Islandora 7 to the new homegrown Collections U of T Platform. You can also visit the Collections U of T [help pages](https://collections.library.utoronto.ca/explore/help) to learn how to search and reuse digital objects in new platform. 
+ITS continues to work on the Platform, gather staff and user feedback, and make iterative improvements, guided by our initial migration goals as well as the evolving requirements of service users and changes in technology.
+
 
 If you have any questions, please email [Collections U of T support staff](mailto:digitalinitiatives@library.utoronto.ca). 
 
-More details about the New Collections U of T Platform will be published on this page in the year ahead.
+## Note: Collections U of T and LLM / generative AI features
 
-Thank you to the amazing staff who have contributed so much time and work into the Collections U of T service for over a decade, some of whom are named below. Thank you all!
+As of 2026, the Collections U of T Platform **does not** include LLM or generative AI features in its public-facing systems. AI-assisted tools are sometimes used by ITS developer staff to support software development and data review. Some Collections U of T service documentation makes use of the [Scribe tool](https://scribe.com/) but does not make use of Scribe's Workflow AI features. As stated in the [Collections U of T service policies](https://utlib.github.io/collections-uoft/#collections-u-of-t-policies), Collection owners are responsible for review and approval of any content and metadata ingested into the Platform, including considerations around use of AI-assisted tools in individual work flows as well as AI-assistance disclosures.
+
+
+## Additional information about the New Collections U of T 2024 soft launch
+You can view the [2024 Migration Guide](https://utlib.github.io/collections-uoft/documentation/2024-migration-guide) for more information about changes from Islandora 7 to the new homegrown Collections U of T Platform. You can also visit the Collections U of T [help pages](https://collections.library.utoronto.ca/explore/help) to learn how to search and reuse digital objects in new platform. 
+
+Thank you to the amazing staff who have contributed so much time and work into the Collections U of T service for well over a decade, some of whom are named below. Thank you all!
 
 **Primary Collections U of T ITS Service Staff:**
 * Service contact: [digitalinitiatives@library.utoronto.ca](digitalinitiatives@library.utoronto.ca)
