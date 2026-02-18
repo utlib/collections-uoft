@@ -6,15 +6,76 @@ parent: Documentation
 description: "Collections U of T Metadata Elements"
 permalink: /documentation/metadata_elements
 ---
+
 # Collections U of T Metadata Elements
 
-This page provides information about Collections U of T metadata and element details.
+This page provides you with details and instructions for each Collections U of T metadata element.
+
+The purpose of creating Collections U of T metadata is to aid in resource description and information retrieval in the search page of Collections U of T. Metadata in Collections U of T is exportable at the item level as JSON (via IIIF manifest) and MODS xml. 
+
+The Collections U of T Metadata Profile is based on MODS xml as a result of the service's original set up in Islandora 7 multi-sites. Each multi-site originally had its own MODS-based schema. During migration off of Islandora 7 from 2020-2023, each multi-site's metadata schema was mapped into a single, normalized Collections U of T Metadata Profile. As a result, many legacy metadata elements persist in the current Collections U of T metadata profile. 
 
 Please contact [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) for your repository's Collections U of T metadata spreadsheet template if you do not have one. 
 
 If you are not included in the list of [Collections U of T repositories](https://collections.library.utoronto.ca/repositories), you must first follow the steps to [request a new repository](https://utlib.github.io/collections-uoft/documentation/adding-new-collections) before getting set up with a metadata spreadsheet template.
 
-# Collections U of T Metadata Profile - Element Details
+# Required Metadata Elements by Object Type
+
+## _Repository_ required elements:
+* [object_model](https://utlib.github.io/collections-uoft/documentation/metadata_elements#object_model) - Collection
+* [title](https://utlib.github.io/collections-uoft/documentation/metadata_elements#title)
+* [title_lang](https://utlib.github.io/collections-uoft/documentation/metadata_elements#title_lang)
+* [pid](https://utlib.github.io/collections-uoft/documentation/metadata_elements#pid)
+* [type_of_resource](https://utlib.github.io/collections-uoft/documentation/metadata_elements#type_of_resource) - collection
+* [holding_institution](https://utlib.github.io/collections-uoft/documentation/metadata_elements#holding_institution)
+* [rights_note](https://utlib.github.io/collections-uoft/documentation/metadata_elements#rights_note)
+
+
+## _Collection_ required elements:
+* [object_model](https://utlib.github.io/collections-uoft/documentation/metadata_elements#object_model) - Collection
+* [member_of](https://utlib.github.io/collections-uoft/documentation/metadata_elements#member_of)
+* [title](https://utlib.github.io/collections-uoft/documentation/metadata_elements#title)
+* [title_lang](https://utlib.github.io/collections-uoft/documentation/metadata_elements#title_lang)
+* [pid](https://utlib.github.io/collections-uoft/documentation/metadata_elements#pid)
+* [type_of_resource](https://utlib.github.io/collections-uoft/documentation/metadata_elements#type_of_resource) - collection
+* [holding_institution](https://utlib.github.io/collections-uoft/documentation/metadata_elements#holding_institution)
+* [rights_note](https://utlib.github.io/collections-uoft/documentation/metadata_elements#rights_note)
+
+## _Book_ required elements:
+* [object_model](https://utlib.github.io/collections-uoft/documentation/metadata_elements#object_model) - Book
+* [member_of](https://utlib.github.io/collections-uoft/documentation/metadata_elements#member_of)
+* [title](https://utlib.github.io/collections-uoft/documentation/metadata_elements#title)
+* [title_lang](https://utlib.github.io/collections-uoft/documentation/metadata_elements#title_lang)
+* [pid](https://utlib.github.io/collections-uoft/documentation/metadata_elements#pid)
+* [type_of_resource](https://utlib.github.io/collections-uoft/documentation/metadata_elements#type_of_resource)
+* [holding_institution](https://utlib.github.io/collections-uoft/documentation/metadata_elements#holding_institution)
+* [rights_note](https://utlib.github.io/collections-uoft/documentation/metadata_elements#rights_note)
+
+### _Page_ required elements:
+* [object_model](https://utlib.github.io/collections-uoft/documentation/metadata_elements#object_model) - Page
+* [member_of](https://utlib.github.io/collections-uoft/documentation/metadata_elements#member_of) - _enter the parent Book PID_
+* [pid](https://utlib.github.io/collections-uoft/documentation/metadata_elements#pid) - _or leave blank to use the image filename preprended by your collection namespace_
+
+#### _Page_ recommended elements:
+
+If you do not enter page metadata in your ingest spreadsheet Collections U of T will not automatically generate any metadata for the page items, other than auto-generating the pid and title for each page from the page image's filename. The rights_note for your repository will be batch applied. All other metadata fields will be blank, reducing the page item's discoverability in Collections U of T search.
+
+Therefore, it is recommended you include metadata for each page in your metadata spreadsheet, including:
+* [title](https://utlib.github.io/collections-uoft/documentation/metadata_elements#title) - _enter the page number or leave blank to use the image filename_
+* [rights_note](https://utlib.github.io/collections-uoft/documentation/metadata_elements#rights_note)
+* any relevant metadata from the parent book item's metadata - such as date_full and date_facet, creator_contributor information, subject_topic, etc. Include any metadata at the page-level that should be inherited so that the page item is enhanced for information retrieval in Collections U of T search.
+
+## _Image_ required elements: 
+* [object_model](https://utlib.github.io/collections-uoft/documentation/metadata_elements#object_model) - Image
+* [member_of](https://utlib.github.io/collections-uoft/documentation/metadata_elements#member_of)
+* [title](https://utlib.github.io/collections-uoft/documentation/metadata_elements#title)
+* [title_lang](https://utlib.github.io/collections-uoft/documentation/metadata_elements#title_lang)
+* [pid](https://utlib.github.io/collections-uoft/documentation/metadata_elements#pid)
+* [type_of_resource](https://utlib.github.io/collections-uoft/documentation/metadata_elements#type_of_resource)
+* [holding_institution](https://utlib.github.io/collections-uoft/documentation/metadata_elements#holding_institution)
+* [rights_note](https://utlib.github.io/collections-uoft/documentation/metadata_elements#rights_note)
+
+# Collections U of T Metadata Profile - Element Details (Alphabetical)
 
 ## alma_record
 
