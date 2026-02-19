@@ -23,6 +23,7 @@ If you are not included in the list of [Collections U of T repositories](https:/
 
 ## _Repository_ required elements:
 * [object_model](https://utlib.github.io/collections-uoft/documentation/metadata_elements#object_model) - Collection
+* [member_of](https://utlib.github.io/collections-uoft/documentation/metadata_elements#member_of) - utl:root
 * [title](https://utlib.github.io/collections-uoft/documentation/metadata_elements#title)
 * [title_lang](https://utlib.github.io/collections-uoft/documentation/metadata_elements#title_lang)
 * [pid](https://utlib.github.io/collections-uoft/documentation/metadata_elements#pid)
