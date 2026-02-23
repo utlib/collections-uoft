@@ -718,7 +718,7 @@ _Use lower case_
 * **MODS Input Guidelines:** does not map
 * **Controlled Vocabulary:**
   * Digitized
-  * Not yet digitized"
+  * Not yet digitized
 * **Obligation:** optional, default should be Digitized
 * **Repeatable?:** no
 
