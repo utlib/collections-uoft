@@ -11,14 +11,14 @@ has_children: false
 
 # Policies and Documentation
 
-*[Collections U of T](https://collections.library.utoronto.ca)* is the  University of Toronto Libraries' image repository for UTL digitized special collections and archives. 
+[Collections U of T](https://collections.library.utoronto.ca) is the  University of Toronto Libraries' image repository for UTL digitized special collections and archives. 
 
 **This site contains staff policy & procedures documentation.**
 
-If you are looking for documentation and help for browsing and searching in *Collections U of T* visit the public help pages at [https://collections.library.utoronto.ca/explore/help](https://collections.library.utoronto.ca/explore/help).
+If you are looking for documentation and help for browsing and searching in Collections U of T visit the public help pages at [https://collections.library.utoronto.ca/explore/help](https://collections.library.utoronto.ca/explore/help).
 
 {: .note }
-> ***The New Collections U of T Platform launched in May 2024. Go to the [2024 Migration Guide](https://utlib.github.io/collections-uoft/documentation/2024-migration-guide) for more information. From July 2025 to April 2026 the New Collections U of T Platform will undergo its next phase of development to create and launch an administrator user interface ("admin UI"). The admin UI will enable collection owners to modify and ingest content independently (without ITS support). Until the admin UI is launched, collection owners can contact ITS for support to modify or ingest collections. More details and timelines about the admin UI will be available after December 2025.***
+> ***The New Collections U of T Platform launched in May 2024. Go to the [2024 Migration Guide](https://utlib.github.io/collections-uoft/documentation/2024-migration-guide) for more information. The first phase of the Collections U of T Admin UI will be delivered by end of April 2026. Until then, Collection owners can contact ITS for support to modify or ingest collections.***
 
 **Skip to:**
 * [About Collections U of T](index.md#about-collections-u-of-t)
@@ -72,7 +72,7 @@ Collections U of T is a digital image repository that currently accepts the foll
 
 View the list of existing repositories in Collections U of T [here](https://collections.library.utoronto.ca/repositories).
 
-Digital projects making use of Collections U of T include:
+While digitized items in Collections U of T are required to be UTL acquisitions belonging to a UTL department or archives for long term care and maintenance, please note that some legacy digital projects currently make use of Collections U of T IIIF infrastructure, including:
 * Ann Komaromi's *[Project for the Study of Dissidence and Samizdat](https://samizdat.library.utoronto.ca/)*
 * *[French](https://french.newberry.t-pen.org/)* and *[Italian Paleography](https://italian.newberry.t-pen.org/)*, supported by a grant from The Andrew W. Mellon Foundation and completed in partnership with the Newberry Library and the Walter J. Ong Centre for Digital Humanities at Saint Louis University
 * Pamela Klassen's *[Story Nations](https://storynations.utoronto.ca/)*
@@ -86,8 +86,6 @@ Our ["What is IIIF?"](https://utlib.github.io/collections-uoft/documentation/iii
 
 ## Metadata and Data Model
 
-The full Collections U of T data model is available upon request.
-
 Generally, digital objects are structured as follow:
 * [Repositories](https://collections.library.utoronto.ca/repositories) have
   * [Collections](https://collections.library.utoronto.ca/search?itemType=COLLECTION) have
@@ -98,6 +96,7 @@ Generally, digital objects are structured as follow:
    
 
 ## Descriptive Metadata Standards
+
 Historically, Collections U of T has used [MODS](https://www.loc.gov/standards/mods/userguide/generalapp.html)-based descriptive metadata formatted as spreadsheets and then converted to [xml](https://www.w3schools.com/xml/xml_whatis.asp ), or MARC converted to MODS xml via [MarcEdit](https://marcedit.reeset.net/). Descriptive metadata is also converted to JSON in Collections U of T IIIF manifests for display purposes. As of 2024, Collections U of T now uses a spreadsheet ingest workflow for metadata and produces MODS xml for download following ingest ([view the spreadsheet to MODS xml mapping](/xml_mods_collections_uoft_mapping.xml))
 
 All other details about Collections U of T metadata can be found on the [Metadata Instructions](https://utlib.github.io/collections-uoft/documentation/metadata) page. 
