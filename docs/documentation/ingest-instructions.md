@@ -49,11 +49,17 @@ permalink: /documentation/ingest-instructions
 
 Consult with the Collections U of T team if you need to ingest OCR text for your image files. Instructions for using transcription tools with Collections U of T IIIF manifests can also be found [here](https://utlib.github.io/collections-uoft/documentation/transcriptions-with-iiif).
 
-### Once items are published please avoid updating image files
+## Collections U of T Deletion Policy
+_Last updated: March 11, 2026_
 
-Remember that Collections U of T publishes images as _data_ - this data is represented as a [IIIF Manifest](https://iiif.io/guides/using_iiif_resources/). If you update an image in an item published to Collections U of T, the item's IIIF Manifest will *also* be altered. Therefore, updating image files in an item published in Collections U of T may cause unintentional broken links or corrupted data for end users who make use of the item's IIIF Manifest. 
+**Collection deletion is disabled** - deleting collections is currently restricted to system administrators only. To request deletion of a collection, please contact [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca).
 
-Try to avoid ingesting image files and then deleting and replacing them after the item is published and be aware that if you must change or delete any images in your digital objects after they have been published for an extended period of time then you may impact a user's IIIF research output. Ideally, please only publish final, edited copies of digital images to Collections U of T. 
+
+### Once items are published please avoid deleting published Image, Book, or Page items and avoid replacing or deleting image files
+
+**Image, Book, Page item deletion _is_ enabled** - while deletion of Image, Book, and Page items is enabled, please avoid deleting items and avoid replacing or deleting image files of _published items_ in Collections U of T. Remember that Collections U of T publishes images as _data_ - this data is represented as a [IIIF Manifest](https://iiif.io/guides/using_iiif_resources/). If you delete an Image, Book, or Page, or update an image in an item published to Collections U of T, the item's IIIF Manifest will _also_ be deleted or permanently altered. Therefore, updating image files in an item published in Collections U of T may cause unintentional broken links or corrupted data for end users who make use of the item's IIIF Manifest. This may unintentionally impact an end user's IIIF research output. Ideally, please only publish final, edited copies of digital images to Collections U of T. If you need to conduct test ingests, please use the test instance of the Collections U of T Admin UI. 
+
+Note that Collections U of T does not yet have the [IIIF Change Discovery API enabled](https://iiif.io/api/discovery/1.0). 
 
 
 ### Can I ingest A/V file formats into Collections U of T?
