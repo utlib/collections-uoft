@@ -264,7 +264,10 @@ If adding translations for names, separate by pipe. Indicate language per name v
 
 ## image
 * **Data Type:** filepath
-* **Input Guidelines:** Enter the file path to the image(s) for the digital object. (.tiff; .tif; .jpg extension). Book objects should be a directory (i.e. a folder) of images.
+* **Input Guidelines:**
+  * For metadata with images: Enter the file path to the image(s) for the digital object. (.tiff; .tif; .jpg extension). Book objects should be a directory (i.e. a folder) of images.
+  * For metadata-only items: if you are adding metadata for items that are not yet digitized, leave blank. Upon ingest, if the image field is left blank, the system will ingest the metadata and add a "Not yet digitized" thumbnail will be added to the item ([example item](https://collections.library.utoronto.ca/view/eal3:2837)).
+  * For Collection items: update the thumbnail in the Admin UI
 * **MODS Input Guidelines:** does not map
 * **Controlled Vocabulary:** N/A
 * **Obligation:** required
@@ -724,8 +727,11 @@ _**Do not use - not included in spreadsheet template**_
 * **Repeatable?:** no
 
 ## digitized?
+_**Do not use, legacy field. Not included in spreadsheet template**_
 * **Data Type:** string
-* **Input Guidelines:** Controlled field to indicate if digital object is metadata-only. 
+* **Input Guidelines:**
+  * After April 2026: ingest work flow will add "Not yet digitized" thumbnail if the image column in spreadsheet is empty. Only metadata will be ingested and the "Not yet digitized thumbnail" automatically added. This field is not present in Admin UI. 
+  * Before April 2026: Controlled field to indicate if digital object is metadata-only. 
 * **MODS Input Guidelines:** does not map
 * **Controlled Vocabulary:**
   * Digitized
