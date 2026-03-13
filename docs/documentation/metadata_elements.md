@@ -21,6 +21,8 @@ If you are not included in the list of [Collections U of T repositories](https:/
 
 # Required Metadata Elements by Object Type
 
+Note: the following are just the required elements per item type. There are many more metadata fields, see full list (sorted alphabetically) [below](https://utlib.github.io/collections-uoft/documentation/metadata_elements#collections-u-of-t-metadata-profile---element-details-alphabetical). 
+
 ## _Repository_ required elements:
 * [object_model](https://utlib.github.io/collections-uoft/documentation/metadata_elements#object_model) - Collection
 * [member_of](https://utlib.github.io/collections-uoft/documentation/metadata_elements#member_of) - utl:root
@@ -533,8 +535,11 @@ _See MODS Guidelines for explanation of each term._
 * **Repeatable?:** no
 
 ## thumbnail
+_**Not included in spreadsheet template**_
 * **Data Type:** filepath
-* **Input Guidelines:** Enter the file path to the image that should be used as the thumbnail of the digital object. If left blank, default is to make the first image the thumbnail. 
+* **Input Guidelines:**
+  * After April 2026: the thumbnail will automatically generate from ingested images. Use Admin UI to replace. 
+  * Before April 2026: Enter the file path to the image that should be used as the thumbnail of the digital object. If left blank, default is to make the first image the thumbnail. 
 * **MODS Input Guidelines:** does not map
 * **Controlled Vocabulary:** none
 * **Obligation:** optional
@@ -649,6 +654,7 @@ _Use lower case_
 * **Repeatable?:** no
 
 ## url_catkey
+_**Do not use, legacy field. Not included in spreadsheet template**_
 * **Data Type:** URL
 * **Input Guidelines:** Enter the full URL of the old Sirsi Catkey. As of May, 2021 we will keep Sirsi permalinks as is for legacy purposes but always add Alma Record Permalinks going forward.
 * **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/location.html#url](https://www.loc.gov/standards/mods/userguide/location.html#url) - with displayLabel="Catalog Record" attribute
@@ -657,8 +663,11 @@ _Use lower case_
 * **Repeatable?:** no
 
 ## url_permalink
+_**Not included in spreadsheet template**_
 * **Data Type:** URL
-* **Input Guidelines:** Enter the Collections U of T permalink. Take from the PID of the object. 
+* **Input Guidelines:**
+  * After April 2026: the url_permalink will automatically generate from the PID value. Not editable in Admin UI. 
+  * Before April 2026: Enter the Collections U of T permalink. Take from the PID of the object. 
 * **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/attributes.html#usage](https://www.loc.gov/standards/mods/userguide/attributes.html#usage) - with usage="primary display" access="object in context" attributes
 * **Controlled Vocabulary:** none
 * **Obligation:** required
@@ -681,8 +690,9 @@ _Use lower case_
 * **Repeatable?:** no
 
 ## viaf_name_identifier
+_**Do not use - not included in spreadsheet template**_
 * **Data Type:** URL
-* **Input Guidelines:** A unique standard URI that distinctively identifies a Creator_Contributor name via VIAF. If multiple names in Creator_Contributor then enter VIAF URIs in order of Creator_Contributor names appear. If no VIAF, leave blank but include pipe.
+* **Input Guidelines:** As of April 2026, this field is under review. Do not use. Intended for the input of a unique standard URI that distinctively identifies a Creator_Contributor name via VIAF. If multiple names in Creator_Contributor then enter VIAF URIs in order of Creator_Contributor names appear. If no VIAF, leave blank but include pipe.
 * **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/name.html#nameidentifier](https://www.loc.gov/standards/mods/userguide/name.html#nameidentifier) - with type="viaf"
 * **Controlled Vocabulary:** none
 * **Obligation:** optional
@@ -705,6 +715,7 @@ _Use lower case_
 * **Repeatable?:** no
 
 ## ocr
+**Field is under review**
 * **Data Type:** string
 * **Input Guidelines:** Enter the file path to the OCR .txt file for the digital object. 
 * **MODS Input Guidelines:** does not map
