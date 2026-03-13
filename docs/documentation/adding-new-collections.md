@@ -11,7 +11,9 @@ permalink: /documentation/adding-new-collections
 
 ## What is a repository?
 
-In Collections U of T, the libraries or archives who care for the physical items and their digitized surrogates are called "repositories" ([view current repositories](https://collections.library.utoronto.ca/repositories)). Within the Collections U of T database, each participating repository gets a top-level repository collection that acts as the top-level collection container for all of the repository's digital objects. You must submit a request for a new top-level repository before you can add digital collections to Collections U of T.
+In Collections U of T, the U of T libraries or archives units who care for the physical items and their digitized surrogates are called "repositories" ([view current repositories](https://collections.library.utoronto.ca/repositories)). Within the Collections U of T database, each participating unit gets a top-level repository page and repository collection that acts as their discovery point and container for all lower-level collections and digital objects*. 
+
+**You must submit a request for a new top-level repository before you can add digital collections to Collections U of T.**
 
 ## Before requesting a Collections U of T repository...
 
@@ -21,16 +23,16 @@ Review the [service parameters](https://utlib.github.io/collections-uoft/#about-
 
 Email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) with the following information:
 
-* Title of the new top-level collection (usually the name of the library/archives)
-* Brief description for the collection (this will display publicly on the top-level collection page)
-* PID of collection (this will be included in the URL for your top-level collection and *cannot* be changed once it is published)
-* Approximate size (MB, GB, or TB) of images you are initially planning to ingest (we may need to increase storage, depending on your collection size)
-* Emails for staff who will require access to the Collections U of T administration back end
+* Title of the proposed repository (usually the name of the library/archives)
+* Brief description (this will display publicly on the top-level collection page)
+* PID for the repository (this will be included in the URL for your top-level repository collection and *cannot* be changed once it is published)
+* Approximate size (MB, GB, or TB) of images you are initially planning to ingest (we may need to schedule ingest support and/or increase storage, depending on your collection's total size)
+* Emails for staff who will require access to the Collections U of T administration back end and be responsible for the maintenance of the ingest data
 
 You must also confirm that the image collection(s) you are ingesting are:
 * intended for long-term, public, and perpetual acess
 * cleared for accessibility, privacy, and copyright considerations. You must follow Canadian Copyright law when uploading digital images into Collections U of T. If you do not hold the rights to publish the material online, permission must be obtained and shared with Collections U of T service staff.
-* not duplicates of existing items already in Collections U of T under another library/archives' collection
+* not duplicates of existing items already in Collections U of T under another library or archives collection
 * not being stored in Collections U of T for preservation (Collections U of T is not a preservation repository)
 
 **Note: because of service capacity, approving your request, onboarding staff, and setting up your new collection may take 2-8 weeks to complete depending on the request.**
@@ -41,6 +43,9 @@ To have your request for a new top-level collection in Collections U of T approv
 * Staff working on the collection are familiar with metadata best practices and can follow Collections U of T metadata guidelines. If you cannot follow Collections U of T metadata guidelines, your collection may be taken offline.
 * You have staffing capacity to support the care and maintenance of the digital collection over time. Note: Collections U of T service staff will not have capacity to maintain your collections or web content. If you do not maintain your content ingested into Collections U of T, it may be taken offline.
 * You commit to joining the [Collections U of T Teams channel](https://teams.microsoft.com/l/channel/19%3a0c2caaac27a04fe7b6e37018970a66b5%40thread.tacv2/Collections%2520U%2520of%2520T?groupId=2151c2c7-2063-412d-8ebf-de2c9f809003&tenantId=78aac226-2f03-4b4d-9037-b46d56c55210) to follow service updates (Teams channel launched in March 2024).
+
+## Exceptions: legacy digital collections with repository status  
+* Please note that the [Anatomia](https://collections.library.utoronto.ca/repository/anatomia), [Insulin](https://collections.library.utoronto.ca/repository/insulin), [Hollar](https://collections.library.utoronto.ca/repository/hollar) (belonging to [Fisher repository](https://collections.library.utoronto.ca/repository/fisher)) and [KCHA](https://collections.library.utoronto.ca/repository/kcha) (belonging to [EAL repository](https://collections.library.utoronto.ca/repository/eal)) are top-level collections that have "repository" status for technical reasons due to their time sensitive migration off of legacy infrastructure. These four are the only top-level collections with repository status in the Collections U of T system. The Collections U of T service is **not** enabled to support repository status for any other top-level collections. Repository status is only assigned to a U of T library or archives unit. 
 
 {: .note }
 > After your repository is created you can [ingest](https://utlib.github.io/collections-uoft/documentation/ingest-instructions), create collection and item [metadata](https://utlib.github.io/collections-uoft/documentation/metadata), and add [basic pages](https://utlib.github.io/collections-uoft/documentation/add-simple-page) about your digital image collections. 
