@@ -17,18 +17,17 @@ has_children: false
 
 If you are looking for documentation and help for browsing and searching in Collections U of T visit the public help pages at [https://collections.library.utoronto.ca/explore/help](https://collections.library.utoronto.ca/explore/help).
 
-{: .note }
-> ***The New Collections U of T Platform launched in May 2024. Go to the [2024 Migration Guide](https://utlib.github.io/collections-uoft/documentation/2024-migration-guide) for more information. The first phase of the Collections U of T Admin UI will be delivered by end of April 2026. Until then, Collection owners can contact ITS for support to modify or ingest collections.***
 
 **Skip to:**
 * [About Collections U of T](index.md#about-collections-u-of-t)
 * [Collections U of T policies](index.md#collections-u-of-t-policies)
 * [Help finding and using images in Collections U of T](https://collections.library.utoronto.ca/explore/help)
 * Documentation for collection owners:
-    * [Requesting a top-level collection](documentation/adding-new-collections.md)
+    * [Requesting a new repository](documentation/adding-new-collections.md)
     * [Metadata instructions](documentation/metadata.md)
     * [Ingest instructions](documentation/ingest-instructions.md)
     * [Transcription and Annotation tools for Collections U of T IIIF images](documentation/transcriptions-with-iiif.md)
+    * [2024 Migration Guide](https://utlib.github.io/collections-uoft/documentation/2024-migration-guide) for information about moving the Collections U of T service off of Islandora 7 (Drupal 7) in 2024
 
 ## About Collections U of T
 [Collections U of T](https://collections.library.utoronto.ca) is the  University of Toronto Libraries' image repository for digitized special collections and archives. The service supports UTL special collections and archives staff in providing open access to digitized special collections and archives through the [International Image Interoperability Framework (IIIF)](https://iiif.io/) and standard metadata formats. 
@@ -54,8 +53,8 @@ Collections U of T is *not*:
 #### Collection Guidelines
 
 1. Digital collections or digital objects deposited into Collections U of T are published with the intent of access in perpetuity. All content ingested into Collections U of T will be public. Collections U of T does not currently have any collection or item restriction features - all images in the repository are publicly accessible and publicly downloadable. If you require storage for digital image collections but need to restrict access or downloads to internal UTL or U of T users, please [contact us](mailto:digitalinitiatives@library.utoronto.ca). Related: read the [Deletion Policy](https://utlib.github.io/collections-uoft/documentation/ingest-instructions#collections-u-of-t-deletion-policy). 
-2. The repository is structured by top-level U of T library or archives. Any content added to Collections U of T *must* belong to a top-level collection reflecting the UTL library or archives department mandated for the long term maintenance of the digitized items and collections. The top-level collection library or archives is referred to as the "collection owner".
-3. To create a new top-level collection and obtain logins, U of T library or archives staff can [request a new repository](https://utlib.github.io/collections-uoft/documentation/adding-new-collections) in Collections U of T. 
+2. The repository is structured by top-level U of T library or archives. Any content added to Collections U of T *must* belong to a top-level repository collection reflecting the UTL library or archives department mandated for the long term maintenance of the digitized items and collections. The top-level repository for a library or archives is referred to as the "collection owner".
+3. To create a new top-level repository and obtain logins, U of T library or archives staff can [request a new repository](https://utlib.github.io/collections-uoft/documentation/adding-new-collections) in Collections U of T. 
 4. Collection owners are responsible for reading and following Collections U of T policies.
 5. Collections and items deposited into Collections U of T must not be ephemeral or intended for temporary access. Content ingested into Collections U of T must be _selected content_, with either a UTL call number/MMSID, accession ID, EID, or other collection number assigned.
 6. Collection owners must not deposit duplicates of the same item.
