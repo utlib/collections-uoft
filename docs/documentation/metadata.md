@@ -11,11 +11,15 @@ permalink: /documentation/metadata
 
 This page provides information about Collections U of T metadata and instructions to create metadata for ingest into Collections U of T.
 
+The instructions on this page are under review in Spring 2026 while ITS builds out the Collections U of T Admin UI. Go to [https://q.utoronto.ca/courses/429631/pages/welcome](https://q.utoronto.ca/courses/429631/pages/welcome) to find Admin UI instructions.
+
 Each Collections U of T repository is provided with a metadata spreadsheet template. The instructions below will assist collection owners in using the spreadsheet template to create metadata.
 
 Metadata can be created for collection, book, page, and image items.
 
-As of 2026, contact [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) for your repository's metadata spreadsheet template.
+As of 2026, contact [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) for your repository's metadata spreadsheet template
+
+You can also use [this ALL FIELDS template spreadsheet](https://utoronto.sharepoint.com/:x:/r/sites/001T_UTLWebContentCreators/Shared%20Documents/Collections%20U%20of%20T/TEMPLATE%20-%20Admin%20UI%20Ingest%20-%20ALL%20FIELDS%20-%20Last%20updated%202026-03-25.xlsx?d=wc0e1fb8cd90e42369e444f1941118db1&csf=1&web=1&e=eM824D), available in Sharepoint, containing all of the metadata fields in the system. 
 
 **Skip to:**
 * [Getting Started](https://utlib.github.io/collections-uoft/documentation/metadata#getting-started-with-collections-u-of-t-metadata)
@@ -33,9 +37,9 @@ First, if you have existing MARC records to work with you can scroll to [MARC > 
 
 If you have an existing database of metadata and would like help exporting it, email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca).
 
-If you are creating your metadata spreadsheet from scratch, start by emailing [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) with a request for support.
+If you are creating your metadata spreadsheet from scratch, start by emailing [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) with a request for support or use [this ALL FIELDS template spreadsheet](https://utoronto.sharepoint.com/:x:/r/sites/001T_UTLWebContentCreators/Shared%20Documents/Collections%20U%20of%20T/TEMPLATE%20-%20Admin%20UI%20Ingest%20-%20ALL%20FIELDS%20-%20Last%20updated%202026-03-25.xlsx?d=wc0e1fb8cd90e42369e444f1941118db1&csf=1&web=1&e=eM824D), available in Sharepoint.
 
-After copying or downloading, rename the spreadsheet with the PID or title of your collection. It can be helpful to have **one spreadsheet per top-level collection**. 
+After copying or downloading, rename the spreadsheet with the PID or title of your collection. It can be helpful to have **one spreadsheet per top-level collection** so you can use the sheet to normalize metadata values if you add new items.
 
 ## Collections U of T Element Details
 
