@@ -265,8 +265,13 @@ If adding translations for names, separate by pipe. Indicate language per name v
 ## image
 * **Data Type:** filepath
 * **Input Guidelines:**
-  * For metadata with images: Enter the file path to the image(s) for the digital object. (.tiff; .tif; .jpg extension). Book objects should be a directory (i.e. a folder) of images.
-  * For metadata-only items: if you are adding metadata for items that are not yet digitized, leave blank. Upon ingest, if the image field is left blank, the system will ingest the metadata and add a "Not yet digitized" thumbnail will be added to the item ([example item](https://collections.library.utoronto.ca/view/eal3:2837)).
+  * **For any metadata with images:** enter the filename of your digitized image (.tiff, .tif, or .jpg). For Image and Page metadata, the full image referenced in this column will be **ingested**. For Book and Collection metadata, the image referenced in this column will be processed and used as the **thumbnail**.
+    * For spreadsheets with _only_ Book-level metadata and _no page-level metadata_: name all page images with the same unique prefix, for example:
+      * book1_0001.tiff
+      * book1_0002.tiff
+      * book1_0003.tiff
+    * Then, in the image column, enter either: A) a single filename (e.g., book1_0001.tiff) — used as the book's thumbnail only or b)the shared prefix (e.g., book1) — this will add all matching images as pages of the book, using the first image as the thumbnail.
+  * **For metadata-only items:** if you are adding metadata for items that are not yet digitized, leave blank. Upon ingest, if the image field is left blank, the system will ingest the metadata and add a "Not yet digitized" thumbnail will be added to the item ([example item](https://collections.library.utoronto.ca/view/eal3:2837)).
   * For Collection items: update the thumbnail in the Admin UI
 * **MODS Input Guidelines:** does not map
 * **Controlled Vocabulary:** N/A
