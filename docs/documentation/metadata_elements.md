@@ -263,7 +263,7 @@ If adding translations for names, separate by pipe. Indicate language per name v
 * **Repeatable?:** yes
 
 ## image
-* **Data Type:** filepath
+* **Data Type:** filename
 * **Input Guidelines:**
   * **For any metadata with images:** enter the filename of your digitized image (.tiff, .tif, or .jpg). For Image and Page metadata, the full image referenced in this column will be **ingested**. For Book and Collection metadata, the image referenced in this column will be processed and used as the **thumbnail**.
     * For spreadsheets with _only_ Book-level metadata and _no page-level metadata_: name all page images with the same unique prefix, for example:
