@@ -3,7 +3,7 @@ layout: default
 title: History of Collections U of T
 nav_order: 9
 parent: Documentation
-description: "History of Collections U of T"f
+description: "History of Collections U of T"
 permalink: /documentation/history
 ---
 
