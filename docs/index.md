@@ -17,6 +17,8 @@ has_children: false
 
 If you are looking for documentation and help for browsing and searching in Collections U of T visit the public help pages at [https://collections.library.utoronto.ca/explore/help](https://collections.library.utoronto.ca/explore/help).
 
+If you are a UTL staff member with an existing repository in Collections U of T and you are looking for tutorials on using the Collections U of T Admin UI visit [https://q.utoronto.ca/courses/429631/pages/welcome](https://q.utoronto.ca/courses/429631/pages/welcome). 
+
 
 **Skip to:**
 * [About Collections U of T](index.md#about-collections-u-of-t)
