@@ -3,7 +3,7 @@ layout: default
 title: History of Collections U of T
 nav_order: 9
 parent: Documentation
-description: "History of Collections U of T"
+description: "History of Collections U of T"f
 permalink: /documentation/history
 ---
 
@@ -31,26 +31,26 @@ Other internal migration goals for the service included:
 * Consider [Linked Open Usable Data (LOUD) principles](https://www.slideshare.net/slideshow/publishing-linked-open-usable-data/89234543) when relevant to service policy and infrastructure decisions. Note: though linked data functionality was explicitly out of scope for the migration project, it remains of interest for future. The indexing tool used by the New Collections U of T Platform, MarkLogic, is [linked data ready](https://www.progress.com/resources/papers/marklogic-semantics-whitepaper).
 * Consider integration with external tools such as hosted transcriptions via From The Page or external IIIF manifests from the Internet Archive
 
-The research process and migration pathway decision to move the service away from the Islandora platform is documented in the [2020 Code4Lib article](https://journal.code4lib.org/articles/15000). However, Drupal 7 end of life was extended multiple times from 2020 to 2023. The final end of life date for Drupal 7 was finally communicated in June of 2023 - Drupal would reach its final end of support date on [January 5th of 2025](https://www.drupal.org/psa-2023-06-07). 
+The research process and migration pathway decision to move the service away from the Islandora platform is documented in the [2020 Code4Lib article](https://journal.code4lib.org/articles/15000). However, Drupal 7 end of support was extended multiple times from 2020 to 2023. The final end of support date for Drupal 7 was finally communicated in June of 2023 - Drupal would reach its final end of support date on [January 5th of 2025](https://www.drupal.org/psa-2023-06-07). 
 
 On May 21st, 2024, ITS soft launched its new homegrown New Collections U of T Platform comprised of "pluggable pieces" - a mix of new development alongside reusing existing UTL ITS technology infrastructure from other services as well as infrastructure provided by [Scholars Portal](https://ocul.on.ca/scholars-portal) - to deliver the Collections U of T service. The New Collections U of T Platform's infrastructure diagram is embedded below. It is also viewable in the UTL ITS [Miro](https://miro.com/app/board/uXjVM_vBtBc=/?share_link_id=757884216988). 
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVM_vBtBc=/?moveToViewport=-1663,2087,2432,1227&embedId=718971289571" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
-The Islandora 7 multi-sites were redirected to the New Collections U of T Platform at the end of June 2024. All permalinks per digital object redirect to the New Platform. The old Islandora 7 multi-sites are each web archived on UTL's [Archive-It account](https://archive-it.org/collections/6473). The initial migration work completed in 2024 only marked the soft launch of New Collections U of T. Additional information about the 2024 soft launch can be found below. 
+The Islandora 7 multi-sites were redirected to the New Collections U of T Platform at the end of June 2024. All permalinks per digital object redirect to the New Platform. The old Islandora 7 multi-sites are each web archived on UTL's [Archive-It account](https://archive-it.org/collections/6473). Following the soft launch of New Collections U of T in May 2024, ITS released the Admin UI portion of the application in Spring 2026. The Admin UI enables UTL staff to self-manage, edit, and ingest their digitized image collections with ITS support available for ingest and edit edge cases. 
 
-ITS continues to work on the Platform, gather staff and user feedback, and make iterative improvements, guided by our initial migration goals as well as the evolving requirements of service users and changes in technology.
+ITS continues to work on the Collections U of T Platform, gather staff and user feedback, and make iterative improvements, guided by our initial migration goals as well as the evolving requirements of service users and changes in technology.
 
 
 If you have any questions, please email [Collections U of T support staff](mailto:digitalinitiatives@library.utoronto.ca). 
 
 ## Note: Collections U of T and LLM / generative AI features
 
-As of 2026, the Collections U of T Platform **does not** include LLM or generative AI features in its public-facing systems. AI-assisted tools are sometimes used by ITS developer staff to support software development and data review. Some Collections U of T service documentation makes use of the [Scribe tool](https://scribe.com/) but does not make use of Scribe's Workflow AI features. As stated in the [Collections U of T service policies](https://utlib.github.io/collections-uoft/#collections-u-of-t-policies), Collection owners are responsible for review and approval of any content and metadata ingested into the Platform, including considerations around use of AI-assisted tools in individual work flows as well as AI-assistance disclosures.
+As of 2026, the Collections U of T Platform **does not** include LLM or generative AI features in its public-facing systems. AI-assisted tools are used by ITS developer staff to support software development and data review. Some Collections U of T service documentation makes use of the [Scribe tool](https://scribe.com/) but does not make use of Scribe's Workflow AI features. As stated in the [Collections U of T service policies](https://utlib.github.io/collections-uoft/#collections-u-of-t-policies), collection owners are responsible for review and approval of any content and metadata ingested into the Platform, including considerations around use of AI-assisted tools in individual work flows as well as AI-assistance disclosures. If UTL staff are interested in introducing LLM / generative AI features into the Collections U of T service please email [Collections U of T support staff](mailto:digitalinitiatives@library.utoronto.ca) and UTL ITS will gather use cases for collaborative review. A reminder that the Collections U of T Platform is maintained within the capacity available to UTL ITS. Any proposed new features must be reviewed through a lense of long term sustainability, security, and benefit to end users of the service. 
 
 
 ## Additional information about the New Collections U of T 2024 soft launch
-You can view the [2024 Migration Guide](https://utlib.github.io/collections-uoft/documentation/2024-migration-guide) for more information about changes from Islandora 7 to the new homegrown Collections U of T Platform. You can also visit the Collections U of T [help pages](https://collections.library.utoronto.ca/explore/help) to learn how to search and reuse digital objects in new platform. 
+You can view the [2024 Migration Guide](https://utlib.github.io/collections-uoft/documentation/2024-migration-guide) for past information about the changes that occurred moving the service from Islandora 7 to the new UTL ITS-homegrown Collections U of T Platform. You can also visit the Collections U of T [help pages](https://collections.library.utoronto.ca/explore/help) to learn how to search and reuse digital objects in Collections U of T. 
 
 Thank you to the amazing staff who have contributed so much time and work into the Collections U of T service for well over a decade, some of whom are named below. Thank you all!
 
@@ -63,8 +63,16 @@ Thank you to the amazing staff who have contributed so much time and work into t
 * Andy Foster
 * Bilal Khalid
 * Dickson Law
+* Sunny Lee
 * Jana Rajakumar
 * Jarvis Tse
+* Andy Wagner
+
+**2026 Admin UI development team:**
+* Brandon Cheung
+* Bilal Khalid
+* Sunny Lee
+* Jana Rajakumar
 * Andy Wagner
 
 **Thank you OLRC and MarkLogic Scholars Portal staff for the development support:**
