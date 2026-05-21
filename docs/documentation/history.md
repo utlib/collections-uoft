@@ -68,7 +68,7 @@ Thank you to the amazing staff who have contributed so much time and work into t
 * Jarvis Tse
 * Andy Wagner
 
-**2026 Admin UI development team:**
+**And 2026 Admin UI development team:**
 * Brandon Cheung
 * Bilal Khalid
 * Sunny Lee
