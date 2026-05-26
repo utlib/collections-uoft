@@ -35,7 +35,7 @@ You must also confirm that the image collection(s) you are ingesting are:
 * not duplicates of existing items already in Collections U of T under another library or archives collection
 * not being stored in Collections U of T for preservation (Collections U of T is not a preservation repository)
 
-**Note: because of service capacity, approving your request, onboarding staff, and setting up your new collection may take 2-8 weeks to complete depending on the request.**
+**Note: because of service capacity, approving your request, onboarding staff, and setting up your new collection may take 2-8 weeks to complete depending on the request. For UTL ITS staff managing Collections U of T, internal documentation for adding a new repository can be found [here](https://git.library.utoronto.ca/groups/utl-its/digital-collections/-/wikis/home/02-How-Tos/repository-onboarding-(dev)) (external link, restricted to ITS).**
 
 To have your request for a new top-level collection in Collections U of T approved, please ensure:
 * You have time available to meet with a Collections U of T service representative to talk through policies and training.
