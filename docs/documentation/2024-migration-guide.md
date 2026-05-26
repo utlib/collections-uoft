@@ -2,7 +2,7 @@
 layout: default
 title: 2024 Migration Guide
 nav_order: 1
-parent: History
+parent: History of Collections U of T
 description: "2024 Migration Guide"
 permalink: /documentation/history/2024-migration-guide
 ---
