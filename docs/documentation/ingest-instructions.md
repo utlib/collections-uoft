@@ -24,7 +24,7 @@ permalink: /documentation/ingest-instructions
 ## Using Collections U of T Admin UI for ingest
 
 {: .note }
-> **For most ingests, you can consult the [Admin UI onboarding and training in Quercus](https://q.utoronto.ca/courses/429631/pages/welcome) for guidance on logging in to Admin UI and ingesting collections and items into your repository.** 
+> **Use the Admin UI to ingest into Collections U of T. Consult the [Admin UI onboarding and training in Quercus](https://q.utoronto.ca/courses/429631/pages/welcome) for guidance on logging in to Admin UI and ingesting collections and items into your repository.** 
 
 ## Using ITS facilitated ingest for new collections:
 
