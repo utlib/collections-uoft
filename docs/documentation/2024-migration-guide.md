@@ -8,8 +8,7 @@ permalink: /documentation/history/2024-migration-guide
 ---
 
 # 2024 Collections U of T Migration Guide
-
-<br/>  
+ 
 * ["New" Collections U of T Training Kit](#new-collections-u-of-t-training-kit)
 * [Migration FAQ for UTL Staff](#migration-faq-for-utl-staff)
 * [2024 Migration Timeline](#migration-timeline)
@@ -101,4 +100,4 @@ Have more questions? [Email us!](mailto:digitalinitiatives@library.utoronto.ca) 
   * The Collections U of T Service will run in maintenance mode due to staff leaves
   * Development for the New Collections U of T Platform's administrator user interface will be completed
 * **Spring 2026:** ITS releases New Collections U of T Platform's administrator user interface (Admin UI). Collection owners are onboarded to self-edit and self-ingest procedures
-* **2026 on:** additional web accessibility review; user testing and feedback gathering; iterative improvements on New Collections as requested by collection owners and triaged by ITS
+* **2026 onwards:** additional web accessibility review; user testing and feedback gathering; iterative improvements on New Collections as requested by collection owners and triaged by ITS
