@@ -9,9 +9,6 @@ permalink: /documentation/ingest-instructions
 
 # Ingest instructions
 
-{: .note }
-> ***From July 2024 - Spring 2026 ingests must be facilitated by ITS. Follow the instructions below and email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) to ingest your content.***
-
 
 ## Before ingesting collections and items into Collections U of T...
 
@@ -24,9 +21,14 @@ permalink: /documentation/ingest-instructions
 * Ensure image files are correctly named to match PIDs in your metadata spreadsheet
 * Ensure image files are the final, edited copies that you would like to make public
 
-## To add a new collection to your repository:
+## Using Collections U of T Admin UI for ingest
 
-[Contact ITS](mailto:digitalinitiatives@library.utoronto.ca) with the following details:
+{: .note }
+> **For most ingests, you can consult the [Admin UI onboarding and training in Quercus](https://q.utoronto.ca/courses/429631/pages/welcome) for guidance on logging in to Admin UI and ingesting collections and items into your repository.** 
+
+## Using ITS facilitated ingest for new collections:
+
+Some ingest edge cases are not yet available in the Collections U of T Admin UI. Consult the [Known Issues page](https://q.utoronto.ca/courses/429631/pages/known-issues-in-admin-ui) for Admin UI for a list of ingest edge cases requiring ITS facilitated ingest support. For these cases, [contact ITS](mailto:digitalinitiatives@library.utoronto.ca) if you need support with ingesting a new collection. Include the following details in your email:
 
 1. Title of the collection
 2. Brief description for the collection (this will display publicly on the collection's /view/ page and be included in the collection's metadata)
@@ -37,9 +39,9 @@ permalink: /documentation/ingest-instructions
 7. Path to the directory where the images are stored (you must ensure image filenames match metadata spreadsheet filenames)
 8. Deadline for ingest to help ITS prioritize and schedule the work
 
-## To add new items to an existing collection in your repository:
+##  Using ITS facilitated ingest to add new items to an _existing_ collection in your repository:
 
-[Contact ITS](mailto:digitalinitiatives@library.utoronto.ca) with the following details:
+Similarly, if you need to add items to an existing collection and your ingest includes features not yet available in Admin UI [contact ITS](mailto:digitalinitiatives@library.utoronto.ca) with the following details:
 
 1. PID of the collection you are adding  the item(s) to (this PID should also be present in the `member_of` field in your metadata spreadsheet for any book or image items)
 2. Path to the completed and validated [metadata spreadsheet](https://utlib.github.io/collections-uoft/documentation/metadata) for the items' metadata
@@ -47,7 +49,7 @@ permalink: /documentation/ingest-instructions
 4. Path to the directory where the images are stored (you must ensure image filenames match metadata spreadsheet filenames)
 5. Deadline for ingest to help ITS prioritize and schedule the work
 
-Consult with the Collections U of T team if you need to ingest OCR text for your image files. Instructions for using transcription tools with Collections U of T IIIF manifests can also be found [here](https://utlib.github.io/collections-uoft/documentation/transcriptions-with-iiif).
+It is best to consult with the Collections U of T team if you need to ingest OCR text for your image files. Instructions for using transcription tools with Collections U of T IIIF manifests can also be found [here](https://utlib.github.io/collections-uoft/documentation/transcriptions-with-iiif).
 
 ## Collections U of T Deletion Policy
 _Last updated: March 19, 2026_
@@ -64,6 +66,4 @@ Note that Collections U of T does not yet have the [IIIF Change Discovery API en
 
 ### Can I ingest A/V file formats into Collections U of T?
 
-No, you cannot ingest A/V file formats into Collections U of T. At this time, A/V file formats can be stored in UTL's [MyMedia service](https://mymedia.library.utoronto.ca/). Once stored in MyMedia, you can use the MyMedia embed link to add the videos to basic pages for your collection. You can also ingest metadata for these files to surface in Collections U of T search. For more information about how to handle A/V digital collections, [contact us](mailto:digitalinitiatives@library.utoronto.ca). See other format support information [here](https://utlib.github.io/collections-uoft/#format-support). 
-
-**This page will be updated with self-ingest instructions when the new Collections U of T administrator user interface is launched after Spring 2026.**
+No, you cannot ingest A/V file formats into Collections U of T. At this time, A/V file formats can be stored in UTL's [MyMedia service](https://mymedia.library.utoronto.ca/). Once stored in MyMedia, you can use the MyMedia embed link to add the videos to basic pages for your collection. You can also ingest metadata for these files to surface in Collections U of T search. For more information about how to handle A/V digital collections, [contact ITS](mailto:digitalinitiatives@library.utoronto.ca). See other format support information [here](https://utlib.github.io/collections-uoft/#format-support). 
