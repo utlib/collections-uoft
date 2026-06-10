@@ -36,7 +36,7 @@ Some ingest edge cases are not yet available in the Collections U of T Admin UI.
 4. Related catalog record catkey, permalink, or any “Part of” links - i.e. corresponding Discover Archives finding aid or link to external collection website
 5. Call number, if any
 6. Path to the completed and validated [metadata spreadsheet](https://utlib.github.io/collections-uoft/documentation/metadata) for the collection's metadata and any child items (if you are including child items, indicate whether the viewing direction of the images should be right to left)
-7. Path to the directory where the images are stored (you must ensure image filenames match metadata spreadsheet filenames)
+7. Path to the directory where the images are stored if accessible to ITS. You must ensure image filenames match metadata spreadsheet filenames. If the directory where images are stored is not accessible to ITS, consult with ITS staff to try using [UTSend](https://send.utoronto.ca/) - note that max size of file transfer is 29GB.
 8. Deadline for ingest to help ITS prioritize and schedule the work
 
 ##  Using ITS facilitated ingest to add new items to an _existing_ collection in your repository:
