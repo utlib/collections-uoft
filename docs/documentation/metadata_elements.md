@@ -271,6 +271,7 @@ If adding translations for names, separate by pipe. Indicate language per name v
       * book1_0002.tiff
       * book1_0003.tiff
     * Then, in the image column for the Book-level metadata, enter the value of the prefix **only**, not the full image file name, and page image files will be ingested sequentially. Note: if you do not include page-level metadata in your spreadsheet and have to enter the prefix value in this column, you will need to update the book's thumbnail manually following ingest.
+    * This is to prevent a book-only spreadsheet (with Collection/Book object metadata but no Page metadata) from being treated as metadata-only. The Admin UI requires that the Book metadata contains the page-image prefix (e.g. F11695, matching the uploaded F11695_*.tif files) in the image column.
   * **For metadata-only items:** if you are adding metadata for items that are not yet digitized, leave blank. Upon ingest, if the image field is left blank, the system will ingest the metadata and add a "Not yet digitized" thumbnail will be added to the item ([example item](https://collections.library.utoronto.ca/view/eal3:2837)).
   * For Collection items: update the thumbnail in the Admin UI
 * **MODS Input Guidelines:** does not map
