@@ -270,12 +270,12 @@ If adding translations for names, separate by pipe. Indicate language per name v
       * book1_0001.tiff
       * book1_0002.tiff
       * book1_0003.tiff
-    * Then, in the image column for the Book-level metadata, enter either a) a single filename (e.g., book1_0001.tiff) — to be used as the book's thumbnail only and to ingest all other images with the shared prefix as Pages - or b) the shared prefix (e.g., book1) — this will add all matching images as pages of the book, using the first image as the thumbnail.
+    * Then, in the image column for the Book-level metadata, enter the value of the prefix **only**, not the full image file name, and page image files will be ingested sequentially. Note: if you do not include page-level metadata in your spreadsheet and have to enter the prefix value in this column, you will need to update the book's thumbnail manually following ingest.
   * **For metadata-only items:** if you are adding metadata for items that are not yet digitized, leave blank. Upon ingest, if the image field is left blank, the system will ingest the metadata and add a "Not yet digitized" thumbnail will be added to the item ([example item](https://collections.library.utoronto.ca/view/eal3:2837)).
   * For Collection items: update the thumbnail in the Admin UI
 * **MODS Input Guidelines:** does not map
 * **Controlled Vocabulary:** N/A
-* **Obligation:** required
+* **Obligation:** optional (do not use if metadata-only ingest)
 * **Repeatable?:** no
 
 ## issuance
@@ -725,7 +725,7 @@ _**Do not use - not included in spreadsheet template**_
 ## ocr
 **Field is under review**
 * **Data Type:** string
-* **Input Guidelines:** Enter the file path to the OCR .txt file for the digital object. 
+* **Input Guidelines:** Enter the filename of the OCR .txt file for the digital object. If you have OCR files per page you will need to include a row per Page Object in your metadata spreadsheet indicating the matching text file. 
 * **MODS Input Guidelines:** does not map
 * **Controlled Vocabulary:** none
 * **Obligation:** optional
