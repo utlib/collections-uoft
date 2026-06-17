@@ -13,7 +13,7 @@ This page provides you with details and instructions for each Collections U of T
 
 The purpose of creating Collections U of T metadata is to aid in resource description and information retrieval in the search page of Collections U of T. Metadata in Collections U of T is exportable at the item level as JSON (via IIIF manifest) and MODS xml. 
 
-The Collections U of T Metadata Profile is based on MODS xml as a result of the service's original set up in Islandora 7 multi-sites. Each multi-site originally had its own MODS-based schema. During migration off of Islandora 7 from 2020-2023, each multi-site's metadata schema was mapped into a single, normalized Collections U of T Metadata Profile. As a result, many legacy metadata elements persist in the current Collections U of T metadata profile. 
+The Collections U of T Metadata Profile is based on MODS xml as a result of the service's original set up in Islandora 7 multi-sites. Each multi-site originally had its own MODS-based schema. During 2020-2023 migration from Islandora 7 to the New Collections U of T platform, each multi-site's metadata schema was mapped into the single, normalized Collections U of T Metadata Profile outlined on this page. As a result, shared fields are normalized while some single-use legacy metadata elements persist in the current Collections U of T metadata profile. Elements still map to MODS xml aside from administrative-only metadata relevant to the Collections U of T Admin UI. Required fields are listed below. Element guildelines per field are organized alphabetically.
 
 Please contact [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) for your repository's Collections U of T metadata spreadsheet template if you do not have one. 
 
@@ -266,14 +266,15 @@ If adding translations for names, separate by pipe. Indicate language per name v
 * **Data Type:** filename
 * **Input Guidelines:**
   * **For any metadata with images:** enter the filename of your digitized image (.tiff, .tif, or .jpg). For Image and Page metadata, the full image referenced in this column will be **ingested**. For Book and Collection metadata, the image referenced in this column will be processed and used as the **thumbnail**.
-    * For spreadsheets with _only_ Book-level metadata and _no Page-level metadata_: all page image filenames should have the same unique prefix, for example:
+    * **For spreadsheets with _only_ Book-level metadata and _no Page-level metadata_:** all page image filenames should have the same unique prefix, for example:
       * book1_0001.tiff
       * book1_0002.tiff
       * book1_0003.tiff
-    * Then, in the image column for the Book-level metadata, enter the value of the prefix **only**, not the full image file name, and page image files will be ingested sequentially. Note: if you do not include page-level metadata in your spreadsheet and have to enter the prefix value in this column, you will need to update the book's thumbnail manually following ingest.
-    * This is to prevent a book-only spreadsheet (with Collection/Book object metadata but no Page metadata) from being treated as metadata-only. The Admin UI requires that the Book metadata contains the page-image prefix (e.g. F11695, matching the uploaded F11695_*.tif files) in the image column.
-  * **For metadata-only items:** if you are adding metadata for items that are not yet digitized, leave blank. Upon ingest, if the image field is left blank, the system will ingest the metadata and add a "Not yet digitized" thumbnail will be added to the item ([example item](https://collections.library.utoronto.ca/view/eal3:2837)).
-  * For Collection items: update the thumbnail in the Admin UI
+    * After confirming all page file names share the same prefix, enter the value of the prefix **only** (not the full image file name) into the image column for any rows of Book-level metadata in your spreadsheet. Upon ingest, you can drag and drop all page image files into the upload screen. Pages will then be ingested sequentially based on matching the prefix in the Book-level metadata image column to the prefix in the page item filenames (e.g. if the Book metadata has a value of 'F11695' in its image colmun, the ingest will match and uploaded 'F11695_*.tif' files as being the Page objects to be ingested for the Book).
+    * Note: if your spreadsheet does not include page-level metadata and you use this prefix ingest work flow in your spreadsheet then please be aware you will need to update the book's thumbnail manually following ingest.
+    * This work flow is to _prevent_ any spreadsheet ingest containing only Book-level metadata (and no Page metadata) from being ingested as metadata-only.
+  * **For metadata-only items:** if you are adding metadata for items that are not yet digitized, leave the image column blank. Upon ingest, if the image field is left blank, the system will ingest the metadata and add a "Not yet digitized" thumbnail will be added to the item ([example item](https://collections.library.utoronto.ca/view/eal3:2837)).
+  * For Collection items: update the thumbnail in the Admin UI or include the thumbnail image in your spreadsheet.
 * **MODS Input Guidelines:** does not map
 * **Controlled Vocabulary:** N/A
 * **Obligation:** optional (do not use if metadata-only ingest)
