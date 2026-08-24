@@ -99,6 +99,10 @@ Please also note the following Collections U of T screenshots are outdated and r
 
 14\. Contact digitalinitiatives@library.utoronto.ca when you are ready to export your From The Page transcriptions for ingest and display into Collections U of T.
 
+### Importing Internet Archive IIIF Manifests into From The Page
+
+In addition to Collections U of T IIIF Manifests, you can also use IIIF Manifests hosted by the Internet Archive. See [https://iiif.io/guides/guides/archive.org/](https://iiif.io/guides/guides/archive.org/) for more information.
+
 #### [Documentation made with Scribe](https://scribehow.com)
 
 ## Other Tools
