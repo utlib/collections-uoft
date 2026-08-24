@@ -23,8 +23,19 @@ As example, the Thomas Fisher Rare Book Library has purchased a From The Page me
 
 Other collection owners are encouraged to assess if From The Page meets their use case and context. From The Page offers trial accounts for testing.
 
+### Setting up From The Page
+
+The existing [https://fromthepage.com/utl](https://fromthepage.com/utl) subscription is currently for use by Fisher and UTARMS. If staff from these units would like to set up a new From The Page Collection, consult with the From The Page service manager (Liz Ridolfo on research leave from 2026-2027) or email [digitalinitiatives@library.utoronto.ca](mailto:digitalinitiatives@library.utoronto.ca) for support. Note that the UTL From The Page subscription has an upload limit for the number of pages added. 
+
+After confirming your new collection with the service manager or through the digitalinitiatives@library.utoronto.ca email, you can create a new From The Page user account. Then, ask the service manager or digitalinitiatives@library.utoronto.ca to set up your new From The Page Collection and add your user account as an owner. After this, you will be able to add items for transcription via the item's IIIF manifest.
+
+You can read more within the From The Page documentation on [User Roles](https://content.fromthepage.com/project-owner-documentation/user-roles/) and [Adding Staff to From The Page Collections](https://content.fromthepage.com/project-owner-documentation/adding-staff-members-to-a-project/).
+
 ### Importing Collections U of T IIIF manifests into From The Page for transcription
 
+Note: you can also consult From The Page documentation on [Importing via IIIF](https://content.fromthepage.com/project-owner-documentation/importing-from-a-iiif-manifest/).
+
+Please also note the following Collections U of T screenshots are outdated and require updating:
 
 1\. Navigate to the collection of the object you would like to transcribe - i.e. <[https://collections.library.utoronto.ca/view/fisher2:F8597](https://collections-frontend-dev.library.utoronto.ca/view/fisher2:F8597)> or find the object you want to add to From The Page and click on it.
 
@@ -86,7 +97,7 @@ Other collection owners are encouraged to assess if From The Page meets their us
 13\. And you will see the IIIF manifest imported into From The Page for you to begin transcription! Transcription guideline suggestions can be provided by your supervisor or the department/library/archives who care for the collection. 
 
 
-14\. Contact digitalinitiatives@library.utoronto.ca when you are ready to add your From The Page transcriptions into Collections U of T.
+14\. Contact digitalinitiatives@library.utoronto.ca when you are ready to export your From The Page transcriptions for ingest and display into Collections U of T.
 
 #### [Documentation made with Scribe](https://scribehow.com)
 
