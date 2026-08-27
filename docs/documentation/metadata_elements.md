@@ -725,9 +725,9 @@ _**Do not use - not included in spreadsheet template**_
 * **Repeatable?:** no
 
 ## ocr
-**Field is under review**
-* **Data Type:** string
-* **Input Guidelines:** Enter the filename of the OCR .txt file for the digital object. If you have OCR files per page you will need to include a row per Page Object in your metadata spreadsheet indicating the matching text file. 
+_**Note: Do not include the ocr actual text/transcription in this column! Use it only to reference a .txt file you want to ingest. Refer to [Admin UI staff documentation](https://q.utoronto.ca/courses/429631/pages/welcome) (external link) for help ingesting text (ocr, htr, transcription) as .txt files alongside images.**_
+* **Data Type:** string (filename)
+* **Input Guidelines:** Enter the **filename** of the OCR .txt file for the digital object. If you have OCR files per page you will need to include a row per Page Object in your metadata spreadsheet indicating the matching text file. 
 * **MODS Input Guidelines:** does not map
 * **Controlled Vocabulary:** none
 * **Obligation:** optional
