@@ -432,6 +432,7 @@ _See MODS Guidelines for explanation of each term._
   * If multiple place names, enter a corresponding code per place. Separate codes with pipes and order them in the same order that place names appear in PlaceTerm_Text, ideally, but any code will also generate an internal MarkLogic placeTermTextFacet field which will automatically store the [https://www.loc.gov/marc/countries/countries_code.html](https://www.loc.gov/marc/countries/countries_code.html) value and display it as a facet
   * Codes are managed in https://git.library.utoronto.ca/utl-its/digital-collections/collections-lookup/-/blob/main/src/__generated__/countryCodes.js
   * Invalid placeterm_code will result in an ingest validation error.
+  * If you are entering a country or other term in place_term_text that has no corresponding value in [https://www.loc.gov/marc/countries/countries_code.html](https://www.loc.gov/marc/countries/countries_code.html) then use the code "vp", which will appear in your search facets list as "Various places" but will display the place_term_text in your metadata display.
 
 * **MODS Input Guidelines:** [https://www.loc.gov/standards/mods/userguide/origininfo.html#placeterm](https://www.loc.gov/standards/mods/userguide/origininfo.html#placeterm)
 * **Controlled Vocabulary:** [https://www.loc.gov/marc/countries/countries_code.html](https://www.loc.gov/marc/countries/countries_code.html)
